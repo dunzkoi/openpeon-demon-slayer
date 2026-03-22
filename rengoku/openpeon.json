@@ -19,10 +19,6 @@
           "sha256": "cc23372888f906ddb5c49b493e805675ea7191e8742864d60aa1c5d6b796bfbc"
         },
         {
-          "file": "sounds/rengoku.mp3",
-          "label": "Rengoku (등장)"
-        },
-        {
           "file": "sounds/rengoku-laugh.mp3",
           "label": "Rengoku laugh (웃음)",
           "sha256": "a6ec0a5f9616d70c26b3a9264b8545256c532d085618ab5ff4a2594ff1dcbce5"
@@ -47,21 +43,9 @@
           "sha256": "20373ab18b5b78cd9c07d7172feaa92769121521dbc008ca3770fb9b17568a3d"
         },
         {
-          "file": "sounds/rengoku-1st-form.mp3",
-          "label": "1st Form (염의 호흡 일형)"
-        },
-        {
-          "file": "sounds/rengoku-2nd-form.mp3",
-          "label": "2nd Form (염의 호흡 이형)"
-        },
-        {
           "file": "sounds/rengoku-badass.mp3",
           "label": "Rengoku badass (완료)",
           "sha256": "a9b3cbd6ac7b654e35bda0ef15717d710be7184ba788e3058a469fe99b1b1e1e"
-        },
-        {
-          "file": "sounds/rengoku-onbashira.mp3",
-          "label": "Ore wa Enbashira (나는 염주)"
         },
         {
           "file": "sounds/rengoku-02.mp3",
@@ -76,10 +60,6 @@
           "file": "sounds/rengoku-threat.mp3",
           "label": "Rengoku threat (위협)",
           "sha256": "38c7bdd71c7730c009f88b8c12f467214895947e766c63b30b1f62a8aba27bbb"
-        },
-        {
-          "file": "sounds/rengoku-3rd-form.mp3",
-          "label": "3rd Form (염의 호흡 삼형)"
         },
         {
           "file": "sounds/rengoku-orewa2.mp3",

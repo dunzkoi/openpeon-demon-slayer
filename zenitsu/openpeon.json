@@ -52,10 +52,6 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/tmpsg_67wry.mp3",
-          "label": "Zenitsu panic (패닉)"
-        },
-        {
           "file": "sounds/zenitsu-aniki.mp3",
           "label": "Aniki! (형!)",
           "sha256": "3092c125ffca87893f53961cc6130be448a1bc9134547aacc3ffe7b1b5ef4412"

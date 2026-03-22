@@ -14,10 +14,6 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/tengen-orewa.mp3",
-          "label": "Ore wa Tengen (등장)"
-        },
-        {
           "file": "sounds/tengen-nanda.mp3",
           "label": "Nanda? (뭐야?)",
           "sha256": "a0566f41b26dc71ddfa56d192c8f080a3eae4ee5c5867d635035796e077a429c"
@@ -73,10 +69,6 @@
           "file": "sounds/tengen-nani.mp3",
           "label": "Nani? (뭐?)",
           "sha256": "78031847df95421ee36e4f2e9e5ead8e9ea8da247ebfdae204477265cc117030"
-        },
-        {
-          "file": "sounds/tengen-voice5.mp3",
-          "label": "Tengen voice 5 (확인 필요)"
         }
       ]
     }

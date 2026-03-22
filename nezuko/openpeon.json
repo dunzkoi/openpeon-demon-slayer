@@ -43,10 +43,6 @@
           "sha256": "9ed4c2035cc52ba5c33c7201b1e6d13aff4c9faedb07304c5bb60021d192cece"
         },
         {
-          "file": "sounds/nezuko-chaaan.mp3",
-          "label": "Nezuko-chaaan! (완료)"
-        },
-        {
           "file": "sounds/nezukoooooooo.mp3",
           "label": "Nezukooooo! (대성공)",
           "sha256": "d3ed9b4f8008d7f42a31d592bbb2d6dec5895061324cff35020ac373a7345df0"
@@ -93,10 +89,6 @@
           "file": "sounds/nezuko-chan-notification-ringtone.mp3",
           "label": "Notification (알림)",
           "sha256": "6dce0cafd37a57bc7af3b8145eb69503ea1e71122ac6ba982234b2d5a393e060"
-        },
-        {
-          "file": "sounds/nezuko-chan-zenitsu.mp3",
-          "label": "Nezuko-chan! by Zenitsu (주의)"
         },
         {
           "file": "sounds/tmpbyyr8grt.mp3",
