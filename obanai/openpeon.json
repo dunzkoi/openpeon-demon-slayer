@@ -14,12 +14,12 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/obanai-intro.mp3",
+          "file": "sounds/intro.mp3",
           "label": "Obanai intro (등장)",
           "sha256": "acffa5ea9cc1906f5561a6620cb535d8ddd5c98b0acbf8dbe87cbe966028528f"
         },
         {
-          "file": "sounds/obanai-pt-1.mp3",
+          "file": "sounds/pt-1.mp3",
           "label": "Obanai voice pt1 (인사)",
           "sha256": "d634e106b8f2b3d8e6ecfa1d960f3a71282421cd772eeb11406d10b599eda657"
         }
@@ -28,7 +28,7 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/obanai-voice1.mp3",
+          "file": "sounds/fuu-n-roku-ne.mp3",
           "label": "Obanai voice 1 (등장)",
           "sha256": "66ed0cdee3cb6c33d4e49a81f7cfc69fb9baf9f261467ec5bd52264fcacc8192"
         }
@@ -37,17 +37,17 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/obanai-pt-2.mp3",
+          "file": "sounds/pt-2.mp3",
           "label": "Obanai voice pt2 (완료)",
           "sha256": "c7eec8e1c404a1d3949db8fb5e961a922a225857e40dd675e6aefe1a4008108e"
         },
         {
-          "file": "sounds/obanai-pt-3.mp3",
+          "file": "sounds/pt-3.mp3",
           "label": "Obanai voice pt3 (완료)",
           "sha256": "8055d020c7d313c6662f8a23f19fe2c1fbcdd3cb16c9dbfa28bc6a6df887c4ca"
         },
         {
-          "file": "sounds/obanai-voice2.mp3",
+          "file": "sounds/jougen-taoshita.mp3",
           "label": "Obanai voice 2 (완료)",
           "sha256": "e2dc9bcf33b1e881d81e3703a4b52e562f0f1dedfb8833f428fa5e22b773003a"
         }
@@ -56,22 +56,22 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/obanai-pt-4.mp3",
+          "file": "sounds/pt-4.mp3",
           "label": "Obanai voice pt4 (분노)",
           "sha256": "d6b2a8cabc675cfd154ce89040feff285459555b4e9df62cfe88a74d609b2f3f"
         },
         {
-          "file": "sounds/obanai-ep11-pt-1.mp3",
+          "file": "sounds/ep11-pt-1.mp3",
           "label": "Obanai EP11 pt1 (에러)",
           "sha256": "b0d1304adc541a2ab8c70bb4bb1b8956997580754f638a9735f869f3ac33da79"
         },
         {
-          "file": "sounds/obanai-voice3.mp3",
+          "file": "sounds/roku-daga-na.mp3",
           "label": "Obanai voice 3 (에러)",
           "sha256": "17c9fc1ee396b214b1d5b94fbdd926b6c30cc58b10ec21901e6bb586251d1517"
         },
         {
-          "file": "sounds/obanai-voice4.mp3",
+          "file": "sounds/homete-yatte-mo-ii.mp3",
           "label": "Obanai voice 4 (에러)",
           "sha256": "9a64098136e14c640dac2537bf25be7cadc065922686ea7117f069da5b38de99"
         }
@@ -80,27 +80,27 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/obanai-ep11-pt-2.mp3",
+          "file": "sounds/ep11-pt-2.mp3",
           "label": "Obanai EP11 pt2 (확인)",
           "sha256": "a419145d9e5bfeedea7d3666cb5793b2beb4ce9920aa91aa55febcaf859effd8"
         },
         {
-          "file": "sounds/obanai-ep11-pt-3.mp3",
+          "file": "sounds/ep11-pt-3.mp3",
           "label": "Obanai EP11 pt3 (확인 필요)",
           "sha256": "03490f8ca347d6eef193f261fbe6bcb325ff26a274db5379e4cc7b5d984b9b4b"
         },
         {
-          "file": "sounds/obanai-voice5.mp3",
+          "file": "sounds/hidarite-ushinatte.mp3",
           "label": "Obanai voice 5 (알림)",
           "sha256": "789ebc6e61dbd020a9b486e2e957a57f22343a4cac0e279a955c6d77b6af04a4"
         },
         {
-          "file": "sounds/obanai-voice6.mp3",
+          "file": "sounds/ana-ume-dare-ga.mp3",
           "label": "Obanai voice 6 (알림)",
           "sha256": "89ec71e5df06a986b1aec5fd38fa80fa0d8e35ff1aa5a36e42795a925e62eb4c"
         },
         {
-          "file": "sounds/obanai-voice7.mp3",
+          "file": "sounds/fuzakeru-na.mp3",
           "label": "Obanai voice 7 (확인)",
           "sha256": "0b804c282868257fb1eeae9b9649d60e96b1514f22b736edabc97b98ea6ddc80"
         }
@@ -109,7 +109,7 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/obanai-voice8.mp3",
+          "file": "sounds/shine-made-tatakae.mp3",
           "label": "Obanai voice 8 (확인)",
           "sha256": "dc073e26d3e5cd185b7f7f1491c0ab738da519f6dd64905f8d696d6ae23f462e"
         }

@@ -14,12 +14,12 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/shinobu-moshi-moshiiiiii.mp3",
+          "file": "sounds/moshi-moshiiiiii.mp3",
           "label": "Moshi moshiii~ (인사)",
           "sha256": "48bc618606af891227389ebf3fc350fe163da3d2f4f6c82b31a5ad2d4281e4c6"
         },
         {
-          "file": "sounds/shinobu-02.mp3",
+          "file": "sounds/kawaisou-ni.mp3",
           "label": "Shinobu YT02 (등장)",
           "sha256": "41b78022b4339cfc49c3173061e27ec80e20341144f9984df4486dad32991820"
         }
@@ -37,7 +37,7 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/shinobu-03.mp3",
+          "file": "sounds/nantoka-osshattara.mp3",
           "label": "Shinobu YT03 (완료)",
           "sha256": "f9fd888bff2a3a1f03eae15abf7f457da3302e2800fe70f98ce4848f26153b9c"
         }
@@ -46,12 +46,12 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/shinobu-05.mp3",
+          "file": "sounds/konnichiwa-ara-ara.mp3",
           "label": "Shinobu YT05 (에러)",
           "sha256": "9ee0aee65113cc9abf79a38c81298c4cc5c1109856cc39f6035a13666d6639b3"
         },
         {
-          "file": "sounds/shinobu-06.mp3",
+          "file": "sounds/dekite-touzen.mp3",
           "label": "Shinobu YT06 (에러)",
           "sha256": "cafd775860d917f704fce0b8fd81efa95d14067154fc911c3ad5bf84085659ff"
         }
@@ -65,7 +65,7 @@
           "sha256": "8b1c2f44d414c60783593c9c49faebc42570e46b18c91b5b1956130d620fea98"
         },
         {
-          "file": "sounds/tmpao9kbv5a.mp3",
+          "file": "sounds/ara-ara-sayounara.mp3",
           "label": "Shinobu attention (확인)",
           "sha256": "50b92751c703e5bb0882da3f4607c83b9ee3ba7921a97360ae5cd8bde4ffe80e"
         }
@@ -74,7 +74,7 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/shinobu-07.mp3",
+          "file": "sounds/ouen-shitemasu.mp3",
           "label": "Shinobu YT07 (확인)",
           "sha256": "b553bf3dfb3f15a54cfcdac353f4de5a1b93b70a8eb94627e94130a61a6d8f74"
         }

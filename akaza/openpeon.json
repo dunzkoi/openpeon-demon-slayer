@@ -14,12 +14,12 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/akaza-donooo.mp3",
+          "file": "sounds/donooo.mp3",
           "label": "Akaza DONOOO! (등장)",
           "sha256": "872b3255f100f945d6b8a274c8abc6219adedd207648d99077e661fa94f6bea9"
         },
         {
-          "file": "sounds/akaza-voice-pt-1.mp3",
+          "file": "sounds/motto-tatakaou.mp3",
           "label": "Akaza voice pt1 (시작)",
           "sha256": "bba9dbbfa1ed6ab97270154144d626d618a980c8ad9bd133b2e76cdc7f9dbb36"
         }
@@ -28,7 +28,7 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/akaza-01.mp3",
+          "file": "sounds/oni-ni-nare.mp3",
           "label": "Akaza YT01 (등장)",
           "sha256": "366471238d53d6f538aa9f3eb1f6428f7f0cba35c0e0a9e2eb9cdfae1b775222"
         }
@@ -37,17 +37,17 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/akaza-voice-pt-2.mp3",
+          "file": "sounds/torikaeshi-tsukanai.mp3",
           "label": "Akaza voice pt2 (승리)",
           "sha256": "0881bb0159c5f0d0e52e8bd85a7054c0bda7d2e8e4274e586a0b759c38879c1a"
         },
         {
-          "file": "sounds/akaza-02.mp3",
+          "file": "sounds/buchi-korosu.mp3",
           "label": "Akaza YT02 (완료)",
           "sha256": "d97ffd42892992129c8691c835bcd42e2991936099f8b3d378fa6fbf1d0efe02"
         },
         {
-          "file": "sounds/akaza-03.mp3",
+          "file": "sounds/tanin-no-imouto.mp3",
           "label": "Akaza YT03 (완료)",
           "sha256": "5985a1a68b1e4cf2e4b5a1ca5c0bac397339588801cd53f3bd9f0bd530e1efd3"
         }
@@ -56,12 +56,12 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/akaza-voice-pt-3.mp3",
+          "file": "sounds/ningen-de-wa.mp3",
           "label": "Akaza voice pt3 (분노)",
           "sha256": "011bead49a650e32591dc8fdfe62c498ea5281bca6744aa2a6cdbc0147003b44"
         },
         {
-          "file": "sounds/akaza-20.mp3",
+          "file": "sounds/yuuhi.mp3",
           "label": "Akaza YT20 (분노)",
           "sha256": "95be37263837bdcef2afccd1aa2f7750ebc75c71d0ad5941c7f0550a9d860636"
         }
@@ -70,7 +70,7 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/akaza-kokushibo.mp3",
+          "file": "sounds/ooo.mp3",
           "label": "Akaza & Kokushibo (주의)",
           "sha256": "69b78be7134d93f18b6fb8f516f0a90074a0f4727a8f5c7054b27d90fd3b935d"
         }
@@ -79,7 +79,7 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/akaza-21.mp3",
+          "file": "sounds/goshichou-arigatou.mp3",
           "label": "Akaza YT21 (분노)",
           "sha256": "895499165984de1a7c8ce6a8196391607befb6579ec02da574cbf66c0b35c06c"
         }

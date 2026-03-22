@@ -14,7 +14,7 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/gyomei-voice1.mp3",
+          "file": "sounds/subarashii-kodomo.mp3",
           "label": "Gyomei voice 1 (등장)",
           "sha256": "5afd917845a6ef4f37290726394a23c202d51936834afcec9de5b7f04cf0e568"
         }
@@ -23,7 +23,7 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/gyomei-voice2.mp3",
+          "file": "sounds/umarete-kita-kawaisou.mp3",
           "label": "Gyomei voice 2 (인사)",
           "sha256": "6b93369f9fbffd5016e71ae223e3305544757709bf871680192810a3289132cf"
         }
@@ -32,12 +32,12 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/gyomei-voice3.mp3",
+          "file": "sounds/oni-ni-torikarete.mp3",
           "label": "Gyomei voice 3 (완료)",
           "sha256": "0a2b32fec7d39352230eddcaa5862231afc808640adc96b03f447ce628ab0ed4"
         },
         {
-          "file": "sounds/gyomei-voice4.mp3",
+          "file": "sounds/kodomo-wo-korose.mp3",
           "label": "Gyomei voice 4 (완료)",
           "sha256": "98c216e7b93b9059bdae5560c8c12a6c2675668836761e6f6014c298ab50f5de"
         }
@@ -46,7 +46,7 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/gyomei-voice5.mp3",
+          "file": "sounds/shouchi-shikaneru.mp3",
           "label": "Gyomei voice 5 (슬픔)",
           "sha256": "982b60e83533484dd06fe7c3fc8ff23fb50a4885657a96a0c2b7183e9e4ec6d1"
         }
@@ -55,7 +55,7 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/gyomei-voice7.mp3",
+          "file": "sounds/zansetsu-sareta.mp3",
           "label": "Gyomei voice 7 (확인 필요)",
           "sha256": "c36066441e80e795522bf542145968c23ba03adda23a86bd42daad69dcfb55d2"
         }
@@ -64,7 +64,7 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/gyomei-voice6.mp3",
+          "file": "sounds/namuamidabutsu.mp3",
           "label": "Gyomei voice 6 (에러)",
           "sha256": "6c866803ec8552453e43f7695d988c6fd16642212067a617f86eaa6026538dd8"
         }

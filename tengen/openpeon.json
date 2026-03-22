@@ -14,12 +14,12 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/tengen-nanda.mp3",
+          "file": "sounds/nanda.mp3",
           "label": "Nanda? (뭐야?)",
           "sha256": "c7db0e8108de6e4df4e0394bf5695c0748eef9449088e238be5a1182fd811dac"
         },
         {
-          "file": "sounds/tengen-voice1.mp3",
+          "file": "sounds/jimi-ni-hipparu-na.mp3",
           "label": "Tengen voice 1 (등장)",
           "sha256": "5d69f4e235a9bcab98215be1e4760260b9867ad2874ab7dabcc4a928b24cba94"
         }
@@ -28,7 +28,7 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/tengen-voice3.mp3",
+          "file": "sounds/nandemo-iu-koto-kiku.mp3",
           "label": "Tengen voice 3 (완료)",
           "sha256": "955f93ceb90f007afb5573cfc757fa4115505de77c1528b44a016dd2a01ceb0e"
         }
@@ -37,12 +37,12 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/tengen-badass.mp3",
+          "file": "sounds/badass.mp3",
           "label": "Tengen badass (완료)",
           "sha256": "c764f5ba1f86b8fac867903239f6fccc9d771c8ad6a5e380565a92cc393b3927"
         },
         {
-          "file": "sounds/tengen-voice2.mp3",
+          "file": "sounds/gudaguda-shiteru.mp3",
           "label": "Tengen voice 2 (완료)",
           "sha256": "d4f9dcaf08302367c2b1e596cb372a355c08ad09b87e31d6fc3f2cc507fa4d74"
         }
@@ -51,12 +51,12 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/tengen-urusei.mp3",
+          "file": "sounds/urusei.mp3",
           "label": "Urusei! (시끄러!)",
           "sha256": "c10c0b9c943684933f838ac926ee3828f8b6f676f3094d3490279128255b23e6"
         },
         {
-          "file": "sounds/tengen-baca.mp3",
+          "file": "sounds/baca.mp3",
           "label": "Baka! (바보!)",
           "sha256": "1a93d276cd78eeafabdb406036a51530319a353e3244c8827ac6c9afa4096317"
         }
@@ -65,7 +65,7 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/tengen-nani.mp3",
+          "file": "sounds/nani.mp3",
           "label": "Nani? (뭐?)",
           "sha256": "c863b5d5b240cc4abb7d8855884831ee7cb78082c9f50ac41fdceaa4dbcce618"
         }
@@ -74,7 +74,7 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/tengen-voice4.mp3",
+          "file": "sounds/ikiteru-yatsu-kachi.mp3",
           "label": "Tengen voice 4 (에러)",
           "sha256": "8f7c754f6d00880b2fc91778b87d06afb3d94e5001b3cd5079a010024e124dda"
         }

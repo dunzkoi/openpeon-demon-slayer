@@ -14,7 +14,7 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/mitsuri-voice1.mp3",
+          "file": "sounds/yada-tecchin.mp3",
           "label": "Mitsuri voice 1 (등장)",
           "sha256": "e706a9497d8c5e4cd907302255ceb7a5f4adc3bdd7e016b64fe2e7322ee01041"
         }
@@ -23,7 +23,7 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/mitsuri-voice2.mp3",
+          "file": "sounds/shinobu-chan-kakkoii.mp3",
           "label": "Mitsuri voice 2 (인사)",
           "sha256": "a5aa0065afcaa9af0c7dcd5b80adc8ff2d1dcf01400583ec80428b573f55d01e"
         }
@@ -32,7 +32,7 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/mitsuri-voice3.mp3",
+          "file": "sounds/ganbarishou.mp3",
           "label": "Mitsuri voice 3 (완료)",
           "sha256": "5a154cc5eced68fcbab895969096b449828502d6048a12a3cf12fc7f3f0926a7"
         }
@@ -41,7 +41,7 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/mitsuri-voice5.mp3",
+          "file": "sounds/himitsu-no-buki.mp3",
           "label": "Mitsuri voice 5 (에러)",
           "sha256": "358bf52ddd4ad7d9375001f23c1d3e450b21177bb9d1e22038c93d4d4e33d5b1"
         }
@@ -50,7 +50,7 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/mitsuri-voice6.mp3",
+          "file": "sounds/koi-no-kokyuu-1.mp3",
           "label": "Mitsuri voice 6 (확인 필요)",
           "sha256": "06cb7c5d6bac064c2f16a17b5028ced4befe373aff971aaa3a6b96ea01c0220b"
         }
@@ -59,7 +59,7 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/mitsuri-voice4.mp3",
+          "file": "sounds/koi-no-kokyuu-5.mp3",
           "label": "Mitsuri voice 4 (기쁨)",
           "sha256": "ae9e669f94611e170c47618b047ae07314df8d2d932c53291676c2bcbe2b53ba"
         }

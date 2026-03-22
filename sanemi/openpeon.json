@@ -23,7 +23,7 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/sanemi-voice1.mp3",
+          "file": "sounds/omoshiroi.mp3",
           "label": "Sanemi voice 1 (등장)",
           "sha256": "f9251636db73bf1ad9dbdb75a5026813937e31f88e3b951ac1366b329112ba1a"
         }
@@ -37,7 +37,7 @@
           "sha256": "35a2610fd28114db3f8a0ba6ea1c7062dcdef651d6f3a47049ecc9d2e843481e"
         },
         {
-          "file": "sounds/sanemi-voice2.mp3",
+          "file": "sounds/oni-wo-tsureta-baka.mp3",
           "label": "Sanemi voice 2 (완료)",
           "sha256": "bf87838cb8956ae8c8f3dfb432190107d344a4278db56f7b48f3a27252a260cd"
         }
@@ -46,7 +46,7 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/sanemi-voice3.mp3",
+          "file": "sounds/arienee.mp3",
           "label": "Sanemi voice 3 (분노)",
           "sha256": "bc26819365463ccf7fbca449ca2df8bc353e61778119b97e2b9aaad85a89556a"
         }
@@ -55,7 +55,7 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/sanemi-voice5.mp3",
+          "file": "sounds/oni-domo-metsumetsu.mp3",
           "label": "Sanemi voice 5 (확인 필요)",
           "sha256": "a04fa46b6ffeab5f0b6b93c25cb72d151a4dbc3dad01f802dfb434ff98bad9f9"
         }
@@ -64,7 +64,7 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/sanemi-voice4.mp3",
+          "file": "sounds/shaneeee.mp3",
           "label": "Sanemi voice 4 (에러)",
           "sha256": "57dcc8c307b4ee818dce00ce3dc2c6a55bb42983ac4ea191e6be7c19dc33d6da"
         }

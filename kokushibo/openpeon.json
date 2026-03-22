@@ -14,7 +14,7 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/kokushibo-01.mp3",
+          "file": "sounds/watashi-wa-koko.mp3",
           "label": "Kokushibo voice 01 (등장)",
           "sha256": "c7c7e67d75b3ca086b479aa6442770aeae207aad910afd2986c68fa684d99957"
         }
@@ -23,7 +23,7 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/kokushibo-02.mp3",
+          "file": "sounds/muzan-sama.mp3",
           "label": "Kokushibo voice 02 (등장)",
           "sha256": "f7b139ea1ad1513ddf3f46f975f7d3cada3982eb400c2c888fd320dc0fe00f93"
         }
@@ -32,12 +32,12 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/kokushibo-04.mp3",
+          "file": "sounds/sugata-wo-kakushite.mp3",
           "label": "Kokushibo voice 04 (완료)",
           "sha256": "acadca06ac5699c3d271419126b1333546921e8b6ed4946c35094c67bde9da2f"
         },
         {
-          "file": "sounds/kokushibo-05.mp3",
+          "file": "sounds/omae-no-tame-ja-nai.mp3",
           "label": "Kokushibo voice 05 (완료)",
           "sha256": "cd1cfa90c560ea6221e90a9d19406287ece28a22a3bd8fb16a8f59e548c7fb02"
         }
@@ -46,7 +46,7 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/kokushibo-06.mp3",
+          "file": "sounds/kaesu-kotoba-2.mp3",
           "label": "Kokushibo voice 06 (에러)",
           "sha256": "646a1d0158d077e431e367b3cdd8a641b60e65148c91492549e35d29a723cc25"
         }
@@ -55,7 +55,7 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/kokushibo-03.mp3",
+          "file": "sounds/kaesu-kotoba-mo-nai.mp3",
           "label": "Kokushibo voice 03 (알림)",
           "sha256": "533ce6ee33819be876b5169839bf84d35f5b052d50e71e1440426e70fc880463"
         }
@@ -64,7 +64,7 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/kokushibo-07.mp3",
+          "file": "sounds/omae-wa-sugi.mp3",
           "label": "Kokushibo voice 07 (알림)",
           "sha256": "c093d53b3e25e99fec5f5da3bc255610bca4142e6c650325d6f3f665a06cdc0b"
         }

@@ -14,17 +14,17 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/nezuko-yes.mp3",
+          "file": "sounds/yes.mp3",
           "label": "Nezuko yes! (응!)",
           "sha256": "8fb1cba7b52841f8722efc6d92be52294208a6bbe4fd487158763686c83dbeef"
         },
         {
-          "file": "sounds/nezuko-cute.mp3",
+          "file": "sounds/cute.mp3",
           "label": "Nezuko cute (귀여운 인사)",
           "sha256": "6830d94484e3af7ad50b33f93299d1f102a0e2e0206c5d7d8dc9eb43f49e5fe1"
         },
         {
-          "file": "sounds/nezuko-happy-giggle.mp3",
+          "file": "sounds/happy-giggle.mp3",
           "label": "Nezuko giggle (기쁜 웃음)",
           "sha256": "f82ab046024ca356c85323a54cd16f0e0f657e3f78e96eb37cff6362cb15154c"
         }
@@ -33,7 +33,7 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/nezuko-01.mp3",
+          "file": "sounds/ohayou-oniichan.mp3",
           "label": "Nezuko YT01 (등장)",
           "sha256": "39d6317c4d196fafd2be67494907606ec46c74e1c4f4989c80cd53a08da473b0"
         }
@@ -42,7 +42,7 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/nezuko-chaaaaan.mp3",
+          "file": "sounds/chan.mp3",
           "label": "Nezuko-chan! (완료)",
           "sha256": "fb0c79156659a5ea76f888215464d82d4ef02840ed68347ef69473926924d159"
         },
@@ -52,7 +52,7 @@
           "sha256": "afd7b721b0d4ed4830cb7e952ae2706300caebdea5d79a8aeb3722d965fb3887"
         },
         {
-          "file": "sounds/nezuko-chan-ringtones.mp3",
+          "file": "sounds/chan-ringtones.mp3",
           "label": "Nezuko-chan ringtone (완료 알림)",
           "sha256": "7db02d3d707d17984b24144b15cdfdc1bdd6927e92a9a2f79aceaa496802248d"
         }
@@ -61,17 +61,17 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/nezuko-growl.mp3",
+          "file": "sounds/growl.mp3",
           "label": "Nezuko growl (으르렁)",
           "sha256": "d4840bb770f3a1da60d2224ce06cef34314f8f7d2d94ab88d45bfe56f4f9cf76"
         },
         {
-          "file": "sounds/nezuko-pout.mp3",
+          "file": "sounds/pout.mp3",
           "label": "Nezuko pout (삐짐)",
           "sha256": "4c2c5ba66673eeae3bee7d6fe3a933d29e6256ebb0839e8f7464ea8400003daa"
         },
         {
-          "file": "sounds/tmpoub7pz0z.mp3",
+          "file": "sounds/neisukoccha.mp3",
           "label": "Nezuko upset (속상)",
           "sha256": "319e95af4839914657535b9bfb7d4a63b3570c04660598a8a56129a2314490b6"
         }
@@ -80,17 +80,17 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/nezuko-curious.mp3",
+          "file": "sounds/curious.mp3",
           "label": "Nezuko curious (궁금)",
           "sha256": "de9441c6cda22bb458568c7a38d5a1708786bf27f0b603342113a2ccb8966e0d"
         },
         {
-          "file": "sounds/nezuko-chan-notification-ringtone.mp3",
+          "file": "sounds/chan-notification-ringtone.mp3",
           "label": "Notification (알림)",
           "sha256": "fb965680d5eaa431057b40d574fbedbeeca1bcb2be090aba2dba61b7c2f4312f"
         },
         {
-          "file": "sounds/tmpbyyr8grt.mp3",
+          "file": "sounds/nn-nn-nn.mp3",
           "label": "Nezuko hmm (확인 필요)",
           "sha256": "7b2c9e77afaf25e55a06a6f97079b85c510b5e4c6b8cb3ebc6120cdd14034322"
         }
@@ -99,7 +99,7 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/nezuko-20.mp3",
+          "file": "sounds/nani-ima.mp3",
           "label": "Nezuko YT20 (에러)",
           "sha256": "58cb5e0a93b8741c17de0f2ab5d8adb99acb63f3df03fa3ace58041a054dd832"
         }

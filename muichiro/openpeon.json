@@ -14,12 +14,12 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/muichiro.mp3",
+          "file": "sounds/kasumi-no-kokyuu-7.mp3",
           "label": "Muichiro (등장)",
           "sha256": "9734dd05363828872fe5a32f60d90a7d13860bf48ca8eefa47cb50571bb7a26b"
         },
         {
-          "file": "sounds/muichiro-tokito.mp3",
+          "file": "sounds/tokito.mp3",
           "label": "Muichiro Tokito (등장)",
           "sha256": "eb105728946f2e730c35a69341095311bbffead2f829762d4cca90a7831b261a"
         }
@@ -28,7 +28,7 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/muichiro-06.mp3",
+          "file": "sounds/kudaranai-koto.mp3",
           "label": "Muichiro voice 06 (수락)",
           "sha256": "5153457e0848048ad039212e687f6fad62d3fc83bad6932f512e76456165d78e"
         }
@@ -37,12 +37,12 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/muichiro-tokito-1.mp3",
+          "file": "sounds/tokito-1.mp3",
           "label": "Muichiro Tokito (완료)",
           "sha256": "467ff32def93961f57d178662a2c3f5c63b9fd4b93b5391ae843c479a6739cd7"
         },
         {
-          "file": "sounds/muichiro-07.mp3",
+          "file": "sounds/nain-da-yo-ne.mp3",
           "label": "Muichiro voice 07 (완료)",
           "sha256": "53bea11d898ae006ee7924b8e6b6f7c31a9f9a442ab1ebe5a87a4b61ad233533"
         }
@@ -51,12 +51,12 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/muichiro-tokito-again.mp3",
+          "file": "sounds/tokito-again.mp3",
           "label": "Muichiro again (에러)",
           "sha256": "d111c7a75960355de979b6bb472fc80189aba4c2459c702b26f2d51320453f09"
         },
         {
-          "file": "sounds/muichiro-08.mp3",
+          "file": "sounds/silence.mp3",
           "label": "Muichiro voice 08 (에러)",
           "sha256": "f6167ae55aff59593ce6be184be9893bdfe729a7a6799d69af92f03fe2d3631e"
         }
@@ -65,7 +65,7 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/muichiro-tokito-kun.mp3",
+          "file": "sounds/tokito-kun.mp3",
           "label": "Muichiro-kun (알림)",
           "sha256": "1988e601a65f079484b898968334535d943905fe8197a8bdd5e810dbb3ee1918"
         }
@@ -74,7 +74,7 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/muichiro-09.mp3",
+          "file": "sounds/inochi-wo-sukuenai.mp3",
           "label": "Muichiro voice 09 (한계)",
           "sha256": "63895b2a90f8e1ac89723441d565fa69774e5aa6e0410f4639fda1caf4e069d7"
         }

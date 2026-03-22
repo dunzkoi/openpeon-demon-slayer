@@ -19,7 +19,7 @@
           "sha256": "eea05434412db44f1220278736871514203f0750f7aaba6c55411d1d8fccecb5"
         },
         {
-          "file": "sounds/giyu-01.mp3",
+          "file": "sounds/uzukumaru-na.mp3",
           "label": "Giyu YT01 (등장)",
           "sha256": "7fc357cfc9739a7d30eabe8d8be73537edbb6059a3c5c9505233669286e03e4e"
         }
@@ -28,7 +28,7 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/giyu-02.mp3",
+          "file": "sounds/kazoku-wa-korosareteiru.mp3",
           "label": "Giyu YT02 (등장)",
           "sha256": "dd06679e56459440c9bffcf7742e60cd814bc4b0efed33e7b26feaf5ec39e273"
         }
@@ -42,12 +42,12 @@
           "sha256": "153dc74b7f165c6e280a3ba3f439006c111e6c20159ca1616889d9f14c66752c"
         },
         {
-          "file": "sounds/giyu-03.mp3",
+          "file": "sounds/jakusha-ga-imouto.mp3",
           "label": "Giyu YT03 (완료)",
           "sha256": "7300d9c6f4cb986576b8548ff0e7a5fcb67241cb92f10a79ca13b0a83b7c6780"
         },
         {
-          "file": "sounds/giyu-04.mp3",
+          "file": "sounds/jakusha-kenri-nai.mp3",
           "label": "Giyu YT04 (완료)",
           "sha256": "397d25dc5c06832bf30b6a6e556bb73589f4ca8d594d48cfd23386d0b2114edf"
         }
@@ -56,7 +56,7 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/giyu-05.mp3",
+          "file": "sounds/tsuyosha-ni-nejifuserareru.mp3",
           "label": "Giyu YT05 (에러)",
           "sha256": "d6b441e7d1b1b8be366b0256c8796129d2165d27854e5bc7be87a2ad7d6b732b"
         }
@@ -65,7 +65,7 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/giyu-21.mp3",
+          "file": "sounds/nigerenaai.mp3",
           "label": "Giyu YT21 (확인 필요)",
           "sha256": "8a5c81afe020a839411a02806607267385d739bac7fcaae79a15356bbf08ac35"
         }
@@ -74,7 +74,7 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/giyu-20.mp3",
+          "file": "sounds/uzukumaru-na-2.mp3",
           "label": "Giyu YT20 (에러)",
           "sha256": "6d78310d0bf18f3e7b27d06280d0625d87f25231109fd4dd11f7e1f2da5db4cf"
         }

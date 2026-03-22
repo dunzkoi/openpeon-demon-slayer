@@ -14,17 +14,17 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/rengoku-name.mp3",
+          "file": "sounds/name.mp3",
           "label": "Rengoku Kyojuro! (자기소개)",
           "sha256": "6a6cbd1a4e812bbdd07340149884f4a93156556ae4590d11e47b7c70fd3c2e0e"
         },
         {
-          "file": "sounds/rengoku-laugh.mp3",
+          "file": "sounds/laugh.mp3",
           "label": "Rengoku laugh (웃음)",
           "sha256": "57a5a0230eb2b571ab78e34a75965acfe2baeb165fa91baf5b42a6eff1d4e047"
         },
         {
-          "file": "sounds/rengoku-orewa.mp3",
+          "file": "sounds/orewa.mp3",
           "label": "Ore wa Rengoku (등장)",
           "sha256": "fd92dfe9e1b4d551621fc27a07295af85f2f0da1617c8a70e12e9d25467838cb"
         }
@@ -33,7 +33,7 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/rengoku-01.mp3",
+          "file": "sounds/ore-ga-shinu.mp3",
           "label": "Rengoku YT01 (등장)",
           "sha256": "a5095c8fe5d278d006e987ec9bb6a14a3db4f0b7861df52acf0e724710ca8cda"
         }
@@ -42,17 +42,17 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/rengoku-umai.mp3",
+          "file": "sounds/umai.mp3",
           "label": "UMAI! (우마이!)",
           "sha256": "5a5a28bcb1f9b3a55a53fae41c7d75266c3a31347a296784b378fe858b5eafeb"
         },
         {
-          "file": "sounds/rengoku-badass.mp3",
+          "file": "sounds/badass.mp3",
           "label": "Rengoku badass (완료)",
           "sha256": "7869a58bc26d85eb8167a16d5a6478e46e89119b2119ea104010e647ec907c1e"
         },
         {
-          "file": "sounds/rengoku-02.mp3",
+          "file": "sounds/hashira-tate.mp3",
           "label": "Rengoku YT02 (완료)",
           "sha256": "9eabc38fe5da042995ea88f06e2151caff6a46304a5dce1b21354ab33e522a11"
         }
@@ -61,12 +61,12 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/rengoku-threat.mp3",
+          "file": "sounds/threat.mp3",
           "label": "Rengoku threat (위협)",
           "sha256": "d61fd3454388bff378c64bb83856fb446af08e37f0f00e5530040aa1184ee514"
         },
         {
-          "file": "sounds/rengoku-orewa2.mp3",
+          "file": "sounds/orewa2.mp3",
           "label": "Ore wa (결의)",
           "sha256": "b29c30f7867d6dcdf516f2afebca861b7a2bb5e3b3452e5f6563d95586bbbdd9"
         }
@@ -80,12 +80,12 @@
           "sha256": "d63b681d302f6c258474d054ea4736e0637d11de8bd614bee0375c7a89793389"
         },
         {
-          "file": "sounds/rengoku-5th-form.mp3",
+          "file": "sounds/5th-form.mp3",
           "label": "5th Form (염의 호흡 오형)",
           "sha256": "ce6257ba239e8bb28cc9d9bb6561d094553b57df5c2d5a8445e28865eaf66b53"
         },
         {
-          "file": "sounds/rengoku-ni-no-kata.mp3",
+          "file": "sounds/ni-no-kata.mp3",
           "label": "Ni no Kata (이형)",
           "sha256": "9ff4a9e133738b0296f19f9671c07bfbf00deb0c4e321160e7bc6642437ce3a0"
         }
@@ -94,7 +94,7 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/rengoku-mhh.mp3",
+          "file": "sounds/mhh.mp3",
           "label": "Mhh (알림)",
           "sha256": "52525f81334c1bd6443a3e3186c3f0f6fb4b79edad51393531c259c7b00af0a9"
         }

@@ -14,12 +14,12 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/tanjiro-his-name.mp3",
+          "file": "sounds/his-name.mp3",
           "label": "Kamado Tanjiro! (자기소개)",
           "sha256": "bc4fc529884e6224c04f4dcfd484760af179fe72ab31fbbe45abdddaf15e1276"
         },
         {
-          "file": "sounds/tanjiro-voice.mp3",
+          "file": "sounds/voice.mp3",
           "label": "Tanjiro voice (세션 시작)",
           "sha256": "84d58f04028a6e5b0525172cc8a8cd949a819414b864400d6eaaf3ade0943337"
         },
@@ -29,7 +29,7 @@
           "sha256": "c38454908384aef286637f7046314449ef0f1de5823abc66950e76df207ad946"
         },
         {
-          "file": "sounds/tanjiro-01.mp3",
+          "file": "sounds/uchinomesaretemo.mp3",
           "label": "Tanjiro YT01 (등장)",
           "sha256": "52c5818db9a2fa81fb26ac21b25c3f349a1fe3ac75bb5a389b3e06aab076c925"
         }
@@ -38,7 +38,7 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/tanjiro-02.mp3",
+          "file": "sounds/zettai-ni-nai.mp3",
           "label": "Tanjiro YT02 (등장)",
           "sha256": "ed011867d0d9f6b6c3ddd1498618065bb12621fbe7bb7049246fad8c8e9fdbe8"
         }
@@ -57,17 +57,17 @@
           "sha256": "5e1d77e7bcfc189627669f764fbfa38313df4fe6ed0bdfd0f5387b751862c21d"
         },
         {
-          "file": "sounds/tanjiro-03.mp3",
+          "file": "sounds/shouchiru-hazu-nai.mp3",
           "label": "Tanjiro YT03 (완료)",
           "sha256": "2beb398e3ba973473bce8a7e324e5708d2c46c71b499861a5d22a4b0d7d64b1d"
         },
         {
-          "file": "sounds/tanjiro-04.mp3",
+          "file": "sounds/omoi-mo-ishi-mo-aru.mp3",
           "label": "Tanjiro YT04 (완료)",
           "sha256": "1408a472c4e4bae00fb798b5350741f1f78ba1b0fb8faeff70d4df5e40d36326"
         },
         {
-          "file": "sounds/tanjiro-05.mp3",
+          "file": "sounds/shoubu-de-ganbari.mp3",
           "label": "Tanjiro YT05 (완료)",
           "sha256": "fe4ccc7a878db4e723531ac14e354aab4602b9c4109d73d1e6bcbf23aed16ea0"
         }
@@ -86,12 +86,12 @@
           "sha256": "7546daa332acb9fe3b390f24a014d0d9de2f37afff5aa758dcf6f26acd908406"
         },
         {
-          "file": "sounds/tanjiro-baby-laugh.mp3",
+          "file": "sounds/baby-laugh.mp3",
           "label": "Baby laugh (가벼운 에러)",
           "sha256": "fac1e03388f8269c07ab7f8110ae0e90ce533e559c6a04715ffa79a4a69445a6"
         },
         {
-          "file": "sounds/tanjiro-06.mp3",
+          "file": "sounds/kokoroe-chigai.mp3",
           "label": "Tanjiro YT06 (에러)",
           "sha256": "60a71b44edda3844e927f419bb519dbef34a49e2de9efef3985dceaed142feb6"
         }
@@ -110,17 +110,17 @@
           "sha256": "d20086622a5c3ad94913fe8a8aef1fbad31bd2fd2d952fe63b3d1318979bc3e5"
         },
         {
-          "file": "sounds/tanjiro-08.mp3",
+          "file": "sounds/iai-ba.mp3",
           "label": "Tanjiro YT08 (확인)",
           "sha256": "e65d2206fd28323480588934c379cc171f5622580e01ece22befb23a930c1baa"
         },
         {
-          "file": "sounds/tanjiro-09.mp3",
+          "file": "sounds/bakemono-ja-nai.mp3",
           "label": "Tanjiro YT09 (확인)",
           "sha256": "c3ba5e0e092f91ff74f93dd7448036ad887f2f1cbf5fb6f01ff3fd47d639b4de"
         },
         {
-          "file": "sounds/tanjiro-10.mp3",
+          "file": "sounds/kubetsu-tsukanai.mp3",
           "label": "Tanjiro YT10 (확인)",
           "sha256": "c33ffc26150296a978c7ca8972d33ebbac3468aefd9d8814f2c563fb609c72a4"
         }
@@ -129,7 +129,7 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/tanjiro-07.mp3",
+          "file": "sounds/te-ni-hairanai.mp3",
           "label": "Tanjiro YT07 (에러)",
           "sha256": "294fc72f2e68249473035c9a9b79599085db7137557de6231b382d05863c78ed"
         }

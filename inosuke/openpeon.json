@@ -19,7 +19,7 @@
           "sha256": "2ab90db75c894d31259cc8733d16711b5281a1f19f1ad673620052cb1b0a0f20"
         },
         {
-          "file": "sounds/inosuke-06.mp3",
+          "file": "sounds/fuwafuwa.mp3",
           "label": "Inosuke voice 06 (등장)",
           "sha256": "7c361acfa94d717969e8bd344bc420da31646bde89e4c26182469f283c56c790"
         }
@@ -28,7 +28,7 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/nandakore.mp3",
+          "file": "sounds/oi-oi-ooo.mp3",
           "label": "Nandakore?! (수락)",
           "sha256": "b60f67cc2de848c00dd0dffcd10d374b73a0f39cb34df7a2ecd7ec71da20043b"
         }
@@ -37,12 +37,12 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/inosukemp4.mp3",
+          "file": "sounds/yo.mp3",
           "label": "Inosuke (완료)",
           "sha256": "db950e6373cd0d07b205f14571f508c4dfe4be3ff96c966ef04e363ff7a8f8e4"
         },
         {
-          "file": "sounds/inosuke-07.mp3",
+          "file": "sounds/nameru-na.mp3",
           "label": "Inosuke voice 07 (완료)",
           "sha256": "10df7057709e5217525696f541f6f8d9cdbdfc6218e705757439b337e697f642"
         }
@@ -51,12 +51,12 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/inosuke-08.mp3",
+          "file": "sounds/battle-cry.mp3",
           "label": "Inosuke voice 08 (에러)",
           "sha256": "f3dc1f40608586454e506047f9921ed61baf0f2e4cac40d70f9a53fbf087ce9d"
         },
         {
-          "file": "sounds/inosuke-09.mp3",
+          "file": "sounds/sabishii-n-dane.mp3",
           "label": "Inosuke voice 09 (에러)",
           "sha256": "86ef7d1af12b4ad8d511755d794352b615e091828ca491e2c7313eb3e623de77"
         }
@@ -65,12 +65,12 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/inosuke-laugh.mp3",
+          "file": "sounds/laugh.mp3",
           "label": "Inosuke laugh (알림)",
           "sha256": "be81a04ab547c035c0090da16add0c73c0fc6a3b46c66d51a81002b7fad8150b"
         },
         {
-          "file": "sounds/inosuke-10.mp3",
+          "file": "sounds/kangaekata.mp3",
           "label": "Inosuke voice 10 (알림)",
           "sha256": "d093334d2e7b2043d47aa692735af4252b966ff3de70f4962f482b3f7d2fd4c3"
         }
@@ -79,7 +79,7 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/tmp9u9heyef.mp3",
+          "file": "sounds/gonpachiro.mp3",
           "label": "Inosuke (한계)",
           "sha256": "f1ed2f42d8754a598be2fee08d3862fbccfe921fb120f2845a8bcf286fadd297"
         }

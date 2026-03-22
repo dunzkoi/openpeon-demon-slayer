@@ -14,7 +14,7 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/zenitsu-lightning-breath.mp3",
+          "file": "sounds/lightning-breath.mp3",
           "label": "Lightning Breath (뇌의 호흡 등장)",
           "sha256": "f1a6d9b5b09ce9ec048dafdddd8e030339283441a9afc3fa6017f7284612c21e"
         },
@@ -28,7 +28,7 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/zenitsu-name.mp3",
+          "file": "sounds/name.mp3",
           "label": "Zenitsu name (자기소개)",
           "sha256": "0b21acfa0b119022125aa71ebd20cb09251d3bbcf061114e1bfea0f0770ec809"
         }
@@ -42,12 +42,12 @@
           "sha256": "2a30806233881c30821c49f5e799614d5b91c7d1e666b6ea4d30c536c8f18d14"
         },
         {
-          "file": "sounds/zenitsu-nezuko-chan.mp3",
+          "file": "sounds/nezuko-chan.mp3",
           "label": "Nezuko-chan! ver2 (완료)",
           "sha256": "76b23fd23b76eef93741a6fde690c4c1179f7553539414539fbabf7a5d2735c4"
         },
         {
-          "file": "sounds/zenitsu-thunder-breathing.mp3",
+          "file": "sounds/thunder-breathing.mp3",
           "label": "Thunder Breathing (뇌의 호흡)",
           "sha256": "3a60198a2f9b132e4e6250905c4873425c70798010bee03f2524817bfb0291b6"
         }
@@ -56,7 +56,7 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/zenitsu-aniki.mp3",
+          "file": "sounds/aniki.mp3",
           "label": "Aniki! (형!)",
           "sha256": "7a9b491b65a232892840047fd83059c187ffdc2f54ce1100f8976ffc2a742776"
         }
@@ -65,12 +65,12 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/zenitsu-tanjiro.mp3",
+          "file": "sounds/tanjiro.mp3",
           "label": "Tanjiro! (탄지로!)",
           "sha256": "b34a600078b2157665b6b5c09919aeef3bb5b472f9fd164768abded795fb9942"
         },
         {
-          "file": "sounds/zenitsu-02.mp3",
+          "file": "sounds/jigoku-no-kunren.mp3",
           "label": "Zenitsu YT02 (확인)",
           "sha256": "088eee7560ce1aad3e3c786e862c58319ecae08893a07210ca069988b8003379"
         }
@@ -79,7 +79,7 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/zenitsu-01.mp3",
+          "file": "sounds/bonbon-saita.mp3",
           "label": "Zenitsu YT01 (패닉)",
           "sha256": "3ee95e8a1ad0253dfeae1fc02163648f32e569b617b341a511b4188debe9b334"
         }

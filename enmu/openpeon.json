@@ -14,7 +14,7 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/enmu-02.mp3",
+          "file": "sounds/konkorore.mp3",
           "label": "Enmu voice 02 (등장)",
           "sha256": "6ff2f6375a33461a71d0351bb1d2983c9adfb7ba03ed5367ab1461ce45c0cacf"
         }
@@ -23,7 +23,7 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/enmu-03.mp3",
+          "file": "sounds/konkorori.mp3",
           "label": "Enmu voice 03 (등장)",
           "sha256": "4b28835ef9f67543b6c2cb3cfae92c3c720433467a1f7e424fd516bba6ad65b7"
         }
@@ -32,12 +32,12 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/enmu-04.mp3",
+          "file": "sounds/hara-no-naka.mp3",
           "label": "Enmu voice 04 (완료)",
           "sha256": "130848ab1e11b8d61d499d650f6e5c9eae15b7fd74e6dd7312e5b7570de3015a"
         },
         {
-          "file": "sounds/enmu-10.mp3",
+          "file": "sounds/kokoro-wo-kowasu.mp3",
           "label": "Enmu voice 10 (완료)",
           "sha256": "cbc61d20b61fc13ca7491c6fe298c644009e47c88fb3b1eced1a672cfe05d15c"
         }
@@ -46,7 +46,7 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/enmu-13.mp3",
+          "file": "sounds/ufufufu-kubi.mp3",
           "label": "Enmu voice 13 (에러)",
           "sha256": "9abd55b0b31c3b2bb81bcd90fd31941ee817dc493700e9c1497d16b2bed4f1d9"
         }
@@ -55,12 +55,12 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/enmu-08.mp3",
+          "file": "sounds/yume-wo-minagara.mp3",
           "label": "Enmu voice 08 (알림)",
           "sha256": "9f968aa54b90325dd353895c942334b2354abfb8c489474d4286fd284ff7d9bf"
         },
         {
-          "file": "sounds/enmu-11.mp3",
+          "file": "sounds/shiawase-na-yume.mp3",
           "label": "Enmu voice 11 (알림)",
           "sha256": "de1726865609895d9cd1ec2b3512bf9e7d9d3c18ce876f385cb0d8f8cad6af7a"
         }
@@ -69,7 +69,7 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/enmu-15.mp3",
+          "file": "sounds/ningen-tachi-subete.mp3",
           "label": "Enmu voice 15 (에러)",
           "sha256": "ef8134432a93dfa93061af62782a00802f43bf62985e247e512f610d629c7479"
         }
