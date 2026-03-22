@@ -1,0 +1,42 @@
+{
+  "cesp_version": "1.0",
+  "name": "demon-slayer-akaza",
+  "display_name": "Demon Slayer - Akaza",
+  "version": "1.0.0",
+  "description": "Akaza (Upper Moon 3) voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+  "author": {
+    "name": "djlee",
+    "github": "djlee"
+  },
+  "license": "fan-community",
+  "language": "ja",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/akaza-donooo.mp3", "label": "Akaza DONOOO! (등장)" },
+        { "file": "sounds/akaza-voice-pt-1.mp3", "label": "Akaza voice pt1 (시작)" },
+        { "file": "sounds/akaza-01.mp3", "label": "Akaza YT01 (등장)" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/akaza-voice-pt-2.mp3", "label": "Akaza voice pt2 (승리)" },
+        { "file": "sounds/lvxij2_1mkw-00_00_16-3.mp3", "label": "AYAYAYAYA! (기합)" },
+        { "file": "sounds/akaza-02.mp3", "label": "Akaza YT02 (완료)" },
+        { "file": "sounds/akaza-03.mp3", "label": "Akaza YT03 (완료)" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/akaza-voice-pt-3.mp3", "label": "Akaza voice pt3 (분노)" },
+        { "file": "sounds/akaza-20.mp3", "label": "Akaza YT20 (분노)" },
+        { "file": "sounds/akaza-21.mp3", "label": "Akaza YT21 (분노)" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/akaza-kokushibo.mp3", "label": "Akaza & Kokushibo (주의)" }
+      ]
+    }
+  }
+}

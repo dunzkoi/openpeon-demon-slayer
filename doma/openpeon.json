@@ -1,0 +1,33 @@
+{
+  "cesp_version": "1.0",
+  "name": "demon-slayer-doma",
+  "display_name": "Demon Slayer - Doma",
+  "version": "1.0.0",
+  "description": "Doma (Upper Moon Two) voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+  "author": {
+    "name": "djlee",
+    "github": "djlee"
+  },
+  "license": "fan-community",
+  "language": "ja",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/doma-03.mp3", "label": "Doma voice 03 (등장)" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/doma-02.mp3", "label": "Doma voice 02 (완료)" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/doma-01.mp3", "label": "Doma voice 01 (에러)" }
+      ]
+    },
+    "input.required": {
+      "sounds": []
+    }
+  }
+}

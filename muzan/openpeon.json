@@ -1,0 +1,54 @@
+{
+  "cesp_version": "1.0",
+  "name": "demon-slayer-muzan",
+  "display_name": "Demon Slayer - Muzan Kibutsuji",
+  "version": "1.0.0",
+  "description": "Muzan Kibutsuji voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+  "author": {
+    "name": "djlee",
+    "github": "djlee"
+  },
+  "license": "fan-community",
+  "language": "ja",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/muzan-voice-pt-1.mp3", "label": "Muzan voice pt1 (등장)" },
+        { "file": "sounds/muzan-voice-pt-2.mp3", "label": "Muzan voice pt2 (위압)" },
+        { "file": "sounds/muzan-01.mp3", "label": "Muzan YT01 (등장)" },
+        { "file": "sounds/muzan-02.mp3", "label": "Muzan YT02 (등장)" },
+        { "file": "sounds/muzan-03.mp3", "label": "Muzan YT03 (위압)" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/muzan-voice-pt-3.mp3", "label": "Muzan voice pt3 (명령 완수)" },
+        { "file": "sounds/muzan-voice-pt-4.mp3", "label": "Muzan voice pt4 (완료)" },
+        { "file": "sounds/muzan-04.mp3", "label": "Muzan YT04 (완료)" },
+        { "file": "sounds/muzan-05.mp3", "label": "Muzan YT05 (완료)" },
+        { "file": "sounds/muzan-06.mp3", "label": "Muzan YT06 (완료)" },
+        { "file": "sounds/muzan-07.mp3", "label": "Muzan YT07 (완료)" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/muzan-voice-pt-5.mp3", "label": "Muzan voice pt5 (분노)" },
+        { "file": "sounds/muzan-voice-pt-6.mp3", "label": "Muzan voice pt6 (실망)" },
+        { "file": "sounds/muzan-voice-pt-7.mp3", "label": "Muzan voice pt7 (위협)" },
+        { "file": "sounds/muzan-08.mp3", "label": "Muzan YT08 (분노)" },
+        { "file": "sounds/muzan-09.mp3", "label": "Muzan YT09 (분노)" },
+        { "file": "sounds/muzan-10.mp3", "label": "Muzan YT10 (위협)" },
+        { "file": "sounds/muzan-11.mp3", "label": "Muzan YT11 (위협)" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/infinite-castle-sound.mp3", "label": "Infinite Castle (알림)" },
+        { "file": "sounds/muzan-12.mp3", "label": "Muzan YT12 (명령)" },
+        { "file": "sounds/muzan-13.mp3", "label": "Muzan YT13 (확인)" },
+        { "file": "sounds/muzan-14.mp3", "label": "Muzan YT14 (확인)" },
+        { "file": "sounds/muzan-15.mp3", "label": "Muzan YT15 (명령)" }
+      ]
+    }
+  }
+}

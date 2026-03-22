@@ -1,0 +1,49 @@
+{
+  "cesp_version": "1.0",
+  "name": "demon-slayer-rengoku",
+  "display_name": "Demon Slayer - Kyojuro Rengoku",
+  "version": "1.0.0",
+  "description": "Kyojuro Rengoku voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+  "author": {
+    "name": "djlee",
+    "github": "djlee"
+  },
+  "license": "fan-community",
+  "language": "ja",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/rengoku-name.mp3", "label": "Rengoku Kyojuro! (자기소개)" },
+        { "file": "sounds/rengoku.mp3", "label": "Rengoku (등장)" },
+        { "file": "sounds/rengoku-laugh.mp3", "label": "Rengoku laugh (웃음)" },
+        { "file": "sounds/rengoku-orewa.mp3", "label": "Ore wa Rengoku (등장)" },
+        { "file": "sounds/rengoku-01.mp3", "label": "Rengoku YT01 (등장)" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/rengoku-umai.mp3", "label": "UMAI! (우마이!)" },
+        { "file": "sounds/rengoku-1st-form.mp3", "label": "1st Form (염의 호흡 일형)" },
+        { "file": "sounds/rengoku-2nd-form.mp3", "label": "2nd Form (염의 호흡 이형)" },
+        { "file": "sounds/rengoku-badass.mp3", "label": "Rengoku badass (완료)" },
+        { "file": "sounds/rengoku-onbashira.mp3", "label": "Ore wa Enbashira (나는 염주)" },
+        { "file": "sounds/rengoku-02.mp3", "label": "Rengoku YT02 (완료)" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/rengoku-threat.mp3", "label": "Rengoku threat (위협)" },
+        { "file": "sounds/rengoku-3rd-form.mp3", "label": "3rd Form (염의 호흡 삼형)" },
+        { "file": "sounds/rengoku-orewa2.mp3", "label": "Ore wa (결의)" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/child-kyojuro-pt-2.mp3", "label": "Child Kyojuro (확인 필요)" },
+        { "file": "sounds/rengoku-5th-form.mp3", "label": "5th Form (염의 호흡 오형)" },
+        { "file": "sounds/rengoku-ni-no-kata.mp3", "label": "Ni no Kata (이형)" },
+        { "file": "sounds/rengoku-mhh.mp3", "label": "Mhh (알림)" }
+      ]
+    }
+  }
+}

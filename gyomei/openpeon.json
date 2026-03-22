@@ -1,0 +1,38 @@
+{
+  "cesp_version": "1.0",
+  "name": "demon-slayer-gyomei",
+  "display_name": "Demon Slayer - Gyomei Himejima",
+  "version": "1.0.0",
+  "description": "Gyomei Himejima voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+  "author": {
+    "name": "djlee",
+    "github": "djlee"
+  },
+  "license": "fan-community",
+  "language": "ja",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/gyomei-voice1.mp3", "label": "Gyomei voice 1 (등장)" },
+        { "file": "sounds/gyomei-voice2.mp3", "label": "Gyomei voice 2 (인사)" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/gyomei-voice3.mp3", "label": "Gyomei voice 3 (완료)" },
+        { "file": "sounds/gyomei-voice4.mp3", "label": "Gyomei voice 4 (완료)" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/gyomei-voice5.mp3", "label": "Gyomei voice 5 (슬픔)" },
+        { "file": "sounds/gyomei-voice6.mp3", "label": "Gyomei voice 6 (에러)" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/gyomei-voice7.mp3", "label": "Gyomei voice 7 (확인 필요)" }
+      ]
+    }
+  }
+}

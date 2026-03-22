@@ -1,0 +1,47 @@
+{
+  "cesp_version": "1.0",
+  "name": "demon-slayer-nezuko",
+  "display_name": "Demon Slayer - Nezuko Kamado",
+  "version": "1.0.0",
+  "description": "Nezuko Kamado voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+  "author": {
+    "name": "djlee",
+    "github": "djlee"
+  },
+  "license": "fan-community",
+  "language": "ja",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/nezuko-yes.mp3", "label": "Nezuko yes! (응!)" },
+        { "file": "sounds/nezuko-cute.mp3", "label": "Nezuko cute (귀여운 인사)" },
+        { "file": "sounds/nezuko-happy-giggle.mp3", "label": "Nezuko giggle (기쁜 웃음)" },
+        { "file": "sounds/nezuko-01.mp3", "label": "Nezuko YT01 (등장)" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/nezuko-chaaaaan.mp3", "label": "Nezuko-chan! (완료)" },
+        { "file": "sounds/nezuko-chaaan.mp3", "label": "Nezuko-chaaan! (완료)" },
+        { "file": "sounds/nezukoooooooo.mp3", "label": "Nezukooooo! (대성공)" },
+        { "file": "sounds/nezuko-chan-ringtones.mp3", "label": "Nezuko-chan ringtone (완료 알림)" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/nezuko-growl.mp3", "label": "Nezuko growl (으르렁)" },
+        { "file": "sounds/nezuko-pout.mp3", "label": "Nezuko pout (삐짐)" },
+        { "file": "sounds/tmpoub7pz0z.mp3", "label": "Nezuko upset (속상)" },
+        { "file": "sounds/nezuko-20.mp3", "label": "Nezuko YT20 (에러)" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/nezuko-curious.mp3", "label": "Nezuko curious (궁금)" },
+        { "file": "sounds/nezuko-chan-notification-ringtone.mp3", "label": "Notification (알림)" },
+        { "file": "sounds/nezuko-chan-zenitsu.mp3", "label": "Nezuko-chan! by Zenitsu (주의)" },
+        { "file": "sounds/tmpbyyr8grt.mp3", "label": "Nezuko hmm (확인 필요)" }
+      ]
+    }
+  }
+}

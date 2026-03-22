@@ -1,0 +1,37 @@
+{
+  "cesp_version": "1.0",
+  "name": "demon-slayer-muichiro",
+  "display_name": "Demon Slayer - Muichiro Tokito",
+  "version": "1.0.0",
+  "description": "Muichiro Tokito voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+  "author": {
+    "name": "djlee",
+    "github": "djlee"
+  },
+  "license": "fan-community",
+  "language": "ja",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/muichiro.mp3", "label": "Muichiro (등장)" },
+        { "file": "sounds/muichiro-tokito.mp3", "label": "Tokito Muichiro (자기소개)" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/muichiro-tokito-kun.mp3", "label": "Muichiro Tokito-kun (완료)" },
+        { "file": "sounds/muichiro-tokito-again.mp3", "label": "Muichiro again (반복 완료)" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/muichiro-tokito-1.mp3", "label": "Muichiro voice (에러)" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/muichiro-tokito-kun.mp3", "label": "Tokito-kun (입력 요청)" }
+      ]
+    }
+  }
+}

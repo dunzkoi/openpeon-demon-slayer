@@ -1,0 +1,42 @@
+{
+  "cesp_version": "1.0",
+  "name": "demon-slayer-zenitsu",
+  "display_name": "Demon Slayer - Zenitsu Agatsuma",
+  "version": "1.0.0",
+  "description": "Zenitsu Agatsuma voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+  "author": {
+    "name": "djlee",
+    "github": "djlee"
+  },
+  "license": "fan-community",
+  "language": "ja",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/zenitsu-lightning-breath.mp3", "label": "Lightning Breath (뇌의 호흡 등장)" },
+        { "file": "sounds/zenitsu.mp3", "label": "Zenitsu (등장)" },
+        { "file": "sounds/zenitsu-name.mp3", "label": "Zenitsu name (자기소개)" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/nezuko-chan-zenitsu.mp3", "label": "Nezuko-chan! (완료 기쁨)" },
+        { "file": "sounds/zenitsu-nezuko-chan.mp3", "label": "Nezuko-chan! ver2 (완료)" },
+        { "file": "sounds/zenitsu-thunder-breathing.mp3", "label": "Thunder Breathing (뇌의 호흡)" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/tmpsg_67wry.mp3", "label": "Zenitsu panic (패닉)" },
+        { "file": "sounds/zenitsu-aniki.mp3", "label": "Aniki! (형!)" },
+        { "file": "sounds/zenitsu-01.mp3", "label": "Zenitsu YT01 (패닉)" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/zenitsu-tanjiro.mp3", "label": "Tanjiro! (탄지로!)" },
+        { "file": "sounds/zenitsu-02.mp3", "label": "Zenitsu YT02 (확인)" }
+      ]
+    }
+  }
+}

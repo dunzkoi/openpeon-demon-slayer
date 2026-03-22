@@ -1,0 +1,42 @@
+{
+  "cesp_version": "1.0",
+  "name": "demon-slayer-tengen",
+  "display_name": "Demon Slayer - Tengen Uzui",
+  "version": "1.0.0",
+  "description": "Tengen Uzui voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+  "author": {
+    "name": "djlee",
+    "github": "djlee"
+  },
+  "license": "fan-community",
+  "language": "ja",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/tengen-orewa.mp3", "label": "Ore wa Tengen (등장)" },
+        { "file": "sounds/tengen-nanda.mp3", "label": "Nanda? (뭐야?)" },
+        { "file": "sounds/tengen-voice1.mp3", "label": "Tengen voice 1 (등장)" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/tengen-badass.mp3", "label": "Tengen badass (완료)" },
+        { "file": "sounds/tengen-voice2.mp3", "label": "Tengen voice 2 (완료)" },
+        { "file": "sounds/tengen-voice3.mp3", "label": "Tengen voice 3 (완료)" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/tengen-urusei.mp3", "label": "Urusei! (시끄러!)" },
+        { "file": "sounds/tengen-baca.mp3", "label": "Baka! (바보!)" },
+        { "file": "sounds/tengen-voice4.mp3", "label": "Tengen voice 4 (에러)" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/tengen-nani.mp3", "label": "Nani? (뭐?)" },
+        { "file": "sounds/tengen-voice5.mp3", "label": "Tengen voice 5 (확인 필요)" }
+      ]
+    }
+  }
+}

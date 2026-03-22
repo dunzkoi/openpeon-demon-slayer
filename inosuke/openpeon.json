@@ -1,0 +1,37 @@
+{
+  "cesp_version": "1.0",
+  "name": "demon-slayer-inosuke",
+  "display_name": "Demon Slayer - Inosuke Hashibira",
+  "version": "1.0.0",
+  "description": "Inosuke Hashibira voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+  "author": {
+    "name": "djlee",
+    "github": "djlee"
+  },
+  "license": "fan-community",
+  "language": "ja",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/im-comin-trough-inosuke.mp3", "label": "I'm coming through! (돌격)" },
+        { "file": "sounds/inosukemp4.mp3", "label": "Inosuke! (등장)" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/inosuke-laugh.mp3", "label": "Inosuke laugh (승리의 웃음)" },
+        { "file": "sounds/nandakore.mp3", "label": "Nandakore?! (뭐야 이게!)" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/tmp2cx1ieum.mp3", "label": "Inosuke scream (에러 비명)" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/tmp9u9heyef.mp3", "label": "Kamaboko Gonpachiro (입력 요청)" }
+      ]
+    }
+  }
+}

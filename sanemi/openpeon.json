@@ -1,0 +1,38 @@
+{
+  "cesp_version": "1.0",
+  "name": "demon-slayer-sanemi",
+  "display_name": "Demon Slayer - Sanemi Shinazugawa",
+  "version": "1.0.0",
+  "description": "Sanemi Shinazugawa voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+  "author": {
+    "name": "djlee",
+    "github": "djlee"
+  },
+  "license": "fan-community",
+  "language": "ja",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/oi-oi-sanemi.mp3", "label": "Oi Oi! (위협적 등장)" },
+        { "file": "sounds/sanemi-voice1.mp3", "label": "Sanemi voice 1 (등장)" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/oy-oni-sanemi.mp3", "label": "Oy Oni! (임무 완료)" },
+        { "file": "sounds/sanemi-voice2.mp3", "label": "Sanemi voice 2 (완료)" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/sanemi-voice3.mp3", "label": "Sanemi voice 3 (분노)" },
+        { "file": "sounds/sanemi-voice4.mp3", "label": "Sanemi voice 4 (에러)" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/sanemi-voice5.mp3", "label": "Sanemi voice 5 (확인 필요)" }
+      ]
+    }
+  }
+}

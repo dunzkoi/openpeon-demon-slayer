@@ -1,0 +1,51 @@
+{
+  "cesp_version": "1.0",
+  "name": "demon-slayer-tanjiro",
+  "display_name": "Demon Slayer - Tanjiro Kamado",
+  "version": "1.0.0",
+  "description": "Tanjiro Kamado voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+  "author": {
+    "name": "djlee",
+    "github": "djlee"
+  },
+  "license": "fan-community",
+  "language": "ja",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/tanjiro-his-name.mp3", "label": "Kamado Tanjiro! (자기소개)" },
+        { "file": "sounds/tanjiro-voice.mp3", "label": "Tanjiro voice (세션 시작)" },
+        { "file": "sounds/dev-tanjiro.mp3", "label": "Tanjiro dev mode (개발 시작)" },
+        { "file": "sounds/tanjiro-01.mp3", "label": "Tanjiro YT01 (등장)" },
+        { "file": "sounds/tanjiro-02.mp3", "label": "Tanjiro YT02 (등장)" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/demon-slayer-breath.mp3", "label": "Breath technique (호흡 기술)" },
+        { "file": "sounds/demon-slayer.mp3", "label": "Demon Slayer! (임무 완수)" },
+        { "file": "sounds/tanjiro-03.mp3", "label": "Tanjiro YT03 (완료)" },
+        { "file": "sounds/tanjiro-04.mp3", "label": "Tanjiro YT04 (완료)" },
+        { "file": "sounds/tanjiro-05.mp3", "label": "Tanjiro YT05 (완료)" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/baby-tanjiro-pt-1.mp3", "label": "Baby Tanjiro pt1 (당황)" },
+        { "file": "sounds/baby-tanjiro-pt-2.mp3", "label": "Baby Tanjiro pt2 (울음)" },
+        { "file": "sounds/tanjiro-baby-laugh.mp3", "label": "Baby laugh (가벼운 에러)" },
+        { "file": "sounds/tanjiro-06.mp3", "label": "Tanjiro YT06 (에러)" },
+        { "file": "sounds/tanjiro-07.mp3", "label": "Tanjiro YT07 (에러)" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/demon-slayer-biwa-sound.mp3", "label": "Biwa ding (알림)" },
+        { "file": "sounds/infinity-castle-drop.mp3", "label": "Infinity Castle (주의)" },
+        { "file": "sounds/tanjiro-08.mp3", "label": "Tanjiro YT08 (확인)" },
+        { "file": "sounds/tanjiro-09.mp3", "label": "Tanjiro YT09 (확인)" },
+        { "file": "sounds/tanjiro-10.mp3", "label": "Tanjiro YT10 (확인)" }
+      ]
+    }
+  }
+}

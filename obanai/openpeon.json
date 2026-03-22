@@ -1,0 +1,47 @@
+{
+  "cesp_version": "1.0",
+  "name": "demon-slayer-obanai",
+  "display_name": "Demon Slayer - Obanai Iguro",
+  "version": "1.0.0",
+  "description": "Obanai Iguro voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+  "author": {
+    "name": "djlee",
+    "github": "djlee"
+  },
+  "license": "fan-community",
+  "language": "ja",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/obanai-intro.mp3", "label": "Obanai intro (등장)" },
+        { "file": "sounds/obanai-pt-1.mp3", "label": "Obanai voice pt1 (인사)" },
+        { "file": "sounds/obanai-voice1.mp3", "label": "Obanai voice 1 (등장)" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/obanai-pt-2.mp3", "label": "Obanai voice pt2 (완료)" },
+        { "file": "sounds/obanai-pt-3.mp3", "label": "Obanai voice pt3 (완료)" },
+        { "file": "sounds/obanai-voice2.mp3", "label": "Obanai voice 2 (완료)" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/obanai-pt-4.mp3", "label": "Obanai voice pt4 (분노)" },
+        { "file": "sounds/obanai-ep11-pt-1.mp3", "label": "Obanai EP11 pt1 (에러)" },
+        { "file": "sounds/obanai-voice3.mp3", "label": "Obanai voice 3 (에러)" },
+        { "file": "sounds/obanai-voice4.mp3", "label": "Obanai voice 4 (에러)" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/obanai-ep11-pt-2.mp3", "label": "Obanai EP11 pt2 (확인)" },
+        { "file": "sounds/obanai-ep11-pt-3.mp3", "label": "Obanai EP11 pt3 (확인 필요)" },
+        { "file": "sounds/obanai-voice5.mp3", "label": "Obanai voice 5 (알림)" },
+        { "file": "sounds/obanai-voice6.mp3", "label": "Obanai voice 6 (알림)" },
+        { "file": "sounds/obanai-voice7.mp3", "label": "Obanai voice 7 (확인)" },
+        { "file": "sounds/obanai-voice8.mp3", "label": "Obanai voice 8 (확인)" }
+      ]
+    }
+  }
+}
