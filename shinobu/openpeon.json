@@ -16,12 +16,12 @@
         {
           "file": "sounds/shinobu-moshi-moshiiiiii.mp3",
           "label": "Moshi moshiii~ (인사)",
-          "sha256": "2504c18b79cf645cf9aa79a0013fc8cd9d27df55253cddcf46ea2e9add0b1cae"
+          "sha256": "48bc618606af891227389ebf3fc350fe163da3d2f4f6c82b31a5ad2d4281e4c6"
         },
         {
           "file": "sounds/shinobu-02.mp3",
           "label": "Shinobu YT02 (등장)",
-          "sha256": "2eaf6cd1875b1444eed465a8522f944de59aa1ec732337cd98cce109478ffcf4"
+          "sha256": "41b78022b4339cfc49c3173061e27ec80e20341144f9984df4486dad32991820"
         }
       ]
     },
@@ -30,7 +30,7 @@
         {
           "file": "sounds/shinobumoshimoshipseudoasmr.mp3",
           "label": "Moshi moshi ASMR ver2 (인사)",
-          "sha256": "ac2c1e4f7c87828b779eab7f58ef3207d31612dd1a32dee1d7d8bc0f6f1ceb2e"
+          "sha256": "fa7f400e7eba3b56bff2b97452aaf3c4d53a2f68a220af175d098a17003f6327"
         }
       ]
     },
@@ -39,7 +39,7 @@
         {
           "file": "sounds/shinobu-03.mp3",
           "label": "Shinobu YT03 (완료)",
-          "sha256": "06a62b0c162cc75a5cf3fc32c0467e9a7b08224e899d4d705b62d158e28ffdee"
+          "sha256": "f9fd888bff2a3a1f03eae15abf7f457da3302e2800fe70f98ce4848f26153b9c"
         }
       ]
     },
@@ -48,12 +48,12 @@
         {
           "file": "sounds/shinobu-05.mp3",
           "label": "Shinobu YT05 (에러)",
-          "sha256": "a23281cb868fff54f10c69e2abd6e734428524dd639d6ae1839f02b35e542bb5"
+          "sha256": "9ee0aee65113cc9abf79a38c81298c4cc5c1109856cc39f6035a13666d6639b3"
         },
         {
           "file": "sounds/shinobu-06.mp3",
           "label": "Shinobu YT06 (에러)",
-          "sha256": "c60ca46e2bdb5b1075a0d173b715222c32d7c246bf7087eaf14a548b84bf77a9"
+          "sha256": "cafd775860d917f704fce0b8fd81efa95d14067154fc911c3ad5bf84085659ff"
         }
       ]
     },
@@ -62,12 +62,12 @@
         {
           "file": "sounds/shinobumoshimoshipseudoasmr_fVET8E9.mp3",
           "label": "Moshi moshi ASMR (입력 요청)",
-          "sha256": "b1d7f252adceca4eb6faa85d0185940d41febf0a49d597946962fe24ab82bb5b"
+          "sha256": "8b1c2f44d414c60783593c9c49faebc42570e46b18c91b5b1956130d620fea98"
         },
         {
           "file": "sounds/tmpao9kbv5a.mp3",
           "label": "Shinobu attention (확인)",
-          "sha256": "17715b3be9a843b30333a390727ae4b03ac76183fcab037e51c8e0ae36bfaefa"
+          "sha256": "50b92751c703e5bb0882da3f4607c83b9ee3ba7921a97360ae5cd8bde4ffe80e"
         }
       ]
     },
@@ -76,7 +76,7 @@
         {
           "file": "sounds/shinobu-07.mp3",
           "label": "Shinobu YT07 (확인)",
-          "sha256": "2e1e8ba07c89232b53c7e26c0a56d17f39e00a40921e460baad44e87fa36e480"
+          "sha256": "b553bf3dfb3f15a54cfcdac353f4de5a1b93b70a8eb94627e94130a61a6d8f74"
         }
       ]
     }

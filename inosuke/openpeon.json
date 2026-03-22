@@ -16,12 +16,12 @@
         {
           "file": "sounds/im-comin-trough-inosuke.mp3",
           "label": "I'm comin' through! (등장)",
-          "sha256": "5fe91cc6f5a3bdf3bf310c408063df9c198df8cb222d1d56ad9fe50bfcbbeb23"
+          "sha256": "2ab90db75c894d31259cc8733d16711b5281a1f19f1ad673620052cb1b0a0f20"
         },
         {
           "file": "sounds/inosuke-06.mp3",
           "label": "Inosuke voice 06 (등장)",
-          "sha256": "323ff9aa60fe2206444d2cf08bd440351653d30649055dc53d3e45d6a45f5346"
+          "sha256": "7c361acfa94d717969e8bd344bc420da31646bde89e4c26182469f283c56c790"
         }
       ]
     },
@@ -30,7 +30,7 @@
         {
           "file": "sounds/nandakore.mp3",
           "label": "Nandakore?! (수락)",
-          "sha256": "37b15115867b4656ff0a66034ca2ace525293d677c9f7c00ef1453e35cbd36f9"
+          "sha256": "b60f67cc2de848c00dd0dffcd10d374b73a0f39cb34df7a2ecd7ec71da20043b"
         }
       ]
     },
@@ -39,12 +39,12 @@
         {
           "file": "sounds/inosukemp4.mp3",
           "label": "Inosuke (완료)",
-          "sha256": "98fcb6e50d44e07f6b33a83533f7c837511e4ec038fa7465d9a5e26e4049491b"
+          "sha256": "db950e6373cd0d07b205f14571f508c4dfe4be3ff96c966ef04e363ff7a8f8e4"
         },
         {
           "file": "sounds/inosuke-07.mp3",
           "label": "Inosuke voice 07 (완료)",
-          "sha256": "52b0268b12968d88013006b49a663ad0e00b5cb18e79f3465a58ba145ead47f7"
+          "sha256": "10df7057709e5217525696f541f6f8d9cdbdfc6218e705757439b337e697f642"
         }
       ]
     },
@@ -53,12 +53,12 @@
         {
           "file": "sounds/inosuke-08.mp3",
           "label": "Inosuke voice 08 (에러)",
-          "sha256": "6fb61d784ec0b1bafe4b285827d3716454aeed484772863f17d2986b8b90177a"
+          "sha256": "f3dc1f40608586454e506047f9921ed61baf0f2e4cac40d70f9a53fbf087ce9d"
         },
         {
           "file": "sounds/inosuke-09.mp3",
           "label": "Inosuke voice 09 (에러)",
-          "sha256": "9caad80e0da24fdf8c608d2a8490741b078dfb356cc03159b0d1f77416d6301c"
+          "sha256": "86ef7d1af12b4ad8d511755d794352b615e091828ca491e2c7313eb3e623de77"
         }
       ]
     },
@@ -67,12 +67,12 @@
         {
           "file": "sounds/inosuke-laugh.mp3",
           "label": "Inosuke laugh (알림)",
-          "sha256": "b950c6c4558f59273663df4ac53cecf7ada571ad022b132917450592ae39e198"
+          "sha256": "be81a04ab547c035c0090da16add0c73c0fc6a3b46c66d51a81002b7fad8150b"
         },
         {
           "file": "sounds/inosuke-10.mp3",
           "label": "Inosuke voice 10 (알림)",
-          "sha256": "b0677018c2f53cd4dc08e8f3368e739c4f470b8b38bc3cbdb12964a02c1a68e3"
+          "sha256": "d093334d2e7b2043d47aa692735af4252b966ff3de70f4962f482b3f7d2fd4c3"
         }
       ]
     },
@@ -81,7 +81,7 @@
         {
           "file": "sounds/tmp9u9heyef.mp3",
           "label": "Inosuke (한계)",
-          "sha256": "cdb5fa784d2a3ca66efd9708050c6b14de8212ba82e52a933da8a94b42a6b29e"
+          "sha256": "f1ed2f42d8754a598be2fee08d3862fbccfe921fb120f2845a8bcf286fadd297"
         }
       ]
     }

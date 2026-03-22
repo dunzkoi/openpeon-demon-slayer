@@ -16,17 +16,17 @@
         {
           "file": "sounds/rengoku-name.mp3",
           "label": "Rengoku Kyojuro! (자기소개)",
-          "sha256": "cc23372888f906ddb5c49b493e805675ea7191e8742864d60aa1c5d6b796bfbc"
+          "sha256": "6a6cbd1a4e812bbdd07340149884f4a93156556ae4590d11e47b7c70fd3c2e0e"
         },
         {
           "file": "sounds/rengoku-laugh.mp3",
           "label": "Rengoku laugh (웃음)",
-          "sha256": "a6ec0a5f9616d70c26b3a9264b8545256c532d085618ab5ff4a2594ff1dcbce5"
+          "sha256": "57a5a0230eb2b571ab78e34a75965acfe2baeb165fa91baf5b42a6eff1d4e047"
         },
         {
           "file": "sounds/rengoku-orewa.mp3",
           "label": "Ore wa Rengoku (등장)",
-          "sha256": "d69ed0b0546c81cea84cd5aef4d086d546f18e627bde70bbf741288dca4fd2b4"
+          "sha256": "fd92dfe9e1b4d551621fc27a07295af85f2f0da1617c8a70e12e9d25467838cb"
         }
       ]
     },
@@ -35,7 +35,7 @@
         {
           "file": "sounds/rengoku-01.mp3",
           "label": "Rengoku YT01 (등장)",
-          "sha256": "6ee83f55eba74479d43c0c52c85971941c19c5388115ebee7d82dd4ec4ef1b0b"
+          "sha256": "a5095c8fe5d278d006e987ec9bb6a14a3db4f0b7861df52acf0e724710ca8cda"
         }
       ]
     },
@@ -44,17 +44,17 @@
         {
           "file": "sounds/rengoku-umai.mp3",
           "label": "UMAI! (우마이!)",
-          "sha256": "20373ab18b5b78cd9c07d7172feaa92769121521dbc008ca3770fb9b17568a3d"
+          "sha256": "5a5a28bcb1f9b3a55a53fae41c7d75266c3a31347a296784b378fe858b5eafeb"
         },
         {
           "file": "sounds/rengoku-badass.mp3",
           "label": "Rengoku badass (완료)",
-          "sha256": "a9b3cbd6ac7b654e35bda0ef15717d710be7184ba788e3058a469fe99b1b1e1e"
+          "sha256": "7869a58bc26d85eb8167a16d5a6478e46e89119b2119ea104010e647ec907c1e"
         },
         {
           "file": "sounds/rengoku-02.mp3",
           "label": "Rengoku YT02 (완료)",
-          "sha256": "a1fa119fd547ee0230c597cd513aea793734864fd2eb855bebd0116c33b2304c"
+          "sha256": "9eabc38fe5da042995ea88f06e2151caff6a46304a5dce1b21354ab33e522a11"
         }
       ]
     },
@@ -63,12 +63,12 @@
         {
           "file": "sounds/rengoku-threat.mp3",
           "label": "Rengoku threat (위협)",
-          "sha256": "38c7bdd71c7730c009f88b8c12f467214895947e766c63b30b1f62a8aba27bbb"
+          "sha256": "d61fd3454388bff378c64bb83856fb446af08e37f0f00e5530040aa1184ee514"
         },
         {
           "file": "sounds/rengoku-orewa2.mp3",
           "label": "Ore wa (결의)",
-          "sha256": "b4d5d780e1413d7cd07224731a3f26e38cdf768de1cc759372155aee21ec9c18"
+          "sha256": "b29c30f7867d6dcdf516f2afebca861b7a2bb5e3b3452e5f6563d95586bbbdd9"
         }
       ]
     },
@@ -77,17 +77,17 @@
         {
           "file": "sounds/child-kyojuro-pt-2.mp3",
           "label": "Child Kyojuro (확인 필요)",
-          "sha256": "8486fc0ad50a19bf70a2d9864a8d47861b4c43a121bdbb05933c2720117f6677"
+          "sha256": "d63b681d302f6c258474d054ea4736e0637d11de8bd614bee0375c7a89793389"
         },
         {
           "file": "sounds/rengoku-5th-form.mp3",
           "label": "5th Form (염의 호흡 오형)",
-          "sha256": "562abf3731ed450f6591cbe88963326d32b2247acf091079721272b26c7fe291"
+          "sha256": "ce6257ba239e8bb28cc9d9bb6561d094553b57df5c2d5a8445e28865eaf66b53"
         },
         {
           "file": "sounds/rengoku-ni-no-kata.mp3",
           "label": "Ni no Kata (이형)",
-          "sha256": "d5c9ba07e37ffd3735a46701224e92ea90425edc59a9937bb84f504c75ceae4e"
+          "sha256": "9ff4a9e133738b0296f19f9671c07bfbf00deb0c4e321160e7bc6642437ce3a0"
         }
       ]
     },
@@ -96,7 +96,7 @@
         {
           "file": "sounds/rengoku-mhh.mp3",
           "label": "Mhh (알림)",
-          "sha256": "e2bd425937a07db5ad6c2db5fad0c9555760a3d9a24b323ea7508a06d49a0c90"
+          "sha256": "52525f81334c1bd6443a3e3186c3f0f6fb4b79edad51393531c259c7b00af0a9"
         }
       ]
     }

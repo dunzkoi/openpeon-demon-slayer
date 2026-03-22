@@ -16,27 +16,27 @@
         {
           "file": "sounds/muzan-voice-pt-1.mp3",
           "label": "Muzan voice pt1 (등장)",
-          "sha256": "2e959289f4053df678cccac2c07f4845d9c133e40ca23a8c11220f1288e919c6"
+          "sha256": "bdbd1686b482e7381f7f65c2aa6fcb0fc717ddc033ed3c57faeaafbe585b1e52"
         },
         {
           "file": "sounds/muzan-voice-pt-2.mp3",
           "label": "Muzan voice pt2 (위압)",
-          "sha256": "3a6f50c83773322993ab73f9feccb94ce718a93086feb2f72bee5147ab4cbe1b"
+          "sha256": "42e3a4ba05e8507692a35fae002622caabf5251d99c373ad5faa90eae3559679"
         },
         {
           "file": "sounds/muzan-01.mp3",
           "label": "Muzan YT01 (등장)",
-          "sha256": "8a2449c0997c2c61e141aeffc049b8d991dc393e96b2cb417e29259d2756570b"
+          "sha256": "f39ee1db76d005c28bc1c55ed52b3ffd10e7897b59556304ddbde00503c3f326"
         },
         {
           "file": "sounds/muzan-02.mp3",
           "label": "Muzan YT02 (등장)",
-          "sha256": "6a8a63535d56036269925f0e40d1bb3bbc7af404dec2147b6648a6ad4fdb017e"
+          "sha256": "4b96a33ac00b9c3fed98fcd47367bed35aba8f11c7b73d9251854705b0a6e392"
         },
         {
           "file": "sounds/muzan-03.mp3",
           "label": "Muzan YT03 (위압)",
-          "sha256": "7919989040c9bd94120e8da7ca7d02b28b8cc3bc7682e85e1b3c9855413f01f5"
+          "sha256": "e567ddb939b248964f44734fe53cfc32afd13cecaf0c8c95e0bb2d6ad328dce4"
         }
       ]
     },
@@ -45,7 +45,7 @@
         {
           "file": "sounds/muzan-07.mp3",
           "label": "Muzan YT07 (완료)",
-          "sha256": "50e496941ee54dabc9403e9338bfe060331a9a1f3bce677120dfc4bf202ceafb"
+          "sha256": "f96da621332155a88f6948bc73de243b0413801866c72599a64957afd048da9c"
         }
       ]
     },
@@ -54,27 +54,27 @@
         {
           "file": "sounds/muzan-voice-pt-3.mp3",
           "label": "Muzan voice pt3 (명령 완수)",
-          "sha256": "1edee3871d2a315fcca697d0dfa9d04b336288007fa4835cbf64d0acee9a7d67"
+          "sha256": "450bf0c2e2a1cef7e326e75f1bb56aee116c10f6884b63bd7e9ddab7a641b17c"
         },
         {
           "file": "sounds/muzan-voice-pt-4.mp3",
           "label": "Muzan voice pt4 (완료)",
-          "sha256": "42be9663cea4f4d189e66267c786feeb53c33a452d207c27c44293559f0eb6d4"
+          "sha256": "02a555be64440bb6eda5003f5d7769346f4187510ab7ee3e835ec8c7a1234f02"
         },
         {
           "file": "sounds/muzan-04.mp3",
           "label": "Muzan YT04 (완료)",
-          "sha256": "a03c1ca0b89bdc28c9565a113d805863714832fe10958e157099c589cba502c8"
+          "sha256": "9ae5eff070a0134e6797b0b5aed095e0a87284fa4f78ec7b4e5874a04a8cbe53"
         },
         {
           "file": "sounds/muzan-05.mp3",
           "label": "Muzan YT05 (완료)",
-          "sha256": "d38e564e7f09aacc1b5f91e92d8f017a4083724fdbd157c004375885604ca49c"
+          "sha256": "d22e5a71af63bb04542754736747f0b53591765d603f38561fa377ec3ecec33f"
         },
         {
           "file": "sounds/muzan-06.mp3",
           "label": "Muzan YT06 (완료)",
-          "sha256": "8e66edeaf299d3cc28e924125628ec08c8f947a3710cfecc12e845680f56b661"
+          "sha256": "a26cf3f3eee7eb22eb1243cfa492a8d4a5302226970c0ef15ba639af2ba73ae9"
         }
       ]
     },
@@ -83,32 +83,32 @@
         {
           "file": "sounds/muzan-voice-pt-5.mp3",
           "label": "Muzan voice pt5 (분노)",
-          "sha256": "23a3d984413514589628eb1e0871f29e642d3d29b0c990f0c18d0e695ffdf318"
+          "sha256": "c1a59177907ba5d269518e461d30509ff1cd73d37e39a04185ee6b22c437103d"
         },
         {
           "file": "sounds/muzan-voice-pt-6.mp3",
           "label": "Muzan voice pt6 (실망)",
-          "sha256": "94a163662b359226fc9397f72278faac697c3fae2ee54a0e86426a60f14a992e"
+          "sha256": "08e6a22984cf0ae3cd392afae55571a544b351f5eaeec5861bf6d3552a670058"
         },
         {
           "file": "sounds/muzan-voice-pt-7.mp3",
           "label": "Muzan voice pt7 (위협)",
-          "sha256": "040661e3052a44a1a99c41f957399444ca9701c6b7736bd4571af9755e82b0da"
+          "sha256": "38dfb41d75cbbbda2ff6c2a716f824e318511cee0a8d7ee1eaf87f3b613c01ad"
         },
         {
           "file": "sounds/muzan-08.mp3",
           "label": "Muzan YT08 (분노)",
-          "sha256": "f211416b20cfdf986169efaba04d057f7744d23469f5add5264199233f381731"
+          "sha256": "102eb1152338cc38026bc4611784b5e29f5ba9877040e48064e8a1c7872b212c"
         },
         {
           "file": "sounds/muzan-09.mp3",
           "label": "Muzan YT09 (분노)",
-          "sha256": "bbdccacb4b96c408595de2a5cc556f622449ee6e28bb4bf1fdef31d83252a767"
+          "sha256": "03d9bb46f84317477dacdacdceff38d328bd9f4a47da22de63cb0a2d6897ddae"
         },
         {
           "file": "sounds/muzan-10.mp3",
           "label": "Muzan YT10 (위협)",
-          "sha256": "8638d5a644f059b8660c9e5e5f947a2a7e341a9f7c926dbc37b5df39303bb472"
+          "sha256": "0eb605297fe70d4b2ab475439b6f3e8749fd732575b6d40995fcbb1593389024"
         }
       ]
     },
@@ -117,27 +117,27 @@
         {
           "file": "sounds/infinite-castle-sound.mp3",
           "label": "Infinite Castle (알림)",
-          "sha256": "4e8c2d88f92c8a028fdda8a30ff79ce4be280a0b324655cbf2b99c204538b6e5"
+          "sha256": "8e2689734ee0f6104caa1b4e812849c2f2feca2dc7b6dd293082a6e3fa322b58"
         },
         {
           "file": "sounds/muzan-12.mp3",
           "label": "Muzan YT12 (명령)",
-          "sha256": "b00b62861a22f0c5d5b22ca53078c9661e2706593e1142e3f00d72c23bbc8bd1"
+          "sha256": "60ff64e4a42259c2705e0a5c6d36a5bab5eb1c80e4dbac2c8907798d4cf04120"
         },
         {
           "file": "sounds/muzan-13.mp3",
           "label": "Muzan YT13 (확인)",
-          "sha256": "d1f50e8417924568af8cb2c11410e81415ef7f3bcb4155e76c8cc48304ce016d"
+          "sha256": "9fa8ee37b8765274ceedb22bf118c38f3f37da928e050bd90e468c2f1cfef1e1"
         },
         {
           "file": "sounds/muzan-14.mp3",
           "label": "Muzan YT14 (확인)",
-          "sha256": "8d93ce6896aa91f916fc52996db5f86f819d52bcbb4e66dc63b763f3cd3cafa2"
+          "sha256": "05a3af73cbb57dfe87e11fc2ef90e0f59e9cd1c1e676b30fbe25fb68c93f52e8"
         },
         {
           "file": "sounds/muzan-15.mp3",
           "label": "Muzan YT15 (명령)",
-          "sha256": "e5df9f018222dacfecb4faaadfd8695109d46cb039f9e5554c7781857f9902f7"
+          "sha256": "e76b8960430911d84da00e2125e66872486704183a21d301b2091f6b2a47f0cb"
         }
       ]
     },
@@ -146,7 +146,7 @@
         {
           "file": "sounds/muzan-11.mp3",
           "label": "Muzan YT11 (위협)",
-          "sha256": "506ec2ebeec39f231e5e360a47b63b383d8766af54143f04338fc49815af05e9"
+          "sha256": "ba0e02dea7033a2b2a2df69d232de44b0d8cd2b4ae481685fd7ec02430f73e31"
         }
       ]
     }

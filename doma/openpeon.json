@@ -16,12 +16,12 @@
         {
           "file": "sounds/doma-03.mp3",
           "label": "Doma voice 03 (등장)",
-          "sha256": "42db68f6132f246602bc124154b839b96fc0846a8491b19dc464c0591f59568a"
+          "sha256": "16980ceb5be5f0c7cc0244d487acdd45246d6468c4bbfb07d3c8f500e0d9b391"
         },
         {
           "file": "sounds/doma-04.mp3",
           "label": "Doma voice 04 (등장)",
-          "sha256": "88a65118b3d9f1e46a2de7d52390cfe25c491815df7a6994ee58a66a8cf56337"
+          "sha256": "6f20c196985424bf1bc88198641adc132e87860dbb645c8ae988c105e809e45f"
         }
       ]
     },
@@ -30,7 +30,7 @@
         {
           "file": "sounds/doma-05.mp3",
           "label": "Doma voice 05 (수락)",
-          "sha256": "4fb637451dfb58121990fa1264c1a7ce75b68b64793fe19ee7c0081e8a4f5738"
+          "sha256": "f698a6d81b593656d59efdd4e99ee422ac74b1ad21ec6857be1d5af6d282977e"
         }
       ]
     },
@@ -39,12 +39,12 @@
         {
           "file": "sounds/doma-02.mp3",
           "label": "Doma voice 02 (완료)",
-          "sha256": "c6967e77667624a6778eb91a61a3668544d759e2ba2642c00788de688cd246a2"
+          "sha256": "c9028049ef8bcbc8ed6a48debfffc0bc33b88862cefaf02669c44ebb050b50de"
         },
         {
           "file": "sounds/doma-06.mp3",
           "label": "Doma voice 06 (완료)",
-          "sha256": "c5a879590c3722360017115b7e95768ffd9d75a4521717079c039bb926c1493e"
+          "sha256": "d48a58475bcb41bd00775d236c4ae6d29b6a1a7917ea1b620784d59e74b18855"
         }
       ]
     },
@@ -53,12 +53,12 @@
         {
           "file": "sounds/doma-01.mp3",
           "label": "Doma voice 01 (에러)",
-          "sha256": "119c5bff24a5f5650d8ad545c8f8e651017c7aa55dbb5dd91bbf234671bd0a19"
+          "sha256": "0f40b387c5e2550ac8176b916aa2b2f9a82eacef49e04ffc1eb13ebe1c4d5ac9"
         },
         {
           "file": "sounds/doma-07.mp3",
           "label": "Doma voice 07 (에러)",
-          "sha256": "03a4d2669a696e723f7dc8d5904bc12bbd25d33d9fa5a6754f393f73e41b4d2e"
+          "sha256": "35d9095d7f6160ff94e5852cace929a45b3ade724417989ed20a33bd22114fa5"
         }
       ]
     },
@@ -67,7 +67,7 @@
         {
           "file": "sounds/doma-08.mp3",
           "label": "Doma voice 08 (알림)",
-          "sha256": "d53f5503889c201a477faded2d31ad5d5dc564b1223ad83a1b388f7adf422d70"
+          "sha256": "8053be12e1939832b28fe7b82488ab747e7389b0ab6816ed1f1cf9de5b03b0c0"
         }
       ]
     },
@@ -76,7 +76,7 @@
         {
           "file": "sounds/doma-09.mp3",
           "label": "Doma voice 09 (한계)",
-          "sha256": "3a62166d5cbc047aead417635dc97ee8d147f8680a8dff4904c186580b5137ff"
+          "sha256": "1dbc4201771adaef1692af8b2e9ed6294d17cf1da31c01524abefb6603fa2665"
         }
       ]
     }

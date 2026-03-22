@@ -16,12 +16,12 @@
         {
           "file": "sounds/obanai-intro.mp3",
           "label": "Obanai intro (등장)",
-          "sha256": "7bff55c14f53d656246a1b0ff41f85258e0a169dc8cb6ef505e2339cd566f698"
+          "sha256": "acffa5ea9cc1906f5561a6620cb535d8ddd5c98b0acbf8dbe87cbe966028528f"
         },
         {
           "file": "sounds/obanai-pt-1.mp3",
           "label": "Obanai voice pt1 (인사)",
-          "sha256": "9b90c97324e933fdeb3c93885790da3d79323b6e866a4467496cefdc341c0880"
+          "sha256": "d634e106b8f2b3d8e6ecfa1d960f3a71282421cd772eeb11406d10b599eda657"
         }
       ]
     },
@@ -30,7 +30,7 @@
         {
           "file": "sounds/obanai-voice1.mp3",
           "label": "Obanai voice 1 (등장)",
-          "sha256": "989d23c605a0f8afe09cfa04ccbad7d4765d1f5d81a57fff9f4b4dc06f183b99"
+          "sha256": "66ed0cdee3cb6c33d4e49a81f7cfc69fb9baf9f261467ec5bd52264fcacc8192"
         }
       ]
     },
@@ -39,17 +39,17 @@
         {
           "file": "sounds/obanai-pt-2.mp3",
           "label": "Obanai voice pt2 (완료)",
-          "sha256": "e7bbdf796c6d7f6a05b1dc8be1866c1d28981161225be5612406aaf4a8e32c92"
+          "sha256": "c7eec8e1c404a1d3949db8fb5e961a922a225857e40dd675e6aefe1a4008108e"
         },
         {
           "file": "sounds/obanai-pt-3.mp3",
           "label": "Obanai voice pt3 (완료)",
-          "sha256": "97db6b87871c55e0092b6ec61a1fc960ba40644e14f0a6471c7b762cdb673958"
+          "sha256": "8055d020c7d313c6662f8a23f19fe2c1fbcdd3cb16c9dbfa28bc6a6df887c4ca"
         },
         {
           "file": "sounds/obanai-voice2.mp3",
           "label": "Obanai voice 2 (완료)",
-          "sha256": "077a134b0ec0fbf6111d08e3be5c311d9e4c809f165d0db65e740887d8feaaca"
+          "sha256": "e2dc9bcf33b1e881d81e3703a4b52e562f0f1dedfb8833f428fa5e22b773003a"
         }
       ]
     },
@@ -58,22 +58,22 @@
         {
           "file": "sounds/obanai-pt-4.mp3",
           "label": "Obanai voice pt4 (분노)",
-          "sha256": "41709921dd39e8ec87f7f7be473b56e7c061f6c9a9938acda51796d6c632987e"
+          "sha256": "d6b2a8cabc675cfd154ce89040feff285459555b4e9df62cfe88a74d609b2f3f"
         },
         {
           "file": "sounds/obanai-ep11-pt-1.mp3",
           "label": "Obanai EP11 pt1 (에러)",
-          "sha256": "402d47cca56196abd0b5f89ef0d2c251f0c09bd79fb8ff483e2de791f405824e"
+          "sha256": "b0d1304adc541a2ab8c70bb4bb1b8956997580754f638a9735f869f3ac33da79"
         },
         {
           "file": "sounds/obanai-voice3.mp3",
           "label": "Obanai voice 3 (에러)",
-          "sha256": "75c096239a1c978b28bc7d50b9187655990c2c039fdd4a0c712e71cdd744697f"
+          "sha256": "17c9fc1ee396b214b1d5b94fbdd926b6c30cc58b10ec21901e6bb586251d1517"
         },
         {
           "file": "sounds/obanai-voice4.mp3",
           "label": "Obanai voice 4 (에러)",
-          "sha256": "2c07142165eaccdf721c41643009f4158dd5bdd6615164bae2ed9ce69363665d"
+          "sha256": "9a64098136e14c640dac2537bf25be7cadc065922686ea7117f069da5b38de99"
         }
       ]
     },
@@ -82,27 +82,27 @@
         {
           "file": "sounds/obanai-ep11-pt-2.mp3",
           "label": "Obanai EP11 pt2 (확인)",
-          "sha256": "b0d3bc041a940b972cf9928f85cf6607f91076e60d7c3738f66cb4572fe29c3d"
+          "sha256": "a419145d9e5bfeedea7d3666cb5793b2beb4ce9920aa91aa55febcaf859effd8"
         },
         {
           "file": "sounds/obanai-ep11-pt-3.mp3",
           "label": "Obanai EP11 pt3 (확인 필요)",
-          "sha256": "a8277288ab4a476f8ea442a880fbe74c4f5c0e0ca9f239ad1bb19d99bab359db"
+          "sha256": "03490f8ca347d6eef193f261fbe6bcb325ff26a274db5379e4cc7b5d984b9b4b"
         },
         {
           "file": "sounds/obanai-voice5.mp3",
           "label": "Obanai voice 5 (알림)",
-          "sha256": "8322fe65bb702277c40bb4365eb948aa0bf61c1af30456227d0cd0c3160f8355"
+          "sha256": "789ebc6e61dbd020a9b486e2e957a57f22343a4cac0e279a955c6d77b6af04a4"
         },
         {
           "file": "sounds/obanai-voice6.mp3",
           "label": "Obanai voice 6 (알림)",
-          "sha256": "19f9d8ed3971f764ed6d45769a1f3478c23d918e59529b2e13e280ce8c4c3912"
+          "sha256": "89ec71e5df06a986b1aec5fd38fa80fa0d8e35ff1aa5a36e42795a925e62eb4c"
         },
         {
           "file": "sounds/obanai-voice7.mp3",
           "label": "Obanai voice 7 (확인)",
-          "sha256": "09ab6f7b45ce04e7d4679d15a420a977cf4ca3b18fb3f93e9f7243264ee428dc"
+          "sha256": "0b804c282868257fb1eeae9b9649d60e96b1514f22b736edabc97b98ea6ddc80"
         }
       ]
     },
@@ -111,7 +111,7 @@
         {
           "file": "sounds/obanai-voice8.mp3",
           "label": "Obanai voice 8 (확인)",
-          "sha256": "99c3e1fb64197613bdde4b9727e5d6e50d5dfe28e37031dba5df46905579b78a"
+          "sha256": "dc073e26d3e5cd185b7f7f1491c0ab738da519f6dd64905f8d696d6ae23f462e"
         }
       ]
     }

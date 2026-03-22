@@ -16,22 +16,22 @@
         {
           "file": "sounds/tanjiro-his-name.mp3",
           "label": "Kamado Tanjiro! (자기소개)",
-          "sha256": "44f865d344f1ecf94c6bbcf7cb6319940da158a9e4c4145c6b5ce7203deb4fbe"
+          "sha256": "bc4fc529884e6224c04f4dcfd484760af179fe72ab31fbbe45abdddaf15e1276"
         },
         {
           "file": "sounds/tanjiro-voice.mp3",
           "label": "Tanjiro voice (세션 시작)",
-          "sha256": "7d0e3dd1ccfbee5342446241f0e5941e713ff211178951912c730ffbf2b7cbb5"
+          "sha256": "84d58f04028a6e5b0525172cc8a8cd949a819414b864400d6eaaf3ade0943337"
         },
         {
           "file": "sounds/dev-tanjiro.mp3",
           "label": "Tanjiro dev mode (개발 시작)",
-          "sha256": "70cbd9fea90bddc3d4ac7c85031badba506eff0c46054f572e8f839a751f11bc"
+          "sha256": "c38454908384aef286637f7046314449ef0f1de5823abc66950e76df207ad946"
         },
         {
           "file": "sounds/tanjiro-01.mp3",
           "label": "Tanjiro YT01 (등장)",
-          "sha256": "80cab35da669d212653d68d57dbe59c10f0ccea91ffa7faf490d08cec5cd8c5e"
+          "sha256": "52c5818db9a2fa81fb26ac21b25c3f349a1fe3ac75bb5a389b3e06aab076c925"
         }
       ]
     },
@@ -40,7 +40,7 @@
         {
           "file": "sounds/tanjiro-02.mp3",
           "label": "Tanjiro YT02 (등장)",
-          "sha256": "5d1a4db3895925e30649e82e1b3736b44556e54aa2db77d2fda3a718963c0274"
+          "sha256": "ed011867d0d9f6b6c3ddd1498618065bb12621fbe7bb7049246fad8c8e9fdbe8"
         }
       ]
     },
@@ -49,27 +49,27 @@
         {
           "file": "sounds/demon-slayer-breath.mp3",
           "label": "Breath technique (호흡 기술)",
-          "sha256": "1e1b04f1f4b018e6f24e03d08ce07ecee92e7bd5f2774aa78c315870d2797997"
+          "sha256": "951587bb7a395c9910655800dacca6e43bd76e80f07aace154a75800ecca172c"
         },
         {
           "file": "sounds/demon-slayer.mp3",
           "label": "Demon Slayer! (임무 완수)",
-          "sha256": "09f6c8aa3369c882309cfea727b89282f78f504469bf2ff95b41fd134ab4d577"
+          "sha256": "5e1d77e7bcfc189627669f764fbfa38313df4fe6ed0bdfd0f5387b751862c21d"
         },
         {
           "file": "sounds/tanjiro-03.mp3",
           "label": "Tanjiro YT03 (완료)",
-          "sha256": "a4d0b68aa419311b6d97006a5759162d8ede1992cbb01511f4d381f8eba25752"
+          "sha256": "2beb398e3ba973473bce8a7e324e5708d2c46c71b499861a5d22a4b0d7d64b1d"
         },
         {
           "file": "sounds/tanjiro-04.mp3",
           "label": "Tanjiro YT04 (완료)",
-          "sha256": "7847ef66fb654a25c394cc3fd066df79f84bb9631e193459af0b871002cf44c0"
+          "sha256": "1408a472c4e4bae00fb798b5350741f1f78ba1b0fb8faeff70d4df5e40d36326"
         },
         {
           "file": "sounds/tanjiro-05.mp3",
           "label": "Tanjiro YT05 (완료)",
-          "sha256": "38a497d171170162b5ca924447d23358b9a9e8691c8feede6daff1978611548b"
+          "sha256": "fe4ccc7a878db4e723531ac14e354aab4602b9c4109d73d1e6bcbf23aed16ea0"
         }
       ]
     },
@@ -78,22 +78,22 @@
         {
           "file": "sounds/baby-tanjiro-pt-1.mp3",
           "label": "Baby Tanjiro pt1 (당황)",
-          "sha256": "eecc36d24b729e4fbc7747f530452cd35f47a4e0c2cc0d671edf7bdefad84ff7"
+          "sha256": "ce5192e8fcaff224924703c653389d5b339d92d5471fcab5d5f8c13a88d64211"
         },
         {
           "file": "sounds/baby-tanjiro-pt-2.mp3",
           "label": "Baby Tanjiro pt2 (울음)",
-          "sha256": "1c853116e99b3fde06ebc8cd7e104a15c56c71deeac5c766c3c801d936e834a3"
+          "sha256": "7546daa332acb9fe3b390f24a014d0d9de2f37afff5aa758dcf6f26acd908406"
         },
         {
           "file": "sounds/tanjiro-baby-laugh.mp3",
           "label": "Baby laugh (가벼운 에러)",
-          "sha256": "f6cd818bfc9027817300caf1c814d8c8ffee1ca06a7607985775678e44ea15b1"
+          "sha256": "fac1e03388f8269c07ab7f8110ae0e90ce533e559c6a04715ffa79a4a69445a6"
         },
         {
           "file": "sounds/tanjiro-06.mp3",
           "label": "Tanjiro YT06 (에러)",
-          "sha256": "7475af20989351b06359298bf47c8cd9a5d4073c42b695bc53e6866152eee982"
+          "sha256": "60a71b44edda3844e927f419bb519dbef34a49e2de9efef3985dceaed142feb6"
         }
       ]
     },
@@ -102,27 +102,27 @@
         {
           "file": "sounds/demon-slayer-biwa-sound.mp3",
           "label": "Biwa ding (알림)",
-          "sha256": "518d9a7eb69582a59929e16050e0e0a572a3ee158d0607476e14e14348541bdc"
+          "sha256": "679ddc5bb88038326266f6ac4201cb67064fdd91c3fed218559eb2a32937699c"
         },
         {
           "file": "sounds/infinity-castle-drop.mp3",
           "label": "Infinity Castle (주의)",
-          "sha256": "8b3550abf0085b3bacc57a95e4bbdbb30825cff03eaa3bcf31aaa0fb2eba6e16"
+          "sha256": "d20086622a5c3ad94913fe8a8aef1fbad31bd2fd2d952fe63b3d1318979bc3e5"
         },
         {
           "file": "sounds/tanjiro-08.mp3",
           "label": "Tanjiro YT08 (확인)",
-          "sha256": "52e333f9fcb6c0952dd0bc68271d806f9146a7c52e712ae9c3d36a6cc224e731"
+          "sha256": "e65d2206fd28323480588934c379cc171f5622580e01ece22befb23a930c1baa"
         },
         {
           "file": "sounds/tanjiro-09.mp3",
           "label": "Tanjiro YT09 (확인)",
-          "sha256": "77f2859631d21ec56d9a2a042c4169706a8b4764800fbb283f4ba71d06232183"
+          "sha256": "c3ba5e0e092f91ff74f93dd7448036ad887f2f1cbf5fb6f01ff3fd47d639b4de"
         },
         {
           "file": "sounds/tanjiro-10.mp3",
           "label": "Tanjiro YT10 (확인)",
-          "sha256": "7c386a91a0fa75ca77cc8407340bcfabf15e805dbf92553e3943fa021ca08e4b"
+          "sha256": "c33ffc26150296a978c7ca8972d33ebbac3468aefd9d8814f2c563fb609c72a4"
         }
       ]
     },
@@ -131,7 +131,7 @@
         {
           "file": "sounds/tanjiro-07.mp3",
           "label": "Tanjiro YT07 (에러)",
-          "sha256": "ce5b584ca6287dbfe73f944e37b007c82b899209a8ac287954e07f3788224f2f"
+          "sha256": "294fc72f2e68249473035c9a9b79599085db7137557de6231b382d05863c78ed"
         }
       ]
     }

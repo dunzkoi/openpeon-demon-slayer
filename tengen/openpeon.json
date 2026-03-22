@@ -16,12 +16,12 @@
         {
           "file": "sounds/tengen-nanda.mp3",
           "label": "Nanda? (뭐야?)",
-          "sha256": "b36c437ce7fdef41f10cc64d7eced1ae3dcd377d9e74fba494fd3cf2b177fba1"
+          "sha256": "c7db0e8108de6e4df4e0394bf5695c0748eef9449088e238be5a1182fd811dac"
         },
         {
           "file": "sounds/tengen-voice1.mp3",
           "label": "Tengen voice 1 (등장)",
-          "sha256": "f86de3d4ad69d07b47d9f136c63ae3e72af87faefc1af4730b34f3dd728b539c"
+          "sha256": "5d69f4e235a9bcab98215be1e4760260b9867ad2874ab7dabcc4a928b24cba94"
         }
       ]
     },
@@ -30,7 +30,7 @@
         {
           "file": "sounds/tengen-voice3.mp3",
           "label": "Tengen voice 3 (완료)",
-          "sha256": "fc1897e1e60e8974658040810bfd3fe406950f78541061220f5296c7eaf41188"
+          "sha256": "955f93ceb90f007afb5573cfc757fa4115505de77c1528b44a016dd2a01ceb0e"
         }
       ]
     },
@@ -39,12 +39,12 @@
         {
           "file": "sounds/tengen-badass.mp3",
           "label": "Tengen badass (완료)",
-          "sha256": "54ef43cbab11ed2c6a20d686abc216d8a7995add493e21aab0c165bdb39b471b"
+          "sha256": "c764f5ba1f86b8fac867903239f6fccc9d771c8ad6a5e380565a92cc393b3927"
         },
         {
           "file": "sounds/tengen-voice2.mp3",
           "label": "Tengen voice 2 (완료)",
-          "sha256": "9ca7a4e75ec0dacf827c4e31200229eb3670361a8f70cd0dd72c05cdd7064af0"
+          "sha256": "d4f9dcaf08302367c2b1e596cb372a355c08ad09b87e31d6fc3f2cc507fa4d74"
         }
       ]
     },
@@ -53,12 +53,12 @@
         {
           "file": "sounds/tengen-urusei.mp3",
           "label": "Urusei! (시끄러!)",
-          "sha256": "0c179832a1e92e62071dc7c2aa2bb539b164e6cecf43cb6c8935e65ce895ef0d"
+          "sha256": "c10c0b9c943684933f838ac926ee3828f8b6f676f3094d3490279128255b23e6"
         },
         {
           "file": "sounds/tengen-baca.mp3",
           "label": "Baka! (바보!)",
-          "sha256": "1067fef281dd2c30f9b19da364ab7bbf9856ccc6730cf190210f666c998a1423"
+          "sha256": "1a93d276cd78eeafabdb406036a51530319a353e3244c8827ac6c9afa4096317"
         }
       ]
     },
@@ -67,7 +67,7 @@
         {
           "file": "sounds/tengen-nani.mp3",
           "label": "Nani? (뭐?)",
-          "sha256": "78031847df95421ee36e4f2e9e5ead8e9ea8da247ebfdae204477265cc117030"
+          "sha256": "c863b5d5b240cc4abb7d8855884831ee7cb78082c9f50ac41fdceaa4dbcce618"
         }
       ]
     },
@@ -76,7 +76,7 @@
         {
           "file": "sounds/tengen-voice4.mp3",
           "label": "Tengen voice 4 (에러)",
-          "sha256": "121bf1513907ef0993fc84cacd449f4731a5036d1804d3eedeeddbb427086b9a"
+          "sha256": "8f7c754f6d00880b2fc91778b87d06afb3d94e5001b3cd5079a010024e124dda"
         }
       ]
     }

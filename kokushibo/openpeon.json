@@ -16,7 +16,7 @@
         {
           "file": "sounds/kokushibo-01.mp3",
           "label": "Kokushibo voice 01 (등장)",
-          "sha256": "f5d10cd1e16e6fa62ae4420de1e8e123571d7f449d95e682027addeecfc87961"
+          "sha256": "c7c7e67d75b3ca086b479aa6442770aeae207aad910afd2986c68fa684d99957"
         }
       ]
     },
@@ -25,7 +25,7 @@
         {
           "file": "sounds/kokushibo-02.mp3",
           "label": "Kokushibo voice 02 (등장)",
-          "sha256": "3d17ca8781741094e75d366dc29dec100af16fa85376ea11e2e4d04c019336be"
+          "sha256": "f7b139ea1ad1513ddf3f46f975f7d3cada3982eb400c2c888fd320dc0fe00f93"
         }
       ]
     },
@@ -34,12 +34,12 @@
         {
           "file": "sounds/kokushibo-04.mp3",
           "label": "Kokushibo voice 04 (완료)",
-          "sha256": "19fb56a0893c57910e10cd19b43610d27b47789bb119b6437c5d1295ef72d5c8"
+          "sha256": "acadca06ac5699c3d271419126b1333546921e8b6ed4946c35094c67bde9da2f"
         },
         {
           "file": "sounds/kokushibo-05.mp3",
           "label": "Kokushibo voice 05 (완료)",
-          "sha256": "4848b78c7102b62a26977d83a06006513418053dca60a64c7c018b847611a8ca"
+          "sha256": "cd1cfa90c560ea6221e90a9d19406287ece28a22a3bd8fb16a8f59e548c7fb02"
         }
       ]
     },
@@ -48,7 +48,7 @@
         {
           "file": "sounds/kokushibo-06.mp3",
           "label": "Kokushibo voice 06 (에러)",
-          "sha256": "cafdb419669de562424ef2056918fee467b348b63297f7b001f23e2a5657aadd"
+          "sha256": "646a1d0158d077e431e367b3cdd8a641b60e65148c91492549e35d29a723cc25"
         }
       ]
     },
@@ -57,7 +57,7 @@
         {
           "file": "sounds/kokushibo-03.mp3",
           "label": "Kokushibo voice 03 (알림)",
-          "sha256": "c6b22e0ce752b284fa131c2a19db296ec7b9790c779e5da58a3d7a3c893e194c"
+          "sha256": "533ce6ee33819be876b5169839bf84d35f5b052d50e71e1440426e70fc880463"
         }
       ]
     },
@@ -66,7 +66,7 @@
         {
           "file": "sounds/kokushibo-07.mp3",
           "label": "Kokushibo voice 07 (알림)",
-          "sha256": "b5c1283520cb06d1d70af8915cbdf63e98489a9f424f76c4c4a7a3e014ab594a"
+          "sha256": "c093d53b3e25e99fec5f5da3bc255610bca4142e6c650325d6f3f665a06cdc0b"
         }
       ]
     }

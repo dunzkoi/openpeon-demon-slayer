@@ -16,12 +16,12 @@
         {
           "file": "sounds/muichiro.mp3",
           "label": "Muichiro (등장)",
-          "sha256": "6c4bd1522340116e5538147d660797c61b79e2e20f746a9512baaafd4b5a8d03"
+          "sha256": "9734dd05363828872fe5a32f60d90a7d13860bf48ca8eefa47cb50571bb7a26b"
         },
         {
           "file": "sounds/muichiro-tokito.mp3",
           "label": "Muichiro Tokito (등장)",
-          "sha256": "503227c73a59dc1f386824b7ebf7bc797513bf624b82b22c6bd808eae4af5c98"
+          "sha256": "eb105728946f2e730c35a69341095311bbffead2f829762d4cca90a7831b261a"
         }
       ]
     },
@@ -30,7 +30,7 @@
         {
           "file": "sounds/muichiro-06.mp3",
           "label": "Muichiro voice 06 (수락)",
-          "sha256": "84c81100cb31650dbc55ad4036257342d11ed624308d6c0042aa408c28ecdabf"
+          "sha256": "5153457e0848048ad039212e687f6fad62d3fc83bad6932f512e76456165d78e"
         }
       ]
     },
@@ -39,12 +39,12 @@
         {
           "file": "sounds/muichiro-tokito-1.mp3",
           "label": "Muichiro Tokito (완료)",
-          "sha256": "688ff25b9eb8373d9305c2cc7ecbd8876ca7313dc85a214e8b79c388f5cdfd07"
+          "sha256": "467ff32def93961f57d178662a2c3f5c63b9fd4b93b5391ae843c479a6739cd7"
         },
         {
           "file": "sounds/muichiro-07.mp3",
           "label": "Muichiro voice 07 (완료)",
-          "sha256": "8870b3ca2e43a6ca6a5133f73a7ef1612df9cf6be813bff72991f42d6e4b19a2"
+          "sha256": "53bea11d898ae006ee7924b8e6b6f7c31a9f9a442ab1ebe5a87a4b61ad233533"
         }
       ]
     },
@@ -53,12 +53,12 @@
         {
           "file": "sounds/muichiro-tokito-again.mp3",
           "label": "Muichiro again (에러)",
-          "sha256": "6eab2328ce0d548b2587a7f4270be897f27a831afd5df46a07c477d483737de3"
+          "sha256": "d111c7a75960355de979b6bb472fc80189aba4c2459c702b26f2d51320453f09"
         },
         {
           "file": "sounds/muichiro-08.mp3",
           "label": "Muichiro voice 08 (에러)",
-          "sha256": "8e390030a11c4eea311e32f35791b9bd8dcfaf4696b671854dde0acd71a8feb6"
+          "sha256": "f6167ae55aff59593ce6be184be9893bdfe729a7a6799d69af92f03fe2d3631e"
         }
       ]
     },
@@ -67,7 +67,7 @@
         {
           "file": "sounds/muichiro-tokito-kun.mp3",
           "label": "Muichiro-kun (알림)",
-          "sha256": "504ed78939b1481754faaea02787dab41444b8e4e0689f92c25d8c92643d0c0f"
+          "sha256": "1988e601a65f079484b898968334535d943905fe8197a8bdd5e810dbb3ee1918"
         }
       ]
     },
@@ -76,7 +76,7 @@
         {
           "file": "sounds/muichiro-09.mp3",
           "label": "Muichiro voice 09 (한계)",
-          "sha256": "98498fa8986759a1e5f3c25acf54773859b4dce0050a4ed06d251d881cc7b609"
+          "sha256": "63895b2a90f8e1ac89723441d565fa69774e5aa6e0410f4639fda1caf4e069d7"
         }
       ]
     }

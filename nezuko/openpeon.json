@@ -16,17 +16,17 @@
         {
           "file": "sounds/nezuko-yes.mp3",
           "label": "Nezuko yes! (응!)",
-          "sha256": "59cdcddd055f5f86d159f601b1ebd0f9ec0cf5b3c180fcd49bb4b785ac0ec61b"
+          "sha256": "8fb1cba7b52841f8722efc6d92be52294208a6bbe4fd487158763686c83dbeef"
         },
         {
           "file": "sounds/nezuko-cute.mp3",
           "label": "Nezuko cute (귀여운 인사)",
-          "sha256": "895dc59b951060702a063cdbdc5cff78ee382c3a1a5c69ba658648b9e8b88155"
+          "sha256": "6830d94484e3af7ad50b33f93299d1f102a0e2e0206c5d7d8dc9eb43f49e5fe1"
         },
         {
           "file": "sounds/nezuko-happy-giggle.mp3",
           "label": "Nezuko giggle (기쁜 웃음)",
-          "sha256": "c8a511ddc1a38fb3751298159776d7e294066676295b3cfb46575124daf26b3a"
+          "sha256": "f82ab046024ca356c85323a54cd16f0e0f657e3f78e96eb37cff6362cb15154c"
         }
       ]
     },
@@ -35,7 +35,7 @@
         {
           "file": "sounds/nezuko-01.mp3",
           "label": "Nezuko YT01 (등장)",
-          "sha256": "5d628ac53a1bc8db2c1c8a333703f7609c5550b109d2c15cd0d22faf38cb0f5d"
+          "sha256": "39d6317c4d196fafd2be67494907606ec46c74e1c4f4989c80cd53a08da473b0"
         }
       ]
     },
@@ -44,17 +44,17 @@
         {
           "file": "sounds/nezuko-chaaaaan.mp3",
           "label": "Nezuko-chan! (완료)",
-          "sha256": "9ed4c2035cc52ba5c33c7201b1e6d13aff4c9faedb07304c5bb60021d192cece"
+          "sha256": "fb0c79156659a5ea76f888215464d82d4ef02840ed68347ef69473926924d159"
         },
         {
           "file": "sounds/nezukoooooooo.mp3",
           "label": "Nezukooooo! (대성공)",
-          "sha256": "d3ed9b4f8008d7f42a31d592bbb2d6dec5895061324cff35020ac373a7345df0"
+          "sha256": "afd7b721b0d4ed4830cb7e952ae2706300caebdea5d79a8aeb3722d965fb3887"
         },
         {
           "file": "sounds/nezuko-chan-ringtones.mp3",
           "label": "Nezuko-chan ringtone (완료 알림)",
-          "sha256": "64f22e2165cf841524a03faaf38d45d8baa352fe008bd03111b9e3fd541e9c1c"
+          "sha256": "7db02d3d707d17984b24144b15cdfdc1bdd6927e92a9a2f79aceaa496802248d"
         }
       ]
     },
@@ -63,17 +63,17 @@
         {
           "file": "sounds/nezuko-growl.mp3",
           "label": "Nezuko growl (으르렁)",
-          "sha256": "7ef68d9dd5430d6ee2fc364746b0247ed2b361ce58b2de8009640d13239bfa81"
+          "sha256": "d4840bb770f3a1da60d2224ce06cef34314f8f7d2d94ab88d45bfe56f4f9cf76"
         },
         {
           "file": "sounds/nezuko-pout.mp3",
           "label": "Nezuko pout (삐짐)",
-          "sha256": "28ad8e3d14cf0d08dbf7e31c1f26baf70d158aac54a92e34f42b3273dd665a79"
+          "sha256": "4c2c5ba66673eeae3bee7d6fe3a933d29e6256ebb0839e8f7464ea8400003daa"
         },
         {
           "file": "sounds/tmpoub7pz0z.mp3",
           "label": "Nezuko upset (속상)",
-          "sha256": "4601cf590ab3903d0b0e2989195b045080211311130fe64d921e541a978f57d2"
+          "sha256": "319e95af4839914657535b9bfb7d4a63b3570c04660598a8a56129a2314490b6"
         }
       ]
     },
@@ -82,17 +82,17 @@
         {
           "file": "sounds/nezuko-curious.mp3",
           "label": "Nezuko curious (궁금)",
-          "sha256": "a9381347b3d210eeb4a3579800482f0a4d1d2f963b167493eaba7cd74552b634"
+          "sha256": "de9441c6cda22bb458568c7a38d5a1708786bf27f0b603342113a2ccb8966e0d"
         },
         {
           "file": "sounds/nezuko-chan-notification-ringtone.mp3",
           "label": "Notification (알림)",
-          "sha256": "6dce0cafd37a57bc7af3b8145eb69503ea1e71122ac6ba982234b2d5a393e060"
+          "sha256": "fb965680d5eaa431057b40d574fbedbeeca1bcb2be090aba2dba61b7c2f4312f"
         },
         {
           "file": "sounds/tmpbyyr8grt.mp3",
           "label": "Nezuko hmm (확인 필요)",
-          "sha256": "8b869d484a16f679dfd971c3d5395171ce5cfc165aa5edc1d58c162a3013df0f"
+          "sha256": "7b2c9e77afaf25e55a06a6f97079b85c510b5e4c6b8cb3ebc6120cdd14034322"
         }
       ]
     },
@@ -101,7 +101,7 @@
         {
           "file": "sounds/nezuko-20.mp3",
           "label": "Nezuko YT20 (에러)",
-          "sha256": "93cc3f79f586556a3da2c70abddc5375826f35a1707f61c48fe154ead7b8d4a5"
+          "sha256": "58cb5e0a93b8741c17de0f2ab5d8adb99acb63f3df03fa3ace58041a054dd832"
         }
       ]
     }
