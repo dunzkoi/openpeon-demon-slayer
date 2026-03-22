@@ -22,7 +22,11 @@
           "file": "sounds/akaza-voice-pt-1.mp3",
           "label": "Akaza voice pt1 (시작)",
           "sha256": "2f3dacad4c04a5f16b9d7d3e856c85e76fbe041dcbbd6993a84781fe4baabb94"
-        },
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
         {
           "file": "sounds/akaza-01.mp3",
           "label": "Akaza YT01 (등장)",
@@ -60,11 +64,6 @@
           "file": "sounds/akaza-20.mp3",
           "label": "Akaza YT20 (분노)",
           "sha256": "234d277de1d1b22d32de5688e6d9571cff89a594db0eb7a4889b9327957dabec"
-        },
-        {
-          "file": "sounds/akaza-21.mp3",
-          "label": "Akaza YT21 (분노)",
-          "sha256": "33be0660976305548c749d3e0ca2af1bdb0f821dac397a6a9ac49fcf63e2441c"
         }
       ]
     },
@@ -74,6 +73,15 @@
           "file": "sounds/akaza-kokushibo.mp3",
           "label": "Akaza & Kokushibo (주의)",
           "sha256": "15b08788c2f5ee87efe167ba1029af515e5d281aae7df021d72a7bdfd87cf717"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/akaza-21.mp3",
+          "label": "Akaza YT21 (분노)",
+          "sha256": "33be0660976305548c749d3e0ca2af1bdb0f821dac397a6a9ac49fcf63e2441c"
         }
       ]
     }

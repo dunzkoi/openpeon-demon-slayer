@@ -27,7 +27,11 @@
           "file": "sounds/nezuko-happy-giggle.mp3",
           "label": "Nezuko giggle (기쁜 웃음)",
           "sha256": "c8a511ddc1a38fb3751298159776d7e294066676295b3cfb46575124daf26b3a"
-        },
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
         {
           "file": "sounds/nezuko-01.mp3",
           "label": "Nezuko YT01 (등장)",
@@ -70,11 +74,6 @@
           "file": "sounds/tmpoub7pz0z.mp3",
           "label": "Nezuko upset (속상)",
           "sha256": "4601cf590ab3903d0b0e2989195b045080211311130fe64d921e541a978f57d2"
-        },
-        {
-          "file": "sounds/nezuko-20.mp3",
-          "label": "Nezuko YT20 (에러)",
-          "sha256": "93cc3f79f586556a3da2c70abddc5375826f35a1707f61c48fe154ead7b8d4a5"
         }
       ]
     },
@@ -94,6 +93,15 @@
           "file": "sounds/tmpbyyr8grt.mp3",
           "label": "Nezuko hmm (확인 필요)",
           "sha256": "8b869d484a16f679dfd971c3d5395171ce5cfc165aa5edc1d58c162a3013df0f"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/nezuko-20.mp3",
+          "label": "Nezuko YT20 (에러)",
+          "sha256": "93cc3f79f586556a3da2c70abddc5375826f35a1707f61c48fe154ead7b8d4a5"
         }
       ]
     }

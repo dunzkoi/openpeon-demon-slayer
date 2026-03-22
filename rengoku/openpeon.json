@@ -27,7 +27,11 @@
           "file": "sounds/rengoku-orewa.mp3",
           "label": "Ore wa Rengoku (등장)",
           "sha256": "d69ed0b0546c81cea84cd5aef4d086d546f18e627bde70bbf741288dca4fd2b4"
-        },
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
         {
           "file": "sounds/rengoku-01.mp3",
           "label": "Rengoku YT01 (등장)",
@@ -84,7 +88,11 @@
           "file": "sounds/rengoku-ni-no-kata.mp3",
           "label": "Ni no Kata (이형)",
           "sha256": "d5c9ba07e37ffd3735a46701224e92ea90425edc59a9937bb84f504c75ceae4e"
-        },
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
         {
           "file": "sounds/rengoku-mhh.mp3",
           "label": "Mhh (알림)",

@@ -17,7 +17,11 @@
           "file": "sounds/enmu-02.mp3",
           "label": "Enmu voice 02 (등장)",
           "sha256": "c9e8c531eebe31ddb030d5736850dbe027dce8d83daff1776fd8c8b2c54a7696"
-        },
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
         {
           "file": "sounds/enmu-03.mp3",
           "label": "Enmu voice 03 (등장)",
@@ -45,11 +49,6 @@
           "file": "sounds/enmu-13.mp3",
           "label": "Enmu voice 13 (에러)",
           "sha256": "31ab4b1cf2fd65b71eb60d27e9828f34f9e64d1be1640ff2585a906d57723907"
-        },
-        {
-          "file": "sounds/enmu-15.mp3",
-          "label": "Enmu voice 15 (에러)",
-          "sha256": "ed227710376a31536c3d5c62624b800acb662d4056f4434a2d75bcd2bff7812f"
         }
       ]
     },
@@ -64,6 +63,15 @@
           "file": "sounds/enmu-11.mp3",
           "label": "Enmu voice 11 (알림)",
           "sha256": "77e4426b01875733c63b357c4347de9dbc0fc67b14d955a3cd9e218d9549d9cf"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/enmu-15.mp3",
+          "label": "Enmu voice 15 (에러)",
+          "sha256": "ed227710376a31536c3d5c62624b800acb662d4056f4434a2d75bcd2bff7812f"
         }
       ]
     }

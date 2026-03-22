@@ -22,7 +22,11 @@
           "file": "sounds/shinobu-02.mp3",
           "label": "Shinobu YT02 (등장)",
           "sha256": "2eaf6cd1875b1444eed465a8522f944de59aa1ec732337cd98cce109478ffcf4"
-        },
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
         {
           "file": "sounds/shinobumoshimoshipseudoasmr.mp3",
           "label": "Moshi moshi ASMR ver2 (인사)",
@@ -64,7 +68,11 @@
           "file": "sounds/tmpao9kbv5a.mp3",
           "label": "Shinobu attention (확인)",
           "sha256": "17715b3be9a843b30333a390727ae4b03ac76183fcab037e51c8e0ae36bfaefa"
-        },
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
         {
           "file": "sounds/shinobu-07.mp3",
           "label": "Shinobu YT07 (확인)",

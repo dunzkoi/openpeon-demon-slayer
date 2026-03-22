@@ -5,8 +5,8 @@
   "version": "1.0.0",
   "description": "Inosuke Hashibira voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
   "author": {
-    "name": "djlee",
-    "github": "djlee"
+    "name": "dunzkoi",
+    "github": "dunzkoi"
   },
   "license": "fan-community",
   "language": "ja",
@@ -15,38 +15,72 @@
       "sounds": [
         {
           "file": "sounds/im-comin-trough-inosuke.mp3",
-          "label": "I'm coming through! (돌격)",
+          "label": "I'm comin' through! (등장)",
           "sha256": "5fe91cc6f5a3bdf3bf310c408063df9c198df8cb222d1d56ad9fe50bfcbbeb23"
         },
         {
-          "file": "sounds/inosukemp4.mp3",
-          "label": "Inosuke! (등장)",
-          "sha256": "98fcb6e50d44e07f6b33a83533f7c837511e4ec038fa7465d9a5e26e4049491b"
+          "file": "sounds/inosuke-06.mp3",
+          "label": "Inosuke voice 06 (등장)",
+          "sha256": "323ff9aa60fe2206444d2cf08bd440351653d30649055dc53d3e45d6a45f5346"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/nandakore.mp3",
+          "label": "Nandakore?! (수락)",
+          "sha256": "37b15115867b4656ff0a66034ca2ace525293d677c9f7c00ef1453e35cbd36f9"
         }
       ]
     },
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/inosuke-laugh.mp3",
-          "label": "Inosuke laugh (승리의 웃음)",
-          "sha256": "b950c6c4558f59273663df4ac53cecf7ada571ad022b132917450592ae39e198"
+          "file": "sounds/inosukemp4.mp3",
+          "label": "Inosuke (완료)",
+          "sha256": "98fcb6e50d44e07f6b33a83533f7c837511e4ec038fa7465d9a5e26e4049491b"
         },
         {
-          "file": "sounds/nandakore.mp3",
-          "label": "Nandakore?! (뭐야 이게!)",
-          "sha256": "37b15115867b4656ff0a66034ca2ace525293d677c9f7c00ef1453e35cbd36f9"
+          "file": "sounds/inosuke-07.mp3",
+          "label": "Inosuke voice 07 (완료)",
+          "sha256": "52b0268b12968d88013006b49a663ad0e00b5cb18e79f3465a58ba145ead47f7"
         }
       ]
     },
     "task.error": {
-      "sounds": []
+      "sounds": [
+        {
+          "file": "sounds/inosuke-08.mp3",
+          "label": "Inosuke voice 08 (에러)",
+          "sha256": "6fb61d784ec0b1bafe4b285827d3716454aeed484772863f17d2986b8b90177a"
+        },
+        {
+          "file": "sounds/inosuke-09.mp3",
+          "label": "Inosuke voice 09 (에러)",
+          "sha256": "9caad80e0da24fdf8c608d2a8490741b078dfb356cc03159b0d1f77416d6301c"
+        }
+      ]
     },
     "input.required": {
       "sounds": [
         {
+          "file": "sounds/inosuke-laugh.mp3",
+          "label": "Inosuke laugh (알림)",
+          "sha256": "b950c6c4558f59273663df4ac53cecf7ada571ad022b132917450592ae39e198"
+        },
+        {
+          "file": "sounds/inosuke-10.mp3",
+          "label": "Inosuke voice 10 (알림)",
+          "sha256": "b0677018c2f53cd4dc08e8f3368e739c4f470b8b38bc3cbdb12964a02c1a68e3"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
           "file": "sounds/tmp9u9heyef.mp3",
-          "label": "Kamaboko Gonpachiro (입력 요청)",
+          "label": "Inosuke (한계)",
           "sha256": "cdb5fa784d2a3ca66efd9708050c6b14de8212ba82e52a933da8a94b42a6b29e"
         }
       ]

@@ -25,6 +25,15 @@
         }
       ]
     },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/tengen-voice3.mp3",
+          "label": "Tengen voice 3 (완료)",
+          "sha256": "fc1897e1e60e8974658040810bfd3fe406950f78541061220f5296c7eaf41188"
+        }
+      ]
+    },
     "task.complete": {
       "sounds": [
         {
@@ -36,11 +45,6 @@
           "file": "sounds/tengen-voice2.mp3",
           "label": "Tengen voice 2 (완료)",
           "sha256": "9ca7a4e75ec0dacf827c4e31200229eb3670361a8f70cd0dd72c05cdd7064af0"
-        },
-        {
-          "file": "sounds/tengen-voice3.mp3",
-          "label": "Tengen voice 3 (완료)",
-          "sha256": "fc1897e1e60e8974658040810bfd3fe406950f78541061220f5296c7eaf41188"
         }
       ]
     },
@@ -55,11 +59,6 @@
           "file": "sounds/tengen-baca.mp3",
           "label": "Baka! (바보!)",
           "sha256": "1067fef281dd2c30f9b19da364ab7bbf9856ccc6730cf190210f666c998a1423"
-        },
-        {
-          "file": "sounds/tengen-voice4.mp3",
-          "label": "Tengen voice 4 (에러)",
-          "sha256": "121bf1513907ef0993fc84cacd449f4731a5036d1804d3eedeeddbb427086b9a"
         }
       ]
     },
@@ -69,6 +68,15 @@
           "file": "sounds/tengen-nani.mp3",
           "label": "Nani? (뭐?)",
           "sha256": "78031847df95421ee36e4f2e9e5ead8e9ea8da247ebfdae204477265cc117030"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/tengen-voice4.mp3",
+          "label": "Tengen voice 4 (에러)",
+          "sha256": "121bf1513907ef0993fc84cacd449f4731a5036d1804d3eedeeddbb427086b9a"
         }
       ]
     }

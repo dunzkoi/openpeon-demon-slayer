@@ -5,8 +5,8 @@
   "version": "1.0.0",
   "description": "Doma (Upper Moon Two) voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
   "author": {
-    "name": "djlee",
-    "github": "djlee"
+    "name": "dunzkoi",
+    "github": "dunzkoi"
   },
   "license": "fan-community",
   "language": "ja",
@@ -17,6 +17,20 @@
           "file": "sounds/doma-03.mp3",
           "label": "Doma voice 03 (등장)",
           "sha256": "42db68f6132f246602bc124154b839b96fc0846a8491b19dc464c0591f59568a"
+        },
+        {
+          "file": "sounds/doma-04.mp3",
+          "label": "Doma voice 04 (등장)",
+          "sha256": "88a65118b3d9f1e46a2de7d52390cfe25c491815df7a6994ee58a66a8cf56337"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/doma-05.mp3",
+          "label": "Doma voice 05 (수락)",
+          "sha256": "4fb637451dfb58121990fa1264c1a7ce75b68b64793fe19ee7c0081e8a4f5738"
         }
       ]
     },
@@ -26,6 +40,11 @@
           "file": "sounds/doma-02.mp3",
           "label": "Doma voice 02 (완료)",
           "sha256": "c6967e77667624a6778eb91a61a3668544d759e2ba2642c00788de688cd246a2"
+        },
+        {
+          "file": "sounds/doma-06.mp3",
+          "label": "Doma voice 06 (완료)",
+          "sha256": "c5a879590c3722360017115b7e95768ffd9d75a4521717079c039bb926c1493e"
         }
       ]
     },
@@ -35,11 +54,31 @@
           "file": "sounds/doma-01.mp3",
           "label": "Doma voice 01 (에러)",
           "sha256": "119c5bff24a5f5650d8ad545c8f8e651017c7aa55dbb5dd91bbf234671bd0a19"
+        },
+        {
+          "file": "sounds/doma-07.mp3",
+          "label": "Doma voice 07 (에러)",
+          "sha256": "03a4d2669a696e723f7dc8d5904bc12bbd25d33d9fa5a6754f393f73e41b4d2e"
         }
       ]
     },
     "input.required": {
-      "sounds": []
+      "sounds": [
+        {
+          "file": "sounds/doma-08.mp3",
+          "label": "Doma voice 08 (알림)",
+          "sha256": "d53f5503889c201a477faded2d31ad5d5dc564b1223ad83a1b388f7adf422d70"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/doma-09.mp3",
+          "label": "Doma voice 09 (한계)",
+          "sha256": "3a62166d5cbc047aead417635dc97ee8d147f8680a8dff4904c186580b5137ff"
+        }
+      ]
     }
   }
 }

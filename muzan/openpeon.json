@@ -40,6 +40,15 @@
         }
       ]
     },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/muzan-07.mp3",
+          "label": "Muzan YT07 (완료)",
+          "sha256": "50e496941ee54dabc9403e9338bfe060331a9a1f3bce677120dfc4bf202ceafb"
+        }
+      ]
+    },
     "task.complete": {
       "sounds": [
         {
@@ -66,11 +75,6 @@
           "file": "sounds/muzan-06.mp3",
           "label": "Muzan YT06 (완료)",
           "sha256": "8e66edeaf299d3cc28e924125628ec08c8f947a3710cfecc12e845680f56b661"
-        },
-        {
-          "file": "sounds/muzan-07.mp3",
-          "label": "Muzan YT07 (완료)",
-          "sha256": "50e496941ee54dabc9403e9338bfe060331a9a1f3bce677120dfc4bf202ceafb"
         }
       ]
     },
@@ -105,11 +109,6 @@
           "file": "sounds/muzan-10.mp3",
           "label": "Muzan YT10 (위협)",
           "sha256": "8638d5a644f059b8660c9e5e5f947a2a7e341a9f7c926dbc37b5df39303bb472"
-        },
-        {
-          "file": "sounds/muzan-11.mp3",
-          "label": "Muzan YT11 (위협)",
-          "sha256": "506ec2ebeec39f231e5e360a47b63b383d8766af54143f04338fc49815af05e9"
         }
       ]
     },
@@ -139,6 +138,15 @@
           "file": "sounds/muzan-15.mp3",
           "label": "Muzan YT15 (명령)",
           "sha256": "e5df9f018222dacfecb4faaadfd8695109d46cb039f9e5554c7781857f9902f7"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/muzan-11.mp3",
+          "label": "Muzan YT11 (위협)",
+          "sha256": "506ec2ebeec39f231e5e360a47b63b383d8766af54143f04338fc49815af05e9"
         }
       ]
     }

@@ -32,7 +32,11 @@
           "file": "sounds/tanjiro-01.mp3",
           "label": "Tanjiro YT01 (등장)",
           "sha256": "80cab35da669d212653d68d57dbe59c10f0ccea91ffa7faf490d08cec5cd8c5e"
-        },
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
         {
           "file": "sounds/tanjiro-02.mp3",
           "label": "Tanjiro YT02 (등장)",
@@ -90,11 +94,6 @@
           "file": "sounds/tanjiro-06.mp3",
           "label": "Tanjiro YT06 (에러)",
           "sha256": "7475af20989351b06359298bf47c8cd9a5d4073c42b695bc53e6866152eee982"
-        },
-        {
-          "file": "sounds/tanjiro-07.mp3",
-          "label": "Tanjiro YT07 (에러)",
-          "sha256": "ce5b584ca6287dbfe73f944e37b007c82b899209a8ac287954e07f3788224f2f"
         }
       ]
     },
@@ -124,6 +123,15 @@
           "file": "sounds/tanjiro-10.mp3",
           "label": "Tanjiro YT10 (확인)",
           "sha256": "7c386a91a0fa75ca77cc8407340bcfabf15e805dbf92553e3943fa021ca08e4b"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/tanjiro-07.mp3",
+          "label": "Tanjiro YT07 (에러)",
+          "sha256": "ce5b584ca6287dbfe73f944e37b007c82b899209a8ac287954e07f3788224f2f"
         }
       ]
     }

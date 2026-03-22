@@ -22,7 +22,11 @@
           "file": "sounds/obanai-pt-1.mp3",
           "label": "Obanai voice pt1 (인사)",
           "sha256": "9b90c97324e933fdeb3c93885790da3d79323b6e866a4467496cefdc341c0880"
-        },
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
         {
           "file": "sounds/obanai-voice1.mp3",
           "label": "Obanai voice 1 (등장)",
@@ -99,7 +103,11 @@
           "file": "sounds/obanai-voice7.mp3",
           "label": "Obanai voice 7 (확인)",
           "sha256": "09ab6f7b45ce04e7d4679d15a420a977cf4ca3b18fb3f93e9f7243264ee428dc"
-        },
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
         {
           "file": "sounds/obanai-voice8.mp3",
           "label": "Obanai voice 8 (확인)",
