@@ -15,23 +15,18 @@
       "sounds": [
         {
           "file": "sounds/his-name.mp3",
-          "label": "Kamado Tanjiro! (자기소개)",
+          "label": "Kamado Tanjiro da! (俺の名は竈門炭治郎だ!)",
           "sha256": "bc4fc529884e6224c04f4dcfd484760af179fe72ab31fbbe45abdddaf15e1276"
         },
         {
           "file": "sounds/voice.mp3",
-          "label": "Tanjiro voice (세션 시작)",
+          "label": "Tanjiro - thread of opening (隙の糸が見えた)",
           "sha256": "84d58f04028a6e5b0525172cc8a8cd949a819414b864400d6eaaf3ade0943337"
         },
         {
           "file": "sounds/dev-tanjiro.mp3",
-          "label": "Tanjiro dev mode (개발 시작)",
+          "label": "Tanjiro - okite tatakae! (起きて戦え!戦え!)",
           "sha256": "c38454908384aef286637f7046314449ef0f1de5823abc66950e76df207ad946"
-        },
-        {
-          "file": "sounds/uchinomesaretemo.mp3",
-          "label": "Tanjiro YT01 (등장)",
-          "sha256": "52c5818db9a2fa81fb26ac21b25c3f349a1fe3ac75bb5a389b3e06aab076c925"
         }
       ]
     },
@@ -39,7 +34,7 @@
       "sounds": [
         {
           "file": "sounds/zettai-ni-nai.mp3",
-          "label": "Tanjiro YT02 (등장)",
+          "label": "Tanjiro - zettai ni nai! (絶対にない!)",
           "sha256": "ed011867d0d9f6b6c3ddd1498618065bb12621fbe7bb7049246fad8c8e9fdbe8"
         }
       ]
@@ -47,28 +42,23 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/demon-slayer-breath.mp3",
-          "label": "Breath technique (호흡 기술)",
-          "sha256": "951587bb7a395c9910655800dacca6e43bd76e80f07aace154a75800ecca172c"
-        },
-        {
           "file": "sounds/demon-slayer.mp3",
-          "label": "Demon Slayer! (임무 완수)",
+          "label": "Tanjiro - Hinokami Kagura! (ヒノカミ神楽!)",
           "sha256": "5e1d77e7bcfc189627669f764fbfa38313df4fe6ed0bdfd0f5387b751862c21d"
         },
         {
           "file": "sounds/shouchiru-hazu-nai.mp3",
-          "label": "Tanjiro YT03 (완료)",
+          "label": "Tanjiro - shouchiru hazu nai (承知るはずないだろ)",
           "sha256": "2beb398e3ba973473bce8a7e324e5708d2c46c71b499861a5d22a4b0d7d64b1d"
         },
         {
           "file": "sounds/omoi-mo-ishi-mo-aru.mp3",
-          "label": "Tanjiro YT04 (완료)",
+          "label": "Tanjiro - omoi mo ishi mo aru (思いも意志もあるんだ)",
           "sha256": "1408a472c4e4bae00fb798b5350741f1f78ba1b0fb8faeff70d4df5e40d36326"
         },
         {
           "file": "sounds/shoubu-de-ganbari.mp3",
-          "label": "Tanjiro YT05 (완료)",
+          "label": "Tanjiro - shoubu de ganbari (勝負で頑張りつける!)",
           "sha256": "fe4ccc7a878db4e723531ac14e354aab4602b9c4109d73d1e6bcbf23aed16ea0"
         }
       ]
@@ -76,23 +66,8 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/baby-tanjiro-pt-1.mp3",
-          "label": "Baby Tanjiro pt1 (당황)",
-          "sha256": "ce5192e8fcaff224924703c653389d5b339d92d5471fcab5d5f8c13a88d64211"
-        },
-        {
-          "file": "sounds/baby-tanjiro-pt-2.mp3",
-          "label": "Baby Tanjiro pt2 (울음)",
-          "sha256": "7546daa332acb9fe3b390f24a014d0d9de2f37afff5aa758dcf6f26acd908406"
-        },
-        {
-          "file": "sounds/baby-laugh.mp3",
-          "label": "Baby laugh (가벼운 에러)",
-          "sha256": "fac1e03388f8269c07ab7f8110ae0e90ce533e559c6a04715ffa79a4a69445a6"
-        },
-        {
           "file": "sounds/kokoroe-chigai.mp3",
-          "label": "Tanjiro YT06 (에러)",
+          "label": "Tanjiro - kokoroe chigai (心得違いを正さなければ)",
           "sha256": "60a71b44edda3844e927f419bb519dbef34a49e2de9efef3985dceaed142feb6"
         }
       ]
@@ -100,28 +75,23 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/demon-slayer-biwa-sound.mp3",
-          "label": "Biwa ding (알림)",
-          "sha256": "679ddc5bb88038326266f6ac4201cb67064fdd91c3fed218559eb2a32937699c"
+          "file": "sounds/baby-tanjiro-pt-1.mp3",
+          "label": "Baby Tanjiro - tousan wa naze? (父さんは体が弱いのに?)",
+          "sha256": "ce5192e8fcaff224924703c653389d5b339d92d5471fcab5d5f8c13a88d64211"
         },
         {
           "file": "sounds/infinity-castle-drop.mp3",
-          "label": "Infinity Castle (주의)",
+          "label": "Tanjiro - Infinity Castle drop (無限城落下)",
           "sha256": "d20086622a5c3ad94913fe8a8aef1fbad31bd2fd2d952fe63b3d1318979bc3e5"
         },
         {
-          "file": "sounds/iai-ba.mp3",
-          "label": "Tanjiro YT08 (확인)",
-          "sha256": "e65d2206fd28323480588934c379cc171f5622580e01ece22befb23a930c1baa"
-        },
-        {
           "file": "sounds/bakemono-ja-nai.mp3",
-          "label": "Tanjiro YT09 (확인)",
+          "label": "Tanjiro - bakemono ja nai (化け物なんかじゃない)",
           "sha256": "c3ba5e0e092f91ff74f93dd7448036ad887f2f1cbf5fb6f01ff3fd47d639b4de"
         },
         {
           "file": "sounds/kubetsu-tsukanai.mp3",
-          "label": "Tanjiro YT10 (확인)",
+          "label": "Tanjiro - kubetsu tsukanai (善良な鬼と悪い鬼の区別もつかないなら)",
           "sha256": "c33ffc26150296a978c7ca8972d33ebbac3468aefd9d8814f2c563fb609c72a4"
         }
       ]
@@ -130,8 +100,13 @@
       "sounds": [
         {
           "file": "sounds/te-ni-hairanai.mp3",
-          "label": "Tanjiro YT07 (에러)",
+          "label": "Tanjiro - te ni hairanai (お前の欲しいものは手に入らないぞ!)",
           "sha256": "294fc72f2e68249473035c9a9b79599085db7137557de6231b382d05863c78ed"
+        },
+        {
+          "file": "sounds/baby-tanjiro-pt-2.mp3",
+          "label": "Baby Tanjiro - iki (行き)",
+          "sha256": "7546daa332acb9fe3b390f24a014d0d9de2f37afff5aa758dcf6f26acd908406"
         }
       ]
     }

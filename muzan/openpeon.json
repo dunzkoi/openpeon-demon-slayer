@@ -15,66 +15,41 @@
       "sounds": [
         {
           "file": "sounds/omoichigai.mp3",
-          "label": "Muzan voice pt1 (등장)",
+          "label": "Muzan - omoichigai (お前は何か思い違いをしているようだな)",
           "sha256": "bdbd1686b482e7381f7f65c2aa6fcb0fc717ddc033ed3c57faeaafbe585b1e52"
         },
         {
           "file": "sounds/akaza-san.mp3",
-          "label": "Muzan voice pt2 (위압)",
+          "label": "Muzan - Akaza... (赤座さん)",
           "sha256": "42e3a4ba05e8507692a35fae002622caabf5251d99c373ad5faa90eae3559679"
         },
         {
           "file": "sounds/juunikizuki-kagenomi.mp3",
-          "label": "Muzan YT01 (등장)",
+          "label": "Muzan - juunikizuki kagenomi (十二鬼月の下弦のみ集められて)",
           "sha256": "f39ee1db76d005c28bc1c55ed52b3ffd10e7897b59556304ddbde00503c3f326"
-        },
-        {
-          "file": "sounds/hajimete-da-zo.mp3",
-          "label": "Muzan YT02 (등장)",
-          "sha256": "4b96a33ac00b9c3fed98fcd47367bed35aba8f11c7b73d9251854705b0a6e392"
-        },
-        {
-          "file": "sounds/silence-muzan.mp3",
-          "label": "Muzan YT03 (위압)",
-          "sha256": "e567ddb939b248964f44734fe53cfc32afd13cecaf0c8c95e0bb2d6ad328dce4"
         }
       ]
     },
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/chi-wo-agete.mp3",
-          "label": "Muzan YT07 (완료)",
-          "sha256": "f96da621332155a88f6948bc73de243b0413801866c72599a64957afd048da9c"
+          "file": "sounds/silence-muzan-2.mp3",
+          "label": "Muzan - silence (沈黙の威圧)",
+          "sha256": "9fa8ee37b8765274ceedb22bf118c38f3f37da928e050bd90e468c2f1cfef1e1"
         }
       ]
     },
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/omoichigai-2.mp3",
-          "label": "Muzan voice pt3 (명령 완수)",
-          "sha256": "450bf0c2e2a1cef7e326e75f1bb56aee116c10f6884b63bd7e9ddab7a641b17c"
-        },
-        {
           "file": "sounds/hanafuda-no-kazari.mp3",
-          "label": "Muzan voice pt4 (완료)",
+          "label": "Muzan - hanafuda no kazari (耳に花札のような飾りをつけた)",
           "sha256": "02a555be64440bb6eda5003f5d7769346f4187510ab7ee3e835ec8c7a1234f02"
         },
         {
           "file": "sounds/jougen-kaoburenai.mp3",
-          "label": "Muzan YT04 (완료)",
+          "label": "Muzan - jougen kaoburenai (上弦は顔ブレが変わらない)",
           "sha256": "9ae5eff070a0134e6797b0b5aed095e0a87284fa4f78ec7b4e5874a04a8cbe53"
-        },
-        {
-          "file": "sounds/sonna-koto.mp3",
-          "label": "Muzan YT05 (완료)",
-          "sha256": "d22e5a71af63bb04542754736747f0b53591765d603f38561fa377ec3ecec33f"
-        },
-        {
-          "file": "sounds/oyaku-ni-tatemasu.mp3",
-          "label": "Muzan YT06 (완료)",
-          "sha256": "a26cf3f3eee7eb22eb1243cfa492a8d4a5302226970c0ef15ba639af2ba73ae9"
         }
       ]
     },
@@ -82,33 +57,23 @@
       "sounds": [
         {
           "file": "sounds/kubi-motte-koi.mp3",
-          "label": "Muzan voice pt5 (분노)",
+          "label": "Muzan - kubi motte koi (鬼狩りの首を持ってこい)",
           "sha256": "c1a59177907ba5d269518e461d30509ff1cd73d37e39a04185ee6b22c437103d"
         },
         {
           "file": "sounds/kouhai-wo-tarete.mp3",
-          "label": "Muzan voice pt6 (실망)",
+          "label": "Muzan - kouhai wo tarete (後輩を垂れてつく前)",
           "sha256": "08e6a22984cf0ae3cd392afae55571a544b351f5eaeec5861bf6d3552a670058"
         },
         {
           "file": "sounds/ningen-chigai.mp3",
-          "label": "Muzan voice pt7 (위협)",
+          "label": "Muzan - ningen chigai (人間など見ただけでは違いがわからない)",
           "sha256": "38dfb41d75cbbbda2ff6c2a716f824e318511cee0a8d7ee1eaf87f3b613c01ad"
         },
         {
-          "file": "sounds/sashizusashita.mp3",
-          "label": "Muzan YT08 (분노)",
-          "sha256": "102eb1152338cc38026bc4611784b5e29f5ba9877040e48064e8a1c7872b212c"
-        },
-        {
           "file": "sounds/shinidaishi.mp3",
-          "label": "Muzan YT09 (분노)",
+          "label": "Muzan - shinidaishi (死に大使)",
           "sha256": "03d9bb46f84317477dacdacdceff38d328bd9f4a47da22de63cb0a2d6897ddae"
-        },
-        {
-          "file": "sounds/yumemigokochi.mp3",
-          "label": "Muzan YT10 (위협)",
-          "sha256": "0eb605297fe70d4b2ab475439b6f3e8749fd732575b6d40995fcbb1593389024"
         }
       ]
     },
@@ -116,37 +81,22 @@
       "sounds": [
         {
           "file": "sounds/infinite-castle-sound.mp3",
-          "label": "Infinite Castle (알림)",
+          "label": "Muzan - Infinite Castle (無限城 効果音)",
           "sha256": "8e2689734ee0f6104caa1b4e812849c2f2feca2dc7b6dd293082a6e3fa322b58"
         },
         {
-          "file": "sounds/saigo-made.mp3",
-          "label": "Muzan YT12 (명령)",
-          "sha256": "60ff64e4a42259c2705e0a5c6d36a5bab5eb1c80e4dbac2c8907798d4cf04120"
-        },
-        {
-          "file": "sounds/silence-muzan-2.mp3",
-          "label": "Muzan YT13 (확인)",
-          "sha256": "9fa8ee37b8765274ceedb22bf118c38f3f37da928e050bd90e468c2f1cfef1e1"
-        },
-        {
           "file": "sounds/chi-wo-wakete-yaru.mp3",
-          "label": "Muzan YT14 (확인)",
+          "label": "Muzan - chi wo wakete yaru (血を分けてやる)",
           "sha256": "05a3af73cbb57dfe87e11fc2ef90e0f59e9cd1c1e676b30fbe25fb68c93f52e8"
-        },
-        {
-          "file": "sounds/kodomo-wo-korose-chi.mp3",
-          "label": "Muzan YT15 (명령)",
-          "sha256": "e76b8960430911d84da00e2125e66872486704183a21d301b2091f6b2a47f0cb"
         }
       ]
     },
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/jikijiki-ni.mp3",
-          "label": "Muzan YT11 (위협)",
-          "sha256": "ba0e02dea7033a2b2a2df69d232de44b0d8cd2b4ae481685fd7ec02430f73e31"
+          "file": "sounds/infinite-castle-sound.mp3",
+          "label": "Muzan - Infinite Castle (無限城 効果音)",
+          "sha256": "8e2689734ee0f6104caa1b4e812849c2f2feca2dc7b6dd293082a6e3fa322b58"
         }
       ]
     }

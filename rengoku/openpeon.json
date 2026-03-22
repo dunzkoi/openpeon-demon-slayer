@@ -15,17 +15,17 @@
       "sounds": [
         {
           "file": "sounds/name.mp3",
-          "label": "Rengoku Kyojuro! (자기소개)",
+          "label": "Rengoku Kyojuro da! (煉獄杏寿郎だ!)",
           "sha256": "6a6cbd1a4e812bbdd07340149884f4a93156556ae4590d11e47b7c70fd3c2e0e"
         },
         {
           "file": "sounds/laugh.mp3",
-          "label": "Rengoku laugh (웃음)",
+          "label": "Rengoku laugh (あはははは!)",
           "sha256": "57a5a0230eb2b571ab78e34a75965acfe2baeb165fa91baf5b42a6eff1d4e047"
         },
         {
           "file": "sounds/orewa.mp3",
-          "label": "Ore wa Rengoku (등장)",
+          "label": "Ore wa Rengoku Kyojuro! (俺は煉獄杏寿郎だ!)",
           "sha256": "fd92dfe9e1b4d551621fc27a07295af85f2f0da1617c8a70e12e9d25467838cb"
         }
       ]
@@ -34,7 +34,7 @@
       "sounds": [
         {
           "file": "sounds/ore-ga-shinu.mp3",
-          "label": "Rengoku YT01 (등장)",
+          "label": "Rengoku - ore ga shinu (俺がここで死ぬことは気にするな)",
           "sha256": "a5095c8fe5d278d006e987ec9bb6a14a3db4f0b7861df52acf0e724710ca8cda"
         }
       ]
@@ -43,17 +43,17 @@
       "sounds": [
         {
           "file": "sounds/umai.mp3",
-          "label": "UMAI! (우마이!)",
+          "label": "UMAI! (うまい!)",
           "sha256": "5a5a28bcb1f9b3a55a53fae41c7d75266c3a31347a296784b378fe858b5eafeb"
         },
         {
           "file": "sounds/badass.mp3",
-          "label": "Rengoku badass (완료)",
+          "label": "Rengoku - Hinokami (炎の呼吸)",
           "sha256": "7869a58bc26d85eb8167a16d5a6478e46e89119b2119ea104010e647ec907c1e"
         },
         {
           "file": "sounds/hashira-tate.mp3",
-          "label": "Rengoku YT02 (완료)",
+          "label": "Rengoku - hashira nara tate (柱ならば後輩の盾となるのは当然だ)",
           "sha256": "9eabc38fe5da042995ea88f06e2151caff6a46304a5dce1b21354ab33e522a11"
         }
       ]
@@ -61,13 +61,8 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/threat.mp3",
-          "label": "Rengoku threat (위협)",
-          "sha256": "d61fd3454388bff378c64bb83856fb446af08e37f0f00e5530040aa1184ee514"
-        },
-        {
           "file": "sounds/orewa2.mp3",
-          "label": "Ore wa (결의)",
+          "label": "Rengoku - ore wa ore no sekimu (俺は俺の責務を全うする!)",
           "sha256": "b29c30f7867d6dcdf516f2afebca861b7a2bb5e3b3452e5f6563d95586bbbdd9"
         }
       ]
@@ -76,27 +71,22 @@
       "sounds": [
         {
           "file": "sounds/child-kyojuro-pt-2.mp3",
-          "label": "Child Kyojuro (확인 필요)",
+          "label": "Child Kyojuro - hai okaa-ue! (はい!母上!)",
           "sha256": "d63b681d302f6c258474d054ea4736e0637d11de8bd614bee0375c7a89793389"
         },
         {
-          "file": "sounds/5th-form.mp3",
-          "label": "5th Form (염의 호흡 오형)",
-          "sha256": "ce6257ba239e8bb28cc9d9bb6561d094553b57df5c2d5a8445e28865eaf66b53"
-        },
-        {
-          "file": "sounds/ni-no-kata.mp3",
-          "label": "Ni no Kata (이형)",
-          "sha256": "9ff4a9e133738b0296f19f9671c07bfbf00deb0c4e321160e7bc6642437ce3a0"
+          "file": "sounds/mhh.mp3",
+          "label": "Rengoku - hmm (んー)",
+          "sha256": "52525f81334c1bd6443a3e3186c3f0f6fb4b79edad51393531c259c7b00af0a9"
         }
       ]
     },
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/mhh.mp3",
-          "label": "Mhh (알림)",
-          "sha256": "52525f81334c1bd6443a3e3186c3f0f6fb4b79edad51393531c259c7b00af0a9"
+          "file": "sounds/ni-no-kata.mp3",
+          "label": "Rengoku - Ennokoyuu ni no kata (炎の呼吸 弐ノ型 昇り炎天)",
+          "sha256": "9ff4a9e133738b0296f19f9671c07bfbf00deb0c4e321160e7bc6642437ce3a0"
         }
       ]
     }

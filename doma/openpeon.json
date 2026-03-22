@@ -15,12 +15,12 @@
       "sounds": [
         {
           "file": "sounds/yasashii-kara.mp3",
-          "label": "Doma voice 03 (등장)",
+          "label": "Doma - yasashii kara (俺は優しいから放っておけない)",
           "sha256": "16980ceb5be5f0c7cc0244d487acdd45246d6468c4bbfb07d3c8f500e0d9b391"
         },
         {
           "file": "sounds/makoto-ni.mp3",
-          "label": "Doma voice 04 (등장)",
+          "label": "Doma - makoto ni? (まことにございますか?)",
           "sha256": "6f20c196985424bf1bc88198641adc132e87860dbb645c8ae988c105e809e45f"
         }
       ]
@@ -29,7 +29,7 @@
       "sounds": [
         {
           "file": "sounds/okaeshi.mp3",
-          "label": "Doma voice 05 (수락)",
+          "label": "Doma - okaeshi (おかえしたもの)",
           "sha256": "f698a6d81b593656d59efdd4e99ee422ac74b1ad21ec6857be1d5af6d282977e"
         }
       ]
@@ -38,13 +38,8 @@
       "sounds": [
         {
           "file": "sounds/taisetsu-na-nakama.mp3",
-          "label": "Doma voice 02 (완료)",
+          "label": "Doma - taisetsu na nakama (大切な仲間だからな)",
           "sha256": "c9028049ef8bcbc8ed6a48debfffc0bc33b88862cefaf02669c44ebb050b50de"
-        },
-        {
-          "file": "sounds/otto-chotto-matte.mp3",
-          "label": "Doma voice 06 (완료)",
-          "sha256": "d48a58475bcb41bd00775d236c4ae6d29b6a1a7917ea1b620784d59e74b18855"
         }
       ]
     },
@@ -52,12 +47,12 @@
       "sounds": [
         {
           "file": "sounds/chotto-matte.mp3",
-          "label": "Doma voice 01 (에러)",
+          "label": "Doma - chotto matte (ちょっと待っておくれよ)",
           "sha256": "0f40b387c5e2550ac8176b916aa2b2f9a82eacef49e04ffc1eb13ebe1c4d5ac9"
         },
         {
           "file": "sounds/onna-no-namakubi.mp3",
-          "label": "Doma voice 07 (에러)",
+          "label": "Doma - onna no namakubi (女の生首を飾ってあるよ)",
           "sha256": "35d9095d7f6160ff94e5852cace929a45b3ade724417989ed20a33bd22114fa5"
         }
       ]
@@ -66,7 +61,7 @@
       "sounds": [
         {
           "file": "sounds/asobi-ni-oide.mp3",
-          "label": "Doma voice 08 (알림)",
+          "label": "Doma - asobi ni oide (今度うちに遊びにおいで)",
           "sha256": "8053be12e1939832b28fe7b82488ab747e7389b0ab6816ed1f1cf9de5b03b0c0"
         }
       ]
@@ -75,7 +70,7 @@
       "sounds": [
         {
           "file": "sounds/shinpai-wa.mp3",
-          "label": "Doma voice 09 (한계)",
+          "label": "Doma - shinpai wa (俺の心配はしてくれないのかい?)",
           "sha256": "1dbc4201771adaef1692af8b2e9ed6294d17cf1da31c01524abefb6603fa2665"
         }
       ]
