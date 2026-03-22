@@ -13,29 +13,72 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/zenitsu-lightning-breath.mp3", "label": "Lightning Breath (뇌의 호흡 등장)" },
-        { "file": "sounds/zenitsu.mp3", "label": "Zenitsu (등장)" },
-        { "file": "sounds/zenitsu-name.mp3", "label": "Zenitsu name (자기소개)" }
+        {
+          "file": "sounds/zenitsu-lightning-breath.mp3",
+          "label": "Lightning Breath (뇌의 호흡 등장)",
+          "sha256": "3087282938d3fac5b6c97e671011689669831be71ce70c9e6c7666a900e3e99d"
+        },
+        {
+          "file": "sounds/zenitsu.mp3",
+          "label": "Zenitsu (등장)",
+          "sha256": "9e4edea4f5a230f4343d7896309ade92d0a3e06ba8e5210585d8fcb94b415dee"
+        },
+        {
+          "file": "sounds/zenitsu-name.mp3",
+          "label": "Zenitsu name (자기소개)",
+          "sha256": "ff23f8b9fc78828fe6012a8c4e512bcd79feffe0c05021fe3e6de9fa119868b4"
+        }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/nezuko-chan-zenitsu.mp3", "label": "Nezuko-chan! (완료 기쁨)" },
-        { "file": "sounds/zenitsu-nezuko-chan.mp3", "label": "Nezuko-chan! ver2 (완료)" },
-        { "file": "sounds/zenitsu-thunder-breathing.mp3", "label": "Thunder Breathing (뇌의 호흡)" }
+        {
+          "file": "sounds/nezuko-chan-zenitsu.mp3",
+          "label": "Nezuko-chan! (완료 기쁨)",
+          "sha256": "926984fb1d81730663407f271a722cacae5195b8a2dac2ea4ef357f2684c0dfc"
+        },
+        {
+          "file": "sounds/zenitsu-nezuko-chan.mp3",
+          "label": "Nezuko-chan! ver2 (완료)",
+          "sha256": "87c5be6c8e35789f0dae5983729face0035b18ffcd7bf502a57b1332fe442b9a"
+        },
+        {
+          "file": "sounds/zenitsu-thunder-breathing.mp3",
+          "label": "Thunder Breathing (뇌의 호흡)",
+          "sha256": "4bb8a3a6d4e586e3ef123a49a28c5f08306653ad19d0214431080bb81ef23f50"
+        }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/tmpsg_67wry.mp3", "label": "Zenitsu panic (패닉)" },
-        { "file": "sounds/zenitsu-aniki.mp3", "label": "Aniki! (형!)" },
-        { "file": "sounds/zenitsu-01.mp3", "label": "Zenitsu YT01 (패닉)" }
+        {
+          "file": "sounds/tmpsg_67wry.mp3",
+          "label": "Zenitsu panic (패닉)"
+        },
+        {
+          "file": "sounds/zenitsu-aniki.mp3",
+          "label": "Aniki! (형!)",
+          "sha256": "3092c125ffca87893f53961cc6130be448a1bc9134547aacc3ffe7b1b5ef4412"
+        },
+        {
+          "file": "sounds/zenitsu-01.mp3",
+          "label": "Zenitsu YT01 (패닉)",
+          "sha256": "d90f066d6d2e0a3a6061eba3b7abcc41f49af33e21e5849a0db9b9c2577be2b9"
+        }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "sounds/zenitsu-tanjiro.mp3", "label": "Tanjiro! (탄지로!)" },
-        { "file": "sounds/zenitsu-02.mp3", "label": "Zenitsu YT02 (확인)" }
+        {
+          "file": "sounds/zenitsu-tanjiro.mp3",
+          "label": "Tanjiro! (탄지로!)",
+          "sha256": "a0fa4b46f429b29ddb2ecb2fa9ab150d2b9bf525ad016d3d825ddbe5f7a03d21"
+        },
+        {
+          "file": "sounds/zenitsu-02.mp3",
+          "label": "Zenitsu YT02 (확인)",
+          "sha256": "972091ecc6da69b8e2c894aa1c1d923e36ccdeb720b771a742a676f6ff0021cb"
+        }
       ]
     }
   }

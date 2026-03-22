@@ -13,24 +13,48 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/muichiro.mp3", "label": "Muichiro (등장)" },
-        { "file": "sounds/muichiro-tokito.mp3", "label": "Tokito Muichiro (자기소개)" }
+        {
+          "file": "sounds/muichiro.mp3",
+          "label": "Muichiro (등장)",
+          "sha256": "6c4bd1522340116e5538147d660797c61b79e2e20f746a9512baaafd4b5a8d03"
+        },
+        {
+          "file": "sounds/muichiro-tokito.mp3",
+          "label": "Tokito Muichiro (자기소개)",
+          "sha256": "503227c73a59dc1f386824b7ebf7bc797513bf624b82b22c6bd808eae4af5c98"
+        }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/muichiro-tokito-kun.mp3", "label": "Muichiro Tokito-kun (완료)" },
-        { "file": "sounds/muichiro-tokito-again.mp3", "label": "Muichiro again (반복 완료)" }
+        {
+          "file": "sounds/muichiro-tokito-kun.mp3",
+          "label": "Muichiro Tokito-kun (완료)",
+          "sha256": "504ed78939b1481754faaea02787dab41444b8e4e0689f92c25d8c92643d0c0f"
+        },
+        {
+          "file": "sounds/muichiro-tokito-again.mp3",
+          "label": "Muichiro again (반복 완료)",
+          "sha256": "6eab2328ce0d548b2587a7f4270be897f27a831afd5df46a07c477d483737de3"
+        }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/muichiro-tokito-1.mp3", "label": "Muichiro voice (에러)" }
+        {
+          "file": "sounds/muichiro-tokito-1.mp3",
+          "label": "Muichiro voice (에러)",
+          "sha256": "688ff25b9eb8373d9305c2cc7ecbd8876ca7313dc85a214e8b79c388f5cdfd07"
+        }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "sounds/muichiro-tokito-kun.mp3", "label": "Tokito-kun (입력 요청)" }
+        {
+          "file": "sounds/muichiro-tokito-kun.mp3",
+          "label": "Tokito-kun (입력 요청)",
+          "sha256": "504ed78939b1481754faaea02787dab41444b8e4e0689f92c25d8c92643d0c0f"
+        }
       ]
     }
   }

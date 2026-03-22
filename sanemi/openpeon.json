@@ -13,25 +13,53 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/oi-oi-sanemi.mp3", "label": "Oi Oi! (위협적 등장)" },
-        { "file": "sounds/sanemi-voice1.mp3", "label": "Sanemi voice 1 (등장)" }
+        {
+          "file": "sounds/oi-oi-sanemi.mp3",
+          "label": "Oi Oi! (위협적 등장)",
+          "sha256": "20226dc1d6a7096b2968c2620820de0191d1dd5d17ce5a2d6f421e6a69093c25"
+        },
+        {
+          "file": "sounds/sanemi-voice1.mp3",
+          "label": "Sanemi voice 1 (등장)",
+          "sha256": "8f1d3ad10a05dc0abe10d9858653f17f60356e281d8c9a0617c958b16747a2bd"
+        }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/oy-oni-sanemi.mp3", "label": "Oy Oni! (임무 완료)" },
-        { "file": "sounds/sanemi-voice2.mp3", "label": "Sanemi voice 2 (완료)" }
+        {
+          "file": "sounds/oy-oni-sanemi.mp3",
+          "label": "Oy Oni! (임무 완료)",
+          "sha256": "7eedcbd1073fb9bf0975690c10bbd1a613280673c316fb904c63cb7af4830f02"
+        },
+        {
+          "file": "sounds/sanemi-voice2.mp3",
+          "label": "Sanemi voice 2 (완료)",
+          "sha256": "4c4258c631ea4d7bab90330388e3f30698075fb3d728f3c148a7d1b9994eec8f"
+        }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/sanemi-voice3.mp3", "label": "Sanemi voice 3 (분노)" },
-        { "file": "sounds/sanemi-voice4.mp3", "label": "Sanemi voice 4 (에러)" }
+        {
+          "file": "sounds/sanemi-voice3.mp3",
+          "label": "Sanemi voice 3 (분노)",
+          "sha256": "1aea791725ac9e4a428ad075172aafe6412513b82b9b344a43e8387e7794fdab"
+        },
+        {
+          "file": "sounds/sanemi-voice4.mp3",
+          "label": "Sanemi voice 4 (에러)",
+          "sha256": "709a82896980bbda8035ea887d84461e2121ae254950e175b3becb996bfa10f2"
+        }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "sounds/sanemi-voice5.mp3", "label": "Sanemi voice 5 (확인 필요)" }
+        {
+          "file": "sounds/sanemi-voice5.mp3",
+          "label": "Sanemi voice 5 (확인 필요)",
+          "sha256": "549da20d873efbe19325111004aa8cdaa9d9b3ac54c8db811c1a03484341a5dd"
+        }
       ]
     }
   }

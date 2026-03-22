@@ -13,17 +13,29 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/doma-03.mp3", "label": "Doma voice 03 (등장)" }
+        {
+          "file": "sounds/doma-03.mp3",
+          "label": "Doma voice 03 (등장)",
+          "sha256": "42db68f6132f246602bc124154b839b96fc0846a8491b19dc464c0591f59568a"
+        }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/doma-02.mp3", "label": "Doma voice 02 (완료)" }
+        {
+          "file": "sounds/doma-02.mp3",
+          "label": "Doma voice 02 (완료)",
+          "sha256": "c6967e77667624a6778eb91a61a3668544d759e2ba2642c00788de688cd246a2"
+        }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/doma-01.mp3", "label": "Doma voice 01 (에러)" }
+        {
+          "file": "sounds/doma-01.mp3",
+          "label": "Doma voice 01 (에러)",
+          "sha256": "119c5bff24a5f5650d8ad545c8f8e651017c7aa55dbb5dd91bbf234671bd0a19"
+        }
       ]
     },
     "input.required": {

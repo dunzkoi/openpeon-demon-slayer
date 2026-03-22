@@ -13,24 +13,47 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/im-comin-trough-inosuke.mp3", "label": "I'm coming through! (돌격)" },
-        { "file": "sounds/inosukemp4.mp3", "label": "Inosuke! (등장)" }
+        {
+          "file": "sounds/im-comin-trough-inosuke.mp3",
+          "label": "I'm coming through! (돌격)",
+          "sha256": "5fe91cc6f5a3bdf3bf310c408063df9c198df8cb222d1d56ad9fe50bfcbbeb23"
+        },
+        {
+          "file": "sounds/inosukemp4.mp3",
+          "label": "Inosuke! (등장)",
+          "sha256": "98fcb6e50d44e07f6b33a83533f7c837511e4ec038fa7465d9a5e26e4049491b"
+        }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/inosuke-laugh.mp3", "label": "Inosuke laugh (승리의 웃음)" },
-        { "file": "sounds/nandakore.mp3", "label": "Nandakore?! (뭐야 이게!)" }
+        {
+          "file": "sounds/inosuke-laugh.mp3",
+          "label": "Inosuke laugh (승리의 웃음)",
+          "sha256": "b950c6c4558f59273663df4ac53cecf7ada571ad022b132917450592ae39e198"
+        },
+        {
+          "file": "sounds/nandakore.mp3",
+          "label": "Nandakore?! (뭐야 이게!)",
+          "sha256": "37b15115867b4656ff0a66034ca2ace525293d677c9f7c00ef1453e35cbd36f9"
+        }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/tmp2cx1ieum.mp3", "label": "Inosuke scream (에러 비명)" }
+        {
+          "file": "sounds/tmp2cx1ieum.mp3",
+          "label": "Inosuke scream (에러 비명)"
+        }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "sounds/tmp9u9heyef.mp3", "label": "Kamaboko Gonpachiro (입력 요청)" }
+        {
+          "file": "sounds/tmp9u9heyef.mp3",
+          "label": "Kamaboko Gonpachiro (입력 요청)",
+          "sha256": "cdb5fa784d2a3ca66efd9708050c6b14de8212ba82e52a933da8a94b42a6b29e"
+        }
       ]
     }
   }

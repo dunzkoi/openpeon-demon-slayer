@@ -13,25 +13,53 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/gyomei-voice1.mp3", "label": "Gyomei voice 1 (등장)" },
-        { "file": "sounds/gyomei-voice2.mp3", "label": "Gyomei voice 2 (인사)" }
+        {
+          "file": "sounds/gyomei-voice1.mp3",
+          "label": "Gyomei voice 1 (등장)",
+          "sha256": "c51e74c49e59ed900d4019de833470618dc6d0c4bb96fa29c603813331e170a5"
+        },
+        {
+          "file": "sounds/gyomei-voice2.mp3",
+          "label": "Gyomei voice 2 (인사)",
+          "sha256": "4b73673f963c47afa2946d30a1467944f5f155d483291834d28e2a398e67a97d"
+        }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/gyomei-voice3.mp3", "label": "Gyomei voice 3 (완료)" },
-        { "file": "sounds/gyomei-voice4.mp3", "label": "Gyomei voice 4 (완료)" }
+        {
+          "file": "sounds/gyomei-voice3.mp3",
+          "label": "Gyomei voice 3 (완료)",
+          "sha256": "01acaa8d76bcc8123a7cba790610a99dfb71babcee21f7e2ca83356a6a224075"
+        },
+        {
+          "file": "sounds/gyomei-voice4.mp3",
+          "label": "Gyomei voice 4 (완료)",
+          "sha256": "77f7c1e2f232774049b728daa730686946a6b556d7fe76623200b2d92285aaa8"
+        }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/gyomei-voice5.mp3", "label": "Gyomei voice 5 (슬픔)" },
-        { "file": "sounds/gyomei-voice6.mp3", "label": "Gyomei voice 6 (에러)" }
+        {
+          "file": "sounds/gyomei-voice5.mp3",
+          "label": "Gyomei voice 5 (슬픔)",
+          "sha256": "861f707205e37c482850299fa513cf05d6268deab990311b131299b241cee8b1"
+        },
+        {
+          "file": "sounds/gyomei-voice6.mp3",
+          "label": "Gyomei voice 6 (에러)",
+          "sha256": "0248caa222429b7817c9f1b61c99d54bb647de64c45d02715fe58f46088631f4"
+        }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "sounds/gyomei-voice7.mp3", "label": "Gyomei voice 7 (확인 필요)" }
+        {
+          "file": "sounds/gyomei-voice7.mp3",
+          "label": "Gyomei voice 7 (확인 필요)",
+          "sha256": "66390ff3d24ed44d5fa2a74f240156c4fe37dc22524008c627208d67d9ee9b99"
+        }
       ]
     }
   }

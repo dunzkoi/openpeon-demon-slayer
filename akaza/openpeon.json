@@ -13,29 +13,72 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/akaza-donooo.mp3", "label": "Akaza DONOOO! (등장)" },
-        { "file": "sounds/akaza-voice-pt-1.mp3", "label": "Akaza voice pt1 (시작)" },
-        { "file": "sounds/akaza-01.mp3", "label": "Akaza YT01 (등장)" }
+        {
+          "file": "sounds/akaza-donooo.mp3",
+          "label": "Akaza DONOOO! (등장)",
+          "sha256": "890b47d65acd59bd99ab49e2ef189fd304957ad3e9c50ed08fd9a06410bebafd"
+        },
+        {
+          "file": "sounds/akaza-voice-pt-1.mp3",
+          "label": "Akaza voice pt1 (시작)",
+          "sha256": "2f3dacad4c04a5f16b9d7d3e856c85e76fbe041dcbbd6993a84781fe4baabb94"
+        },
+        {
+          "file": "sounds/akaza-01.mp3",
+          "label": "Akaza YT01 (등장)",
+          "sha256": "1571f7e7322de6eb0346b296e2027b3e8da935502e53bd920f80d5406c715768"
+        }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/akaza-voice-pt-2.mp3", "label": "Akaza voice pt2 (승리)" },
-        { "file": "sounds/lvxij2_1mkw-00_00_16-3.mp3", "label": "AYAYAYAYA! (기합)" },
-        { "file": "sounds/akaza-02.mp3", "label": "Akaza YT02 (완료)" },
-        { "file": "sounds/akaza-03.mp3", "label": "Akaza YT03 (완료)" }
+        {
+          "file": "sounds/akaza-voice-pt-2.mp3",
+          "label": "Akaza voice pt2 (승리)",
+          "sha256": "0f8140fe8e2f0bf3941281f532cec2abac9783a7f7e52be4abf6a47ef11692ed"
+        },
+        {
+          "file": "sounds/lvxij2_1mkw-00_00_16-3.mp3",
+          "label": "AYAYAYAYA! (기합)"
+        },
+        {
+          "file": "sounds/akaza-02.mp3",
+          "label": "Akaza YT02 (완료)",
+          "sha256": "410ac8b359eb5ed17ce1b5ea8138d50e56e5db2fec57c897da6f565322d30b1e"
+        },
+        {
+          "file": "sounds/akaza-03.mp3",
+          "label": "Akaza YT03 (완료)",
+          "sha256": "ceb44b3326ff33792ef869f8e996972cb31674f6326b0af842d97c71a1f3695a"
+        }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/akaza-voice-pt-3.mp3", "label": "Akaza voice pt3 (분노)" },
-        { "file": "sounds/akaza-20.mp3", "label": "Akaza YT20 (분노)" },
-        { "file": "sounds/akaza-21.mp3", "label": "Akaza YT21 (분노)" }
+        {
+          "file": "sounds/akaza-voice-pt-3.mp3",
+          "label": "Akaza voice pt3 (분노)",
+          "sha256": "8af14c0fb2d1e66423ede001b0f646b82797273d0b3c51d7932f85b601494e9c"
+        },
+        {
+          "file": "sounds/akaza-20.mp3",
+          "label": "Akaza YT20 (분노)",
+          "sha256": "234d277de1d1b22d32de5688e6d9571cff89a594db0eb7a4889b9327957dabec"
+        },
+        {
+          "file": "sounds/akaza-21.mp3",
+          "label": "Akaza YT21 (분노)",
+          "sha256": "33be0660976305548c749d3e0ca2af1bdb0f821dac397a6a9ac49fcf63e2441c"
+        }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "sounds/akaza-kokushibo.mp3", "label": "Akaza & Kokushibo (주의)" }
+        {
+          "file": "sounds/akaza-kokushibo.mp3",
+          "label": "Akaza & Kokushibo (주의)",
+          "sha256": "15b08788c2f5ee87efe167ba1029af515e5d281aae7df021d72a7bdfd87cf717"
+        }
       ]
     }
   }

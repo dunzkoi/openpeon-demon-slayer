@@ -13,44 +13,131 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/moshi-moshi-shinobu-kocho-notification-sound.mp3", "label": "Moshi moshi~ (여보세요)" },
-        { "file": "sounds/shinobu-moshi-moshiiiiii.mp3", "label": "Moshi moshiii~ (인사)" },
-        { "file": "sounds/shinobu1.mp3", "label": "Shinobu voice 1 (시작)" },
-        { "file": "sounds/shinobu-01.mp3", "label": "Shinobu YT01 (등장)" },
-        { "file": "sounds/shinobu-02.mp3", "label": "Shinobu YT02 (등장)" },
-        { "file": "sounds/shinobu-moshi-mosh-10-minutes-audiotrimmer.mp3", "label": "Moshi moshi~ long (인사)" },
-        { "file": "sounds/shinobumoshimoshipseudoasmr.mp3", "label": "Moshi moshi ASMR ver2 (인사)" }
+        {
+          "file": "sounds/moshi-moshi-shinobu-kocho-notification-sound.mp3",
+          "label": "Moshi moshi~ (여보세요)"
+        },
+        {
+          "file": "sounds/shinobu-moshi-moshiiiiii.mp3",
+          "label": "Moshi moshiii~ (인사)",
+          "sha256": "2504c18b79cf645cf9aa79a0013fc8cd9d27df55253cddcf46ea2e9add0b1cae"
+        },
+        {
+          "file": "sounds/shinobu1.mp3",
+          "label": "Shinobu voice 1 (시작)"
+        },
+        {
+          "file": "sounds/shinobu-01.mp3",
+          "label": "Shinobu YT01 (등장)"
+        },
+        {
+          "file": "sounds/shinobu-02.mp3",
+          "label": "Shinobu YT02 (등장)",
+          "sha256": "2eaf6cd1875b1444eed465a8522f944de59aa1ec732337cd98cce109478ffcf4"
+        },
+        {
+          "file": "sounds/shinobu-moshi-mosh-10-minutes-audiotrimmer.mp3",
+          "label": "Moshi moshi~ long (인사)"
+        },
+        {
+          "file": "sounds/shinobumoshimoshipseudoasmr.mp3",
+          "label": "Moshi moshi ASMR ver2 (인사)",
+          "sha256": "ac2c1e4f7c87828b779eab7f58ef3207d31612dd1a32dee1d7d8bc0f6f1ceb2e"
+        }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/shinobu-ara-ara-demon-slayer-kemitsu-no-yabia-2.mp3", "label": "Ara ara~ (완료)" },
-        { "file": "sounds/ara-ara_mXJ4gSh.mp3", "label": "Ara ara~ ver2 (완료)" },
-        { "file": "sounds/shinobu-ara-ara-10minutes-audiotrimmer.mp3", "label": "Ara ara~ short (빠른 완료)" },
-        { "file": "sounds/shinobu2.mp3", "label": "Shinobu voice 2 (완료)" },
-        { "file": "sounds/shinobu-03.mp3", "label": "Shinobu YT03 (완료)" },
-        { "file": "sounds/shinobu-04.mp3", "label": "Shinobu YT04 (완료)" }
+        {
+          "file": "sounds/shinobu-ara-ara-demon-slayer-kemitsu-no-yabia-2.mp3",
+          "label": "Ara ara~ (완료)"
+        },
+        {
+          "file": "sounds/ara-ara_mXJ4gSh.mp3",
+          "label": "Ara ara~ ver2 (완료)"
+        },
+        {
+          "file": "sounds/shinobu-ara-ara-10minutes-audiotrimmer.mp3",
+          "label": "Ara ara~ short (빠른 완료)"
+        },
+        {
+          "file": "sounds/shinobu2.mp3",
+          "label": "Shinobu voice 2 (완료)"
+        },
+        {
+          "file": "sounds/shinobu-03.mp3",
+          "label": "Shinobu YT03 (완료)",
+          "sha256": "06a62b0c162cc75a5cf3fc32c0467e9a7b08224e899d4d705b62d158e28ffdee"
+        },
+        {
+          "file": "sounds/shinobu-04.mp3",
+          "label": "Shinobu YT04 (완료)"
+        }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/shinobu_laughs_MSVvzP8.mp3", "label": "Shinobu laugh (웃음)" },
-        { "file": "sounds/shinobu3.mp3", "label": "Shinobu voice 3 (에러)" },
-        { "file": "sounds/shinobu6.mp3", "label": "Shinobu voice 6 (에러)" },
-        { "file": "sounds/tmpw6uks119.mp3", "label": "Shinobu reaction (반응)" },
-        { "file": "sounds/shinobu-05.mp3", "label": "Shinobu YT05 (에러)" },
-        { "file": "sounds/shinobu-06.mp3", "label": "Shinobu YT06 (에러)" }
+        {
+          "file": "sounds/shinobu_laughs_MSVvzP8.mp3",
+          "label": "Shinobu laugh (웃음)"
+        },
+        {
+          "file": "sounds/shinobu3.mp3",
+          "label": "Shinobu voice 3 (에러)"
+        },
+        {
+          "file": "sounds/shinobu6.mp3",
+          "label": "Shinobu voice 6 (에러)"
+        },
+        {
+          "file": "sounds/tmpw6uks119.mp3",
+          "label": "Shinobu reaction (반응)"
+        },
+        {
+          "file": "sounds/shinobu-05.mp3",
+          "label": "Shinobu YT05 (에러)",
+          "sha256": "a23281cb868fff54f10c69e2abd6e734428524dd639d6ae1839f02b35e542bb5"
+        },
+        {
+          "file": "sounds/shinobu-06.mp3",
+          "label": "Shinobu YT06 (에러)",
+          "sha256": "c60ca46e2bdb5b1075a0d173b715222c32d7c246bf7087eaf14a548b84bf77a9"
+        }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "sounds/shinobu-notification-sound-ara-ara-sayonara.mp3", "label": "Ara ara sayonara (알림)" },
-        { "file": "sounds/ara-ara-sayonara-mp3cut.mp3", "label": "Sayonara~ (확인 필요)" },
-        { "file": "sounds/kocho-chevre.mp3", "label": "Kocho (주의)" },
-        { "file": "sounds/shinobumoshimoshipseudoasmr_fVET8E9.mp3", "label": "Moshi moshi ASMR (입력 요청)" },
-        { "file": "sounds/tmpao9kbv5a.mp3", "label": "Shinobu attention (확인)" },
-        { "file": "sounds/shinobu-07.mp3", "label": "Shinobu YT07 (확인)" },
-        { "file": "sounds/shinobu-08.mp3", "label": "Shinobu YT08 (확인)" }
+        {
+          "file": "sounds/shinobu-notification-sound-ara-ara-sayonara.mp3",
+          "label": "Ara ara sayonara (알림)"
+        },
+        {
+          "file": "sounds/ara-ara-sayonara-mp3cut.mp3",
+          "label": "Sayonara~ (확인 필요)"
+        },
+        {
+          "file": "sounds/kocho-chevre.mp3",
+          "label": "Kocho (주의)"
+        },
+        {
+          "file": "sounds/shinobumoshimoshipseudoasmr_fVET8E9.mp3",
+          "label": "Moshi moshi ASMR (입력 요청)",
+          "sha256": "b1d7f252adceca4eb6faa85d0185940d41febf0a49d597946962fe24ab82bb5b"
+        },
+        {
+          "file": "sounds/tmpao9kbv5a.mp3",
+          "label": "Shinobu attention (확인)",
+          "sha256": "17715b3be9a843b30333a390727ae4b03ac76183fcab037e51c8e0ae36bfaefa"
+        },
+        {
+          "file": "sounds/shinobu-07.mp3",
+          "label": "Shinobu YT07 (확인)",
+          "sha256": "2e1e8ba07c89232b53c7e26c0a56d17f39e00a40921e460baad44e87fa36e480"
+        },
+        {
+          "file": "sounds/shinobu-08.mp3",
+          "label": "Shinobu YT08 (확인)"
+        }
       ]
     }
   }

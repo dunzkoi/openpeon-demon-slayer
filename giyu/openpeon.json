@@ -13,27 +13,63 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/giyuu-pt-1.mp3", "label": "Giyuu voice (등장)" },
-        { "file": "sounds/giyu-01.mp3", "label": "Giyu YT01 (등장)" },
-        { "file": "sounds/giyu-02.mp3", "label": "Giyu YT02 (등장)" }
+        {
+          "file": "sounds/giyuu-pt-1.mp3",
+          "label": "Giyuu voice (등장)",
+          "sha256": "0c2113d1f71a124489685fef2b0ebef84ec8fa87dc175f3b49ea81cbb697a3b5"
+        },
+        {
+          "file": "sounds/giyu-01.mp3",
+          "label": "Giyu YT01 (등장)",
+          "sha256": "8006773f48a8db983159b6b639b02d51fd0b42390490bfe40ca8e965d38bb8d0"
+        },
+        {
+          "file": "sounds/giyu-02.mp3",
+          "label": "Giyu YT02 (등장)",
+          "sha256": "b6ed1cbaa1e9f8a1f4400a39efaec3a600be8e50718ecabbbb6fd5c63b205f77"
+        }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/aiko.mp3", "label": "Giyu complete (완료)" },
-        { "file": "sounds/giyu-03.mp3", "label": "Giyu YT03 (완료)" },
-        { "file": "sounds/giyu-04.mp3", "label": "Giyu YT04 (완료)" }
+        {
+          "file": "sounds/aiko.mp3",
+          "label": "Giyu complete (완료)",
+          "sha256": "cf1568639d5c99f8d576138c92e5e39fc8e0835c62418a2032edce2b459e2223"
+        },
+        {
+          "file": "sounds/giyu-03.mp3",
+          "label": "Giyu YT03 (완료)",
+          "sha256": "aefea2ec3e8b2cb7cff377147f4df82c7a17e1b5cfe4b22fd9b26ff87877b521"
+        },
+        {
+          "file": "sounds/giyu-04.mp3",
+          "label": "Giyu YT04 (완료)",
+          "sha256": "55630e8303b20898eb72b42a9aa46c318151c9cc3aa3e99dbb1997e887418fc4"
+        }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/giyu-05.mp3", "label": "Giyu YT05 (에러)" },
-        { "file": "sounds/giyu-20.mp3", "label": "Giyu YT20 (에러)" }
+        {
+          "file": "sounds/giyu-05.mp3",
+          "label": "Giyu YT05 (에러)",
+          "sha256": "87ad32563bc5746553377819a2bd7c3f6ab90f9a2c4642636dde3a05bf74d785"
+        },
+        {
+          "file": "sounds/giyu-20.mp3",
+          "label": "Giyu YT20 (에러)",
+          "sha256": "14001faffd0ed40f19715b89db38333b1db791a0acc4b6466ab7ba7f3f4c4287"
+        }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "sounds/giyu-21.mp3", "label": "Giyu YT21 (확인 필요)" }
+        {
+          "file": "sounds/giyu-21.mp3",
+          "label": "Giyu YT21 (확인 필요)",
+          "sha256": "86873c8588a81a657c5c794c874af4f589f03a6ed7775b9bcfbb43ed471f72a5"
+        }
       ]
     }
   }

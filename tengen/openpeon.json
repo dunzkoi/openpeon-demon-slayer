@@ -13,29 +13,71 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/tengen-orewa.mp3", "label": "Ore wa Tengen (등장)" },
-        { "file": "sounds/tengen-nanda.mp3", "label": "Nanda? (뭐야?)" },
-        { "file": "sounds/tengen-voice1.mp3", "label": "Tengen voice 1 (등장)" }
+        {
+          "file": "sounds/tengen-orewa.mp3",
+          "label": "Ore wa Tengen (등장)"
+        },
+        {
+          "file": "sounds/tengen-nanda.mp3",
+          "label": "Nanda? (뭐야?)",
+          "sha256": "a0566f41b26dc71ddfa56d192c8f080a3eae4ee5c5867d635035796e077a429c"
+        },
+        {
+          "file": "sounds/tengen-voice1.mp3",
+          "label": "Tengen voice 1 (등장)",
+          "sha256": "f86de3d4ad69d07b47d9f136c63ae3e72af87faefc1af4730b34f3dd728b539c"
+        }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/tengen-badass.mp3", "label": "Tengen badass (완료)" },
-        { "file": "sounds/tengen-voice2.mp3", "label": "Tengen voice 2 (완료)" },
-        { "file": "sounds/tengen-voice3.mp3", "label": "Tengen voice 3 (완료)" }
+        {
+          "file": "sounds/tengen-badass.mp3",
+          "label": "Tengen badass (완료)",
+          "sha256": "54ef43cbab11ed2c6a20d686abc216d8a7995add493e21aab0c165bdb39b471b"
+        },
+        {
+          "file": "sounds/tengen-voice2.mp3",
+          "label": "Tengen voice 2 (완료)",
+          "sha256": "9ca7a4e75ec0dacf827c4e31200229eb3670361a8f70cd0dd72c05cdd7064af0"
+        },
+        {
+          "file": "sounds/tengen-voice3.mp3",
+          "label": "Tengen voice 3 (완료)",
+          "sha256": "fc1897e1e60e8974658040810bfd3fe406950f78541061220f5296c7eaf41188"
+        }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/tengen-urusei.mp3", "label": "Urusei! (시끄러!)" },
-        { "file": "sounds/tengen-baca.mp3", "label": "Baka! (바보!)" },
-        { "file": "sounds/tengen-voice4.mp3", "label": "Tengen voice 4 (에러)" }
+        {
+          "file": "sounds/tengen-urusei.mp3",
+          "label": "Urusei! (시끄러!)",
+          "sha256": "0c179832a1e92e62071dc7c2aa2bb539b164e6cecf43cb6c8935e65ce895ef0d"
+        },
+        {
+          "file": "sounds/tengen-baca.mp3",
+          "label": "Baka! (바보!)",
+          "sha256": "1067fef281dd2c30f9b19da364ab7bbf9856ccc6730cf190210f666c998a1423"
+        },
+        {
+          "file": "sounds/tengen-voice4.mp3",
+          "label": "Tengen voice 4 (에러)",
+          "sha256": "121bf1513907ef0993fc84cacd449f4731a5036d1804d3eedeeddbb427086b9a"
+        }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "sounds/tengen-nani.mp3", "label": "Nani? (뭐?)" },
-        { "file": "sounds/tengen-voice5.mp3", "label": "Tengen voice 5 (확인 필요)" }
+        {
+          "file": "sounds/tengen-nani.mp3",
+          "label": "Nani? (뭐?)",
+          "sha256": "78031847df95421ee36e4f2e9e5ead8e9ea8da247ebfdae204477265cc117030"
+        },
+        {
+          "file": "sounds/tengen-voice5.mp3",
+          "label": "Tengen voice 5 (확인 필요)"
+        }
       ]
     }
   }
