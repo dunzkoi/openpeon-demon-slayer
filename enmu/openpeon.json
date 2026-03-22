@@ -13,33 +13,26 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/enmu-01.mp3", "label": "Enmu voice 01 (등장)" },
         { "file": "sounds/enmu-02.mp3", "label": "Enmu voice 02 (등장)" },
-        { "file": "sounds/enmu-03.mp3", "label": "Enmu voice 03 (등장)" },
-        { "file": "sounds/enmu-04.mp3", "label": "Enmu voice 04 (등장)" }
+        { "file": "sounds/enmu-03.mp3", "label": "Enmu voice 03 (등장)" }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/enmu-05.mp3", "label": "Enmu voice 05 (완료)" },
-        { "file": "sounds/enmu-10.mp3", "label": "Enmu voice 10 (완료)" },
-        { "file": "sounds/enmu-11.mp3", "label": "Enmu voice 11 (완료)" },
-        { "file": "sounds/enmu-12.mp3", "label": "Enmu voice 12 (완료)" }
+        { "file": "sounds/enmu-04.mp3", "label": "Enmu voice 04 (완료)" },
+        { "file": "sounds/enmu-10.mp3", "label": "Enmu voice 10 (완료)" }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/enmu-07.mp3", "label": "Enmu voice 07 (에러)" },
         { "file": "sounds/enmu-13.mp3", "label": "Enmu voice 13 (에러)" },
-        { "file": "sounds/enmu-14.mp3", "label": "Enmu voice 14 (에러)" },
         { "file": "sounds/enmu-15.mp3", "label": "Enmu voice 15 (에러)" }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "sounds/enmu-06.mp3", "label": "Enmu voice 06 (알림)" },
         { "file": "sounds/enmu-08.mp3", "label": "Enmu voice 08 (알림)" },
-        { "file": "sounds/enmu-09.mp3", "label": "Enmu voice 09 (알림)" }
+        { "file": "sounds/enmu-11.mp3", "label": "Enmu voice 11 (알림)" }
       ]
     }
   }

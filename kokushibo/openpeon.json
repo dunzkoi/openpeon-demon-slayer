@@ -14,30 +14,24 @@
     "session.start": {
       "sounds": [
         { "file": "sounds/kokushibo-01.mp3", "label": "Kokushibo voice 01 (등장)" },
-        { "file": "sounds/kokushibo-02.mp3", "label": "Kokushibo voice 02 (등장)" },
-        { "file": "sounds/kokushibo-03.mp3", "label": "Kokushibo voice 03 (등장)" }
+        { "file": "sounds/kokushibo-02.mp3", "label": "Kokushibo voice 02 (등장)" }
       ]
     },
     "task.complete": {
       "sounds": [
         { "file": "sounds/kokushibo-04.mp3", "label": "Kokushibo voice 04 (완료)" },
-        { "file": "sounds/kokushibo-05.mp3", "label": "Kokushibo voice 05 (완료)" },
-        { "file": "sounds/kokushibo-06.mp3", "label": "Kokushibo voice 06 (완료)" },
-        { "file": "sounds/kokushibo-08.mp3", "label": "Kokushibo voice 08 (완료)" }
+        { "file": "sounds/kokushibo-05.mp3", "label": "Kokushibo voice 05 (완료)" }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/kokushibo-10.mp3", "label": "Kokushibo voice 10 (에러)" },
-        { "file": "sounds/kokushibo-11.mp3", "label": "Kokushibo voice 11 (에러)" },
-        { "file": "sounds/kokushibo-13.mp3", "label": "Kokushibo voice 13 (에러)" }
+        { "file": "sounds/kokushibo-06.mp3", "label": "Kokushibo voice 06 (에러)" }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "sounds/kokushibo-07.mp3", "label": "Kokushibo voice 07 (알림)" },
-        { "file": "sounds/kokushibo-09.mp3", "label": "Kokushibo voice 09 (알림)" },
-        { "file": "sounds/kokushibo-12.mp3", "label": "Kokushibo voice 12 (알림)" }
+        { "file": "sounds/kokushibo-03.mp3", "label": "Kokushibo voice 03 (알림)" },
+        { "file": "sounds/kokushibo-07.mp3", "label": "Kokushibo voice 07 (알림)" }
       ]
     }
   }
