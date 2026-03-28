@@ -35,11 +35,6 @@
           "file": "sounds/hara-no-naka.mp3",
           "label": "Enmu voice 04 (완료)",
           "sha256": "130848ab1e11b8d61d499d650f6e5c9eae15b7fd74e6dd7312e5b7570de3015a"
-        },
-        {
-          "file": "sounds/kokoro-wo-kowasu.mp3",
-          "label": "Enmu voice 10 (완료)",
-          "sha256": "cbc61d20b61fc13ca7491c6fe298c644009e47c88fb3b1eced1a672cfe05d15c"
         }
       ]
     },
@@ -49,6 +44,11 @@
           "file": "sounds/ufufufu-kubi.mp3",
           "label": "Enmu voice 13 (에러)",
           "sha256": "9abd55b0b31c3b2bb81bcd90fd31941ee817dc493700e9c1497d16b2bed4f1d9"
+        },
+        {
+          "file": "sounds/kokoro-wo-kowasu.mp3",
+          "label": "Enmu voice 10 (완료)",
+          "sha256": "cbc61d20b61fc13ca7491c6fe298c644009e47c88fb3b1eced1a672cfe05d15c"
         }
       ]
     },

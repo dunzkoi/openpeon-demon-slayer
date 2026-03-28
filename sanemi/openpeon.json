@@ -26,16 +26,6 @@
           "file": "sounds/omoshiroi.mp3",
           "label": "Sanemi voice 1 (등장)",
           "sha256": "f9251636db73bf1ad9dbdb75a5026813937e31f88e3b951ac1366b329112ba1a"
-        },
-        {
-          "file": "sounds/ikki-ni-kizande-yaru-ze.mp3",
-          "label": "一気に刻んでやるぜ! (I'll slice you to pieces!)",
-          "sha256": "d06f700660f0492908f7496c268dacb8112fddf432a076b16551f07a6ea6febd"
-        },
-        {
-          "file": "sounds/uchikorosu.mp3",
-          "label": "打ち殺す! (I'll beat you to death!)",
-          "sha256": "1369a89217ae798943681e39117bd1581d1935ccb4f99a63502dc8c789d840bb"
         }
       ]
     },
@@ -64,6 +54,16 @@
           "file": "sounds/arienee.mp3",
           "label": "Sanemi voice 3 (분노)",
           "sha256": "bc26819365463ccf7fbca449ca2df8bc353e61778119b97e2b9aaad85a89556a"
+        },
+        {
+          "file": "sounds/ikki-ni-kizande-yaru-ze.mp3",
+          "label": "一気に刻んでやるぜ! (I'll slice you to pieces!)",
+          "sha256": "d06f700660f0492908f7496c268dacb8112fddf432a076b16551f07a6ea6febd"
+        },
+        {
+          "file": "sounds/uchikorosu.mp3",
+          "label": "打ち殺す! (I'll beat you to death!)",
+          "sha256": "1369a89217ae798943681e39117bd1581d1935ccb4f99a63502dc8c789d840bb"
         }
       ]
     },

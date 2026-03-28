@@ -17,11 +17,6 @@
           "file": "sounds/donooo.mp3",
           "label": "Akaza DONOOO! (등장)",
           "sha256": "872b3255f100f945d6b8a274c8abc6219adedd207648d99077e661fa94f6bea9"
-        },
-        {
-          "file": "sounds/motto-tatakaou.mp3",
-          "label": "Akaza - motto tatakaou! (もっと戦おう!)",
-          "sha256": "bba9dbbfa1ed6ab97270154144d626d618a980c8ad9bd133b2e76cdc7f9dbb36"
         }
       ]
     },
@@ -41,25 +36,11 @@
           "file": "sounds/subarashii-2.mp3",
           "label": "素晴らしい (Splendid! variant)",
           "sha256": "739e67a8438de48456c8ac15ac0a6388549fb62761b0c877fb6a8c3c3f96656b"
-        }
-      ]
-    },
-    "task.complete": {
-      "sounds": [
-        {
-          "file": "sounds/torikaeshi-tsukanai.mp3",
-          "label": "Akaza - torikaeshi tsukanai (もう取り返しがつかない)",
-          "sha256": "0881bb0159c5f0d0e52e8bd85a7054c0bda7d2e8e4274e586a0b759c38879c1a"
         },
         {
-          "file": "sounds/buchi-korosu.mp3",
-          "label": "Akaza - buchi korosu (ぶち殺す)",
-          "sha256": "d97ffd42892992129c8691c835bcd42e2991936099f8b3d378fa6fbf1d0efe02"
-        },
-        {
-          "file": "sounds/tanin-no-imouto.mp3",
-          "label": "Akaza - tanin no imouto (他人の妹)",
-          "sha256": "5985a1a68b1e4cf2e4b5a1ca5c0bac397339588801cd53f3bd9f0bd530e1efd3"
+          "file": "sounds/motto-tatakaou.mp3",
+          "label": "Akaza - motto tatakaou! (もっと戦おう!)",
+          "sha256": "bba9dbbfa1ed6ab97270154144d626d618a980c8ad9bd133b2e76cdc7f9dbb36"
         }
       ]
     },
@@ -74,6 +55,16 @@
           "file": "sounds/yuuhi.mp3",
           "label": "Akaza - yuuhi (夕日)",
           "sha256": "95be37263837bdcef2afccd1aa2f7750ebc75c71d0ad5941c7f0550a9d860636"
+        },
+        {
+          "file": "sounds/buchi-korosu.mp3",
+          "label": "Akaza - buchi korosu (ぶち殺す)",
+          "sha256": "d97ffd42892992129c8691c835bcd42e2991936099f8b3d378fa6fbf1d0efe02"
+        },
+        {
+          "file": "sounds/tanin-no-imouto.mp3",
+          "label": "Akaza - tanin no imouto (他人の妹)",
+          "sha256": "5985a1a68b1e4cf2e4b5a1ca5c0bac397339588801cd53f3bd9f0bd530e1efd3"
         }
       ]
     },
@@ -92,6 +83,11 @@
           "file": "sounds/ooo.mp3",
           "label": "Akaza & Kokushibo (한계)",
           "sha256": "69b78be7134d93f18b6fb8f516f0a90074a0f4727a8f5c7054b27d90fd3b935d"
+        },
+        {
+          "file": "sounds/torikaeshi-tsukanai.mp3",
+          "label": "Akaza - torikaeshi tsukanai (もう取り返しがつかない)",
+          "sha256": "0881bb0159c5f0d0e52e8bd85a7054c0bda7d2e8e4274e586a0b759c38879c1a"
         }
       ]
     }

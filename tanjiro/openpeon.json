@@ -19,11 +19,6 @@
           "sha256": "bc4fc529884e6224c04f4dcfd484760af179fe72ab31fbbe45abdddaf15e1276"
         },
         {
-          "file": "sounds/voice.mp3",
-          "label": "Tanjiro - thread of opening (隙の糸が見えた)",
-          "sha256": "84d58f04028a6e5b0525172cc8a8cd949a819414b864400d6eaaf3ade0943337"
-        },
-        {
           "file": "sounds/dev-tanjiro.mp3",
           "label": "Tanjiro - okite tatakae! (起きて戦え!戦え!)",
           "sha256": "c38454908384aef286637f7046314449ef0f1de5823abc66950e76df207ad946"
@@ -47,11 +42,6 @@
           "sha256": "5e1d77e7bcfc189627669f764fbfa38313df4fe6ed0bdfd0f5387b751862c21d"
         },
         {
-          "file": "sounds/shouchiru-hazu-nai.mp3",
-          "label": "Tanjiro - shouchiru hazu nai (承知るはずないだろ)",
-          "sha256": "2beb398e3ba973473bce8a7e324e5708d2c46c71b499861a5d22a4b0d7d64b1d"
-        },
-        {
           "file": "sounds/omoi-mo-ishi-mo-aru.mp3",
           "label": "Tanjiro - omoi mo ishi mo aru (思いも意志もあるんだ)",
           "sha256": "1408a472c4e4bae00fb798b5350741f1f78ba1b0fb8faeff70d4df5e40d36326"
@@ -65,6 +55,11 @@
           "file": "sounds/hinokami-kagura-hekira-no-ten.mp3",
           "label": "ヒノカミ神楽 碧羅の天 (Hinokami Kagura: Clear Blue Sky)",
           "sha256": "2e199ae3ded5690863202dbe5a7ac30cc19166fb632d2eeec291cbbca291a5cd"
+        },
+        {
+          "file": "sounds/voice.mp3",
+          "label": "Tanjiro - thread of opening (隙の糸が見えた)",
+          "sha256": "84d58f04028a6e5b0525172cc8a8cd949a819414b864400d6eaaf3ade0943337"
         }
       ]
     },
@@ -74,6 +69,11 @@
           "file": "sounds/kokoroe-chigai.mp3",
           "label": "Tanjiro - kokoroe chigai (心得違いを正さなければ)",
           "sha256": "60a71b44edda3844e927f419bb519dbef34a49e2de9efef3985dceaed142feb6"
+        },
+        {
+          "file": "sounds/shouchiru-hazu-nai.mp3",
+          "label": "Tanjiro - shouchiru hazu nai (承知るはずないだろ)",
+          "sha256": "2beb398e3ba973473bce8a7e324e5708d2c46c71b499861a5d22a4b0d7d64b1d"
         }
       ]
     },

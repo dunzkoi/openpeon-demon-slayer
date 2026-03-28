@@ -17,11 +17,6 @@
           "file": "sounds/intro.mp3",
           "label": "Obanai - dou shobun suru (どう処分する、どう責任を取らせる)",
           "sha256": "acffa5ea9cc1906f5561a6620cb535d8ddd5c98b0acbf8dbe87cbe966028528f"
-        },
-        {
-          "file": "sounds/pt-1.mp3",
-          "label": "Obanai - nantoka ittara (なんとか言ったらどうだ)",
-          "sha256": "d634e106b8f2b3d8e6ecfa1d960f3a71282421cd772eeb11406d10b599eda657"
         }
       ]
     },
@@ -36,6 +31,11 @@
           "file": "sounds/koko-kara-ga-honban-da.mp3",
           "label": "ここからが本番だ (The real fight starts now)",
           "sha256": "e0e9ecebf321c4e498101a968aeb2ab183340da51f1495df250fafc726f24b58"
+        },
+        {
+          "file": "sounds/ep11-pt-1.mp3",
+          "label": "Obanai - souka (そうか)",
+          "sha256": "b0d1304adc541a2ab8c70bb4bb1b8956997580754f638a9735f869f3ac33da79"
         }
       ]
     },
@@ -60,6 +60,11 @@
           "file": "sounds/hebi-no-kokyu-go-no-kata.mp3",
           "label": "蛇の呼吸 伍ノ型 (Serpent Breathing 5th Form)",
           "sha256": "8b7833237393480ba469e502fc4bddc5a1c45f462931e861b8363184f493aa63"
+        },
+        {
+          "file": "sounds/ep11-pt-2.mp3",
+          "label": "Obanai - ichiban shita (一番した、褒めてあってもいい)",
+          "sha256": "a419145d9e5bfeedea7d3666cb5793b2beb4ce9920aa91aa55febcaf859effd8"
         }
       ]
     },
@@ -69,11 +74,6 @@
           "file": "sounds/pt-4.mp3",
           "label": "Obanai - osaeteru dake (動こうとするから押さえているだけだ)",
           "sha256": "d6b2a8cabc675cfd154ce89040feff285459555b4e9df62cfe88a74d609b2f3f"
-        },
-        {
-          "file": "sounds/ep11-pt-1.mp3",
-          "label": "Obanai - souka (そうか)",
-          "sha256": "b0d1304adc541a2ab8c70bb4bb1b8956997580754f638a9735f869f3ac33da79"
         },
         {
           "file": "sounds/roku-daga-na.mp3",
@@ -95,11 +95,6 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/ep11-pt-2.mp3",
-          "label": "Obanai - ichiban shita (一番した、褒めてあってもいい)",
-          "sha256": "a419145d9e5bfeedea7d3666cb5793b2beb4ce9920aa91aa55febcaf859effd8"
-        },
-        {
           "file": "sounds/hidarite-ushinatte.mp3",
           "label": "Obanai - hidarite ushinatte (左手と左目を失ってどうするつもりだ)",
           "sha256": "789ebc6e61dbd020a9b486e2e957a57f22343a4cac0e279a955c6d77b6af04a4"
@@ -108,6 +103,11 @@
           "file": "sounds/ana-ume-dare-ga.mp3",
           "label": "Obanai - ana ume dare ga (穴埋めは誰がするんだ)",
           "sha256": "89ec71e5df06a986b1aec5fd38fa80fa0d8e35ff1aa5a36e42795a925e62eb4c"
+        },
+        {
+          "file": "sounds/pt-1.mp3",
+          "label": "Obanai - nantoka ittara (なんとか言ったらどうだ)",
+          "sha256": "d634e106b8f2b3d8e6ecfa1d960f3a71282421cd772eeb11406d10b599eda657"
         }
       ]
     },

@@ -27,11 +27,7 @@
           "file": "sounds/happy-giggle.mp3",
           "label": "Nezuko - happy giggle (기쁜 웃음)",
           "sha256": "f82ab046024ca356c85323a54cd16f0e0f657e3f78e96eb37cff6362cb15154c"
-        }
-      ]
-    },
-    "task.acknowledge": {
-      "sounds": [
+        },
         {
           "file": "sounds/ohayou-oniichan.mp3",
           "label": "Nezuko - ohayou oniichan! (おはようお兄ちゃん!)",
@@ -88,11 +84,7 @@
           "file": "sounds/nn-nn-nn.mp3",
           "label": "Nezuko - nn? nn? (んん? んん?)",
           "sha256": "7b2c9e77afaf25e55a06a6f97079b85c510b5e4c6b8cb3ebc6120cdd14034322"
-        }
-      ]
-    },
-    "resource.limit": {
-      "sounds": [
+        },
         {
           "file": "sounds/nani-ima.mp3",
           "label": "Nezuko - nani ima? (なに?今なんて言ったの?)",

@@ -14,15 +14,6 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/lightning-breath.mp3",
-          "label": "Zenitsu - Kaminari no Kokyuu (雷の呼吸 壱ノ型 霹靂一閃 六連)",
-          "sha256": "f1a6d9b5b09ce9ec048dafdddd8e030339283441a9afc3fa6017f7284612c21e"
-        }
-      ]
-    },
-    "task.acknowledge": {
-      "sounds": [
-        {
           "file": "sounds/name.mp3",
           "label": "Zenitsu - Agatsuma Zenitsu da yo! (俺は我妻善逸だよ!)",
           "sha256": "0b21acfa0b119022125aa71ebd20cb09251d3bbcf061114e1bfea0f0770ec809"
@@ -50,6 +41,11 @@
           "file": "sounds/kaminari-no-kokyu-hekireki-issen.mp3",
           "label": "雷の呼吸 壱ノ型 霹靂一閃 (Thunder Breathing: Thunderclap and Flash)",
           "sha256": "b2d7e90b0560c6af977965efacdf9208f75d308e82084833498697463b2f110f"
+        },
+        {
+          "file": "sounds/lightning-breath.mp3",
+          "label": "Zenitsu - Kaminari no Kokyuu (雷の呼吸 壱ノ型 霹靂一閃 六連)",
+          "sha256": "f1a6d9b5b09ce9ec048dafdddd8e030339283441a9afc3fa6017f7284612c21e"
         }
       ]
     },
@@ -68,11 +64,6 @@
           "file": "sounds/tanjiro.mp3",
           "label": "Zenitsu - Tanjiro! (炭治郎!)",
           "sha256": "b34a600078b2157665b6b5c09919aeef3bb5b472f9fd164768abded795fb9942"
-        },
-        {
-          "file": "sounds/jigoku-no-kunren.mp3",
-          "label": "Zenitsu - jigoku no kunren (地獄のような訓練に耐えた日々)",
-          "sha256": "088eee7560ce1aad3e3c786e862c58319ecae08893a07210ca069988b8003379"
         }
       ]
     },
@@ -82,6 +73,11 @@
           "file": "sounds/bonbon-saita.mp3",
           "label": "Zenitsu - bonbon saita (ボンボン咲いた)",
           "sha256": "3ee95e8a1ad0253dfeae1fc02163648f32e569b617b341a511b4188debe9b334"
+        },
+        {
+          "file": "sounds/jigoku-no-kunren.mp3",
+          "label": "Zenitsu - jigoku no kunren (地獄のような訓練に耐えた日々)",
+          "sha256": "088eee7560ce1aad3e3c786e862c58319ecae08893a07210ca069988b8003379"
         }
       ]
     }

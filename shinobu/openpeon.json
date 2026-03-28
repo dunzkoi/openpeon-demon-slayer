@@ -31,6 +31,11 @@
           "file": "sounds/shinobumoshimoshipseudoasmr.mp3",
           "label": "Shinobu - moshi moshi ASMR (もしもし頑張ってますね)",
           "sha256": "fa7f400e7eba3b56bff2b97452aaf3c4d53a2f68a220af175d098a17003f6327"
+        },
+        {
+          "file": "sounds/ouen-shitemasu.mp3",
+          "label": "Shinobu - ouen shitemasu (一番応援していますよ!)",
+          "sha256": "b553bf3dfb3f15a54cfcdac353f4de5a1b93b70a8eb94627e94130a61a6d8f74"
         }
       ]
     },
@@ -40,11 +45,6 @@
           "file": "sounds/dekite-touzen.mp3",
           "label": "Shinobu - dekite touzen (できて当然ですけれど)",
           "sha256": "cafd775860d917f704fce0b8fd81efa95d14067154fc911c3ad5bf84085659ff"
-        },
-        {
-          "file": "sounds/nantoka-osshattara.mp3",
-          "label": "Shinobu - nantoka osshattara (なんとかおっしゃったらどうですか?)",
-          "sha256": "f9fd888bff2a3a1f03eae15abf7f457da3302e2800fe70f98ce4848f26153b9c"
         },
         {
           "file": "sounds/mushi-no-kokyu-chou-no-mai.mp3",
@@ -70,18 +70,18 @@
           "sha256": "8b1c2f44d414c60783593c9c49faebc42570e46b18c91b5b1956130d620fea98"
         },
         {
-          "file": "sounds/ara-ara-sayounara.mp3",
-          "label": "Shinobu - ara ara sayounara (あらあらさようなら!)",
-          "sha256": "50b92751c703e5bb0882da3f4607c83b9ee3ba7921a97360ae5cd8bde4ffe80e"
+          "file": "sounds/nantoka-osshattara.mp3",
+          "label": "Shinobu - nantoka osshattara (なんとかおっしゃったらどうですか?)",
+          "sha256": "f9fd888bff2a3a1f03eae15abf7f457da3302e2800fe70f98ce4848f26153b9c"
         }
       ]
     },
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/ouen-shitemasu.mp3",
-          "label": "Shinobu - ouen shitemasu (一番応援していますよ!)",
-          "sha256": "b553bf3dfb3f15a54cfcdac353f4de5a1b93b70a8eb94627e94130a61a6d8f74"
+          "file": "sounds/ara-ara-sayounara.mp3",
+          "label": "Shinobu - ara ara sayounara (あらあらさようなら!)",
+          "sha256": "50b92751c703e5bb0882da3f4607c83b9ee3ba7921a97360ae5cd8bde4ffe80e"
         }
       ]
     }

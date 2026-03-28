@@ -47,16 +47,6 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/jakusha-ga-imouto.mp3",
-          "label": "Giyu - jakusha ga imouto (弱者が妹を治す?)",
-          "sha256": "7300d9c6f4cb986576b8548ff0e7a5fcb67241cb92f10a79ca13b0a83b7c6780"
-        },
-        {
-          "file": "sounds/jakusha-kenri-nai.mp3",
-          "label": "Giyu - jakusha ni kenri nai (弱者には何の権利も選択肢もない)",
-          "sha256": "397d25dc5c06832bf30b6a6e556bb73589f4ca8d594d48cfd23386d0b2114edf"
-        },
-        {
           "file": "sounds/nagi.mp3",
           "label": "凪 (Dead Calm - 拾壱ノ型)",
           "sha256": "8d2ebf10f7a0e76216efd020c61e77fbed5d86a7a563cec571301866f263595f"
@@ -69,6 +59,16 @@
           "file": "sounds/tsuyosha-ni-nejifuserareru.mp3",
           "label": "Giyu - tsuyosha ni nejifuserareru (強者にねじ伏せられるのみ)",
           "sha256": "d6b441e7d1b1b8be366b0256c8796129d2165d27854e5bc7be87a2ad7d6b732b"
+        },
+        {
+          "file": "sounds/jakusha-ga-imouto.mp3",
+          "label": "Giyu - jakusha ga imouto (弱者が妹を治す?)",
+          "sha256": "7300d9c6f4cb986576b8548ff0e7a5fcb67241cb92f10a79ca13b0a83b7c6780"
+        },
+        {
+          "file": "sounds/jakusha-kenri-nai.mp3",
+          "label": "Giyu - jakusha ni kenri nai (弱者には何の権利も選択肢もない)",
+          "sha256": "397d25dc5c06832bf30b6a6e556bb73589f4ca8d594d48cfd23386d0b2114edf"
         }
       ]
     },

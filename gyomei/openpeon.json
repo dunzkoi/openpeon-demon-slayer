@@ -26,11 +26,6 @@
           "file": "sounds/umarete-kita-kawaisou.mp3",
           "label": "Gyomei voice 2 (인사)",
           "sha256": "6b93369f9fbffd5016e71ae223e3305544757709bf871680192810a3289132cf"
-        },
-        {
-          "file": "sounds/owari-da-yosha-muyou.mp3",
-          "label": "終わりだ 容赦無用 (It's over. No mercy.)",
-          "sha256": "8788db3b399ec585d179beb9f1f31880507a4842f7da7a2c28c0ac2381fcded1"
         }
       ]
     },
@@ -45,6 +40,11 @@
           "file": "sounds/kodomo-wo-korose.mp3",
           "label": "Gyomei voice 4 (완료)",
           "sha256": "98c216e7b93b9059bdae5560c8c12a6c2675668836761e6f6014c298ab50f5de"
+        },
+        {
+          "file": "sounds/owari-da-yosha-muyou.mp3",
+          "label": "終わりだ 容赦無用 (It's over. No mercy.)",
+          "sha256": "8788db3b399ec585d179beb9f1f31880507a4842f7da7a2c28c0ac2381fcded1"
         }
       ]
     },

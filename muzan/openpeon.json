@@ -36,20 +36,16 @@
           "file": "sounds/silence-muzan-2.mp3",
           "label": "Muzan - silence (沈黙の威圧)",
           "sha256": "9fa8ee37b8765274ceedb22bf118c38f3f37da928e050bd90e468c2f1cfef1e1"
-        }
-      ]
-    },
-    "task.complete": {
-      "sounds": [
-        {
-          "file": "sounds/hanafuda-no-kazari.mp3",
-          "label": "Muzan - hanafuda no kazari (耳に花札のような飾りをつけた)",
-          "sha256": "02a555be64440bb6eda5003f5d7769346f4187510ab7ee3e835ec8c7a1234f02"
         },
         {
           "file": "sounds/jougen-kaoburenai.mp3",
           "label": "Muzan - jougen kaoburenai (上弦は顔ブレが変わらない)",
           "sha256": "9ae5eff070a0134e6797b0b5aed095e0a87284fa4f78ec7b4e5874a04a8cbe53"
+        },
+        {
+          "file": "sounds/chi-wo-wakete-yaru.mp3",
+          "label": "Muzan - chi wo wakete yaru (血を分けてやる)",
+          "sha256": "05a3af73cbb57dfe87e11fc2ef90e0f59e9cd1c1e676b30fbe25fb68c93f52e8"
         }
       ]
     },
@@ -90,9 +86,9 @@
           "sha256": "8e2689734ee0f6104caa1b4e812849c2f2feca2dc7b6dd293082a6e3fa322b58"
         },
         {
-          "file": "sounds/chi-wo-wakete-yaru.mp3",
-          "label": "Muzan - chi wo wakete yaru (血を分けてやる)",
-          "sha256": "05a3af73cbb57dfe87e11fc2ef90e0f59e9cd1c1e676b30fbe25fb68c93f52e8"
+          "file": "sounds/hanafuda-no-kazari.mp3",
+          "label": "Muzan - hanafuda no kazari (耳に花札のような飾りをつけた)",
+          "sha256": "02a555be64440bb6eda5003f5d7769346f4187510ab7ee3e835ec8c7a1234f02"
         }
       ]
     },

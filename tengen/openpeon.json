@@ -14,11 +14,6 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/nanda.mp3",
-          "label": "Nanda? (뭐야?)",
-          "sha256": "c7db0e8108de6e4df4e0394bf5695c0748eef9449088e238be5a1182fd811dac"
-        },
-        {
           "file": "sounds/jimi-ni-hipparu-na.mp3",
           "label": "Tengen voice 1 (등장)",
           "sha256": "5d69f4e235a9bcab98215be1e4760260b9867ad2874ab7dabcc4a928b24cba94"
@@ -78,6 +73,11 @@
           "file": "sounds/nani.mp3",
           "label": "Nani? (뭐?)",
           "sha256": "c863b5d5b240cc4abb7d8855884831ee7cb78082c9f50ac41fdceaa4dbcce618"
+        },
+        {
+          "file": "sounds/nanda.mp3",
+          "label": "Nanda? (뭐야?)",
+          "sha256": "c7db0e8108de6e4df4e0394bf5695c0748eef9449088e238be5a1182fd811dac"
         }
       ]
     },

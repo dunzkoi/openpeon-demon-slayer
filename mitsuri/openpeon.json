@@ -40,6 +40,11 @@
           "file": "sounds/koi-no-kokyu-ichi-no-kata.mp3",
           "label": "恋の呼吸 壱ノ型 初恋のわななき (Love Breathing 1st Form)",
           "sha256": "01ef768cf3faaf8b8a8b371ba43fab778680e36e75b4e6470ab8acace1aa5b95"
+        },
+        {
+          "file": "sounds/koi-no-kokyuu-5.mp3",
+          "label": "Mitsuri voice 4 (기쁨)",
+          "sha256": "ae9e669f94611e170c47618b047ae07314df8d2d932c53291676c2bcbe2b53ba"
         }
       ]
     },
@@ -58,15 +63,6 @@
           "file": "sounds/koi-no-kokyuu-1.mp3",
           "label": "Mitsuri voice 6 (확인 필요)",
           "sha256": "06cb7c5d6bac064c2f16a17b5028ced4befe373aff971aaa3a6b96ea01c0220b"
-        }
-      ]
-    },
-    "resource.limit": {
-      "sounds": [
-        {
-          "file": "sounds/koi-no-kokyuu-5.mp3",
-          "label": "Mitsuri voice 4 (기쁨)",
-          "sha256": "ae9e669f94611e170c47618b047ae07314df8d2d932c53291676c2bcbe2b53ba"
         }
       ]
     }

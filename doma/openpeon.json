@@ -19,24 +19,9 @@
           "sha256": "16980ceb5be5f0c7cc0244d487acdd45246d6468c4bbfb07d3c8f500e0d9b391"
         },
         {
-          "file": "sounds/makoto-ni.mp3",
-          "label": "Doma - makoto ni? (まことにございますか?)",
-          "sha256": "6f20c196985424bf1bc88198641adc132e87860dbb645c8ae988c105e809e45f"
-        },
-        {
           "file": "sounds/kanashii-koto-wo-osshainasaru.mp3",
           "label": "またそのように悲しいことをおっしゃいなさる (You say such sad things)",
           "sha256": "4eafce30cb0398c678c2265111b33e43a1d0d6ca3a201746f5dd78dc7cb2ebc9"
-        },
-        {
-          "file": "sounds/kitai-ni-kotaenakatta.mp3",
-          "label": "俺が期待に答えなかった時があったでしょうか (Have I ever failed you?)",
-          "sha256": "f89c27980095641776adfa8745e5052d8c0924835a8e8326c97205dde52f1380"
-        },
-        {
-          "file": "sounds/oyurushi-kudasaimase.mp3",
-          "label": "お許しくださいませ (Please forgive me)",
-          "sha256": "d91ffc3c28998c8ba4e11eea924145b44a0e2c249fdc82b8d241dab3f109cf96"
         }
       ]
     },
@@ -46,6 +31,11 @@
           "file": "sounds/okaeshi.mp3",
           "label": "Doma - okaeshi (おかえしたもの)",
           "sha256": "f698a6d81b593656d59efdd4e99ee422ac74b1ad21ec6857be1d5af6d282977e"
+        },
+        {
+          "file": "sounds/kitai-ni-kotaenakatta.mp3",
+          "label": "俺が期待に答えなかった時があったでしょうか (Have I ever failed you?)",
+          "sha256": "f89c27980095641776adfa8745e5052d8c0924835a8e8326c97205dde52f1380"
         }
       ]
     },
@@ -61,14 +51,14 @@
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/chotto-matte.mp3",
-          "label": "Doma - chotto matte (ちょっと待っておくれよ)",
-          "sha256": "0f40b387c5e2550ac8176b916aa2b2f9a82eacef49e04ffc1eb13ebe1c4d5ac9"
-        },
-        {
           "file": "sounds/onna-no-namakubi.mp3",
           "label": "Doma - onna no namakubi (女の生首を飾ってあるよ)",
           "sha256": "35d9095d7f6160ff94e5852cace929a45b3ade724417989ed20a33bd22114fa5"
+        },
+        {
+          "file": "sounds/oyurushi-kudasaimase.mp3",
+          "label": "お許しくださいませ (Please forgive me)",
+          "sha256": "d91ffc3c28998c8ba4e11eea924145b44a0e2c249fdc82b8d241dab3f109cf96"
         }
       ]
     },
@@ -78,6 +68,16 @@
           "file": "sounds/asobi-ni-oide.mp3",
           "label": "Doma - asobi ni oide (今度うちに遊びにおいで)",
           "sha256": "8053be12e1939832b28fe7b82488ab747e7389b0ab6816ed1f1cf9de5b03b0c0"
+        },
+        {
+          "file": "sounds/makoto-ni.mp3",
+          "label": "Doma - makoto ni? (まことにございますか?)",
+          "sha256": "6f20c196985424bf1bc88198641adc132e87860dbb645c8ae988c105e809e45f"
+        },
+        {
+          "file": "sounds/chotto-matte.mp3",
+          "label": "Doma - chotto matte (ちょっと待っておくれよ)",
+          "sha256": "0f40b387c5e2550ac8176b916aa2b2f9a82eacef49e04ffc1eb13ebe1c4d5ac9"
         }
       ]
     },

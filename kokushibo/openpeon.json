@@ -26,6 +26,11 @@
           "file": "sounds/muzan-sama.mp3",
           "label": "Kokushibo voice 02 (등장)",
           "sha256": "f7b139ea1ad1513ddf3f46f975f7d3cada3982eb400c2c888fd320dc0fe00f93"
+        },
+        {
+          "file": "sounds/nukaneba-bureida.mp3",
+          "label": "こちらも抜かねば無礼だな (I must draw my blade too)",
+          "sha256": "0ccf94752f67ea35c53b42e19b0f19c918af6f6642eedbd552daa6d0e629df05"
         }
       ]
     },
@@ -63,11 +68,6 @@
           "file": "sounds/kaesu-kotoba-mo-nai.mp3",
           "label": "Kokushibo voice 03 (알림)",
           "sha256": "533ce6ee33819be876b5169839bf84d35f5b052d50e71e1440426e70fc880463"
-        },
-        {
-          "file": "sounds/nukaneba-bureida.mp3",
-          "label": "こちらも抜かねば無礼だな (I must draw my blade too)",
-          "sha256": "0ccf94752f67ea35c53b42e19b0f19c918af6f6642eedbd552daa6d0e629df05"
         }
       ]
     },

@@ -64,11 +64,6 @@
           "file": "sounds/battle-cry.mp3",
           "label": "Inosuke voice 08 (에러)",
           "sha256": "f3dc1f40608586454e506047f9921ed61baf0f2e4cac40d70f9a53fbf087ce9d"
-        },
-        {
-          "file": "sounds/sabishii-n-dane.mp3",
-          "label": "Inosuke voice 09 (에러)",
-          "sha256": "86ef7d1af12b4ad8d511755d794352b615e091828ca491e2c7313eb3e623de77"
         }
       ]
     },
@@ -83,6 +78,11 @@
           "file": "sounds/kangaekata.mp3",
           "label": "Inosuke voice 10 (알림)",
           "sha256": "d093334d2e7b2043d47aa692735af4252b966ff3de70f4962f482b3f7d2fd4c3"
+        },
+        {
+          "file": "sounds/sabishii-n-dane.mp3",
+          "label": "Inosuke voice 09 (에러)",
+          "sha256": "86ef7d1af12b4ad8d511755d794352b615e091828ca491e2c7313eb3e623de77"
         }
       ]
     },
