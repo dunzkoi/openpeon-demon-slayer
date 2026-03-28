@@ -65,6 +65,15 @@
           "sha256": "06cb7c5d6bac064c2f16a17b5028ced4befe373aff971aaa3a6b96ea01c0220b"
         }
       ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/koi-no-kokyuu-1.mp3",
+          "label": "Mitsuri voice 6 (확인 필요)",
+          "sha256": "06cb7c5d6bac064c2f16a17b5028ced4befe373aff971aaa3a6b96ea01c0220b"
+        }
+      ]
     }
   }
 }

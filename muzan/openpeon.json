@@ -100,6 +100,15 @@
           "sha256": "8e2689734ee0f6104caa1b4e812849c2f2feca2dc7b6dd293082a6e3fa322b58"
         }
       ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/chi-wo-wakete-yaru.mp3",
+          "label": "Muzan - chi wo wakete yaru (血を分けてやる)",
+          "sha256": "05a3af73cbb57dfe87e11fc2ef90e0f59e9cd1c1e676b30fbe25fb68c93f52e8"
+        }
+      ]
     }
   }
 }

@@ -80,6 +80,15 @@
           "sha256": "088eee7560ce1aad3e3c786e862c58319ecae08893a07210ca069988b8003379"
         }
       ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/tanjiro.mp3",
+          "label": "Zenitsu - Tanjiro! (炭治郎!)",
+          "sha256": "b34a600078b2157665b6b5c09919aeef3bb5b472f9fd164768abded795fb9942"
+        }
+      ]
     }
   }
 }

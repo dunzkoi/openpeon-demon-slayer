@@ -91,6 +91,24 @@
           "sha256": "58cb5e0a93b8741c17de0f2ab5d8adb99acb63f3df03fa3ace58041a054dd832"
         }
       ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/yes.mp3",
+          "label": "Nezuko - yes! (うん!)",
+          "sha256": "8fb1cba7b52841f8722efc6d92be52294208a6bbe4fd487158763686c83dbeef"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/pout.mp3",
+          "label": "Nezuko - pout (삐짐)",
+          "sha256": "4c2c5ba66673eeae3bee7d6fe3a933d29e6256ebb0839e8f7464ea8400003daa"
+        }
+      ]
     }
   }
 }

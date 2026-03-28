@@ -90,6 +90,15 @@
           "sha256": "0881bb0159c5f0d0e52e8bd85a7054c0bda7d2e8e4274e586a0b759c38879c1a"
         }
       ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/subarashii.mp3",
+          "label": "素晴らしい (Splendid!)",
+          "sha256": "38b7a720513014e4c1578952fdb6d2c8168e82781d479433d59199d6f971a571"
+        }
+      ]
     }
   }
 }

@@ -86,6 +86,24 @@
           "sha256": "52525f81334c1bd6443a3e3186c3f0f6fb4b79edad51393531c259c7b00af0a9"
         }
       ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/ore-ga-shinu.mp3",
+          "label": "Rengoku - ore ga shinu (俺がここで死ぬことは気にするな)",
+          "sha256": "a5095c8fe5d278d006e987ec9bb6a14a3db4f0b7861df52acf0e724710ca8cda"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/ore-ga-shinu.mp3",
+          "label": "Rengoku - ore ga shinu (俺がここで死ぬことは気にするな)",
+          "sha256": "a5095c8fe5d278d006e987ec9bb6a14a3db4f0b7861df52acf0e724710ca8cda"
+        }
+      ]
     }
   }
 }
