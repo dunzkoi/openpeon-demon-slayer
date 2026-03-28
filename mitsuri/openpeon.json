@@ -32,11 +32,6 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/ganbarishou.mp3",
-          "label": "Mitsuri voice 3 (완료)",
-          "sha256": "5a154cc5eced68fcbab895969096b449828502d6048a12a3cf12fc7f3f0926a7"
-        },
-        {
           "file": "sounds/koi-no-kokyu-ichi-no-kata.mp3",
           "label": "恋の呼吸 壱ノ型 初恋のわななき (Love Breathing 1st Form)",
           "sha256": "01ef768cf3faaf8b8a8b371ba43fab778680e36e75b4e6470ab8acace1aa5b95"
@@ -69,9 +64,9 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/koi-no-kokyuu-1.mp3",
-          "label": "Mitsuri voice 6 (확인 필요)",
-          "sha256": "06cb7c5d6bac064c2f16a17b5028ced4befe373aff971aaa3a6b96ea01c0220b"
+          "file": "sounds/ganbarishou.mp3",
+          "label": "Mitsuri voice 3 (완료)",
+          "sha256": "5a154cc5eced68fcbab895969096b449828502d6048a12a3cf12fc7f3f0926a7"
         }
       ]
     }

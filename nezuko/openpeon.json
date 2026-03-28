@@ -65,21 +65,11 @@
           "file": "sounds/pout.mp3",
           "label": "Nezuko - pout (삐짐)",
           "sha256": "4c2c5ba66673eeae3bee7d6fe3a933d29e6256ebb0839e8f7464ea8400003daa"
-        },
-        {
-          "file": "sounds/neisukoccha.mp3",
-          "label": "Nezuko - upset (속상)",
-          "sha256": "319e95af4839914657535b9bfb7d4a63b3570c04660598a8a56129a2314490b6"
         }
       ]
     },
     "input.required": {
       "sounds": [
-        {
-          "file": "sounds/curious.mp3",
-          "label": "Nezuko - curious (궁금)",
-          "sha256": "de9441c6cda22bb458568c7a38d5a1708786bf27f0b603342113a2ccb8966e0d"
-        },
         {
           "file": "sounds/nn-nn-nn.mp3",
           "label": "Nezuko - nn? nn? (んん? んん?)",
@@ -95,18 +85,18 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/yes.mp3",
-          "label": "Nezuko - yes! (うん!)",
-          "sha256": "8fb1cba7b52841f8722efc6d92be52294208a6bbe4fd487158763686c83dbeef"
+          "file": "sounds/curious.mp3",
+          "label": "Nezuko - curious (궁금)",
+          "sha256": "de9441c6cda22bb458568c7a38d5a1708786bf27f0b603342113a2ccb8966e0d"
         }
       ]
     },
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/pout.mp3",
-          "label": "Nezuko - pout (삐짐)",
-          "sha256": "4c2c5ba66673eeae3bee7d6fe3a933d29e6256ebb0839e8f7464ea8400003daa"
+          "file": "sounds/neisukoccha.mp3",
+          "label": "Nezuko - upset (속상)",
+          "sha256": "319e95af4839914657535b9bfb7d4a63b3570c04660598a8a56129a2314490b6"
         }
       ]
     }

@@ -62,16 +62,6 @@
           "sha256": "08e6a22984cf0ae3cd392afae55571a544b351f5eaeec5861bf6d3552a670058"
         },
         {
-          "file": "sounds/ningen-chigai.mp3",
-          "label": "Muzan - ningen chigai (人間など見ただけでは違いがわからない)",
-          "sha256": "38dfb41d75cbbbda2ff6c2a716f824e318511cee0a8d7ee1eaf87f3b613c01ad"
-        },
-        {
-          "file": "sounds/shinidaishi.mp3",
-          "label": "Muzan - shinidaishi (死に大使)",
-          "sha256": "03d9bb46f84317477dacdacdceff38d328bd9f4a47da22de63cb0a2d6897ddae"
-        },
-        {
           "file": "sounds/damare.mp3",
           "label": "黙れ 私は何も間違えない (Shut up. I make no mistakes.)",
           "sha256": "516d18e3b09fd4cbe6d72f98cbec688295ef4b7e71272e19d2f533d3c738a641"
@@ -95,18 +85,18 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/infinite-castle-sound.mp3",
-          "label": "Muzan - Infinite Castle (無限城 効果音)",
-          "sha256": "8e2689734ee0f6104caa1b4e812849c2f2feca2dc7b6dd293082a6e3fa322b58"
+          "file": "sounds/ningen-chigai.mp3",
+          "label": "Muzan - ningen chigai (人間など見ただけでは違いがわからない)",
+          "sha256": "38dfb41d75cbbbda2ff6c2a716f824e318511cee0a8d7ee1eaf87f3b613c01ad"
         }
       ]
     },
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/chi-wo-wakete-yaru.mp3",
-          "label": "Muzan - chi wo wakete yaru (血を分けてやる)",
-          "sha256": "05a3af73cbb57dfe87e11fc2ef90e0f59e9cd1c1e676b30fbe25fb68c93f52e8"
+          "file": "sounds/shinidaishi.mp3",
+          "label": "Muzan - shinidaishi (死に大使)",
+          "sha256": "03d9bb46f84317477dacdacdceff38d328bd9f4a47da22de63cb0a2d6897ddae"
         }
       ]
     }

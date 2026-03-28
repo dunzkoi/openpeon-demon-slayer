@@ -33,11 +33,6 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/ore-ga-shinu.mp3",
-          "label": "Rengoku - ore ga shinu (俺がここで死ぬことは気にするな)",
-          "sha256": "a5095c8fe5d278d006e987ec9bb6a14a3db4f0b7861df52acf0e724710ca8cda"
-        },
-        {
           "file": "sounds/hashira-tate.mp3",
           "label": "Rengoku - hashira nara tate (柱ならば後輩の盾となるのは当然だ)",
           "sha256": "9eabc38fe5da042995ea88f06e2151caff6a46304a5dce1b21354ab33e522a11"
@@ -65,21 +60,11 @@
           "file": "sounds/ni-no-kata-nobori-enten.mp3",
           "label": "弐ノ型 昇り炎天 (2nd Form: Rising Scorching Sun)",
           "sha256": "7803b49a83987cbed0d35be1a82825f54c7037c8e4115a5c0558a4538d42aaa2"
-        },
-        {
-          "file": "sounds/ni-no-kata.mp3",
-          "label": "Rengoku - Ennokoyuu ni no kata (炎の呼吸 弐ノ型 昇り炎天)",
-          "sha256": "9ff4a9e133738b0296f19f9671c07bfbf00deb0c4e321160e7bc6642437ce3a0"
         }
       ]
     },
     "input.required": {
       "sounds": [
-        {
-          "file": "sounds/child-kyojuro-pt-2.mp3",
-          "label": "Child Kyojuro - hai okaa-ue! (はい!母上!)",
-          "sha256": "d63b681d302f6c258474d054ea4736e0637d11de8bd614bee0375c7a89793389"
-        },
         {
           "file": "sounds/mhh.mp3",
           "label": "Rengoku - hmm (んー)",
@@ -99,9 +84,9 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/ore-ga-shinu.mp3",
-          "label": "Rengoku - ore ga shinu (俺がここで死ぬことは気にするな)",
-          "sha256": "a5095c8fe5d278d006e987ec9bb6a14a3db4f0b7861df52acf0e724710ca8cda"
+          "file": "sounds/child-kyojuro-pt-2.mp3",
+          "label": "Child Kyojuro - hai okaa-ue! (はい!母上!)",
+          "sha256": "d63b681d302f6c258474d054ea4736e0637d11de8bd614bee0375c7a89793389"
         }
       ]
     }

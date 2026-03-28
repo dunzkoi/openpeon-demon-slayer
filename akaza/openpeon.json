@@ -36,11 +36,6 @@
           "file": "sounds/subarashii-2.mp3",
           "label": "素晴らしい (Splendid! variant)",
           "sha256": "739e67a8438de48456c8ac15ac0a6388549fb62761b0c877fb6a8c3c3f96656b"
-        },
-        {
-          "file": "sounds/motto-tatakaou.mp3",
-          "label": "Akaza - motto tatakaou! (もっと戦おう!)",
-          "sha256": "bba9dbbfa1ed6ab97270154144d626d618a980c8ad9bd133b2e76cdc7f9dbb36"
         }
       ]
     },
@@ -80,11 +75,6 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/ooo.mp3",
-          "label": "Akaza & Kokushibo (한계)",
-          "sha256": "69b78be7134d93f18b6fb8f516f0a90074a0f4727a8f5c7054b27d90fd3b935d"
-        },
-        {
           "file": "sounds/torikaeshi-tsukanai.mp3",
           "label": "Akaza - torikaeshi tsukanai (もう取り返しがつかない)",
           "sha256": "0881bb0159c5f0d0e52e8bd85a7054c0bda7d2e8e4274e586a0b759c38879c1a"
@@ -94,9 +84,9 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/subarashii.mp3",
-          "label": "素晴らしい (Splendid!)",
-          "sha256": "38b7a720513014e4c1578952fdb6d2c8168e82781d479433d59199d6f971a571"
+          "file": "sounds/motto-tatakaou.mp3",
+          "label": "Akaza - motto tatakaou! (もっと戦おう!)",
+          "sha256": "bba9dbbfa1ed6ab97270154144d626d618a980c8ad9bd133b2e76cdc7f9dbb36"
         }
       ]
     }

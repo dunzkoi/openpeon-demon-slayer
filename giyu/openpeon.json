@@ -28,11 +28,6 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/kazoku-wa-korosareteiru.mp3",
-          "label": "Giyu - kazoku wa korosareteiru (お前の家族は殺されていない!)",
-          "sha256": "dd06679e56459440c9bffcf7742e60cd814bc4b0efed33e7b26feaf5ec39e273"
-        },
-        {
           "file": "sounds/ugoke.mp3",
           "label": "動け (Move!)",
           "sha256": "d6f9c68d71d1bda2a513c4523eb2414ca43f7b4d1fca327720fb37604c52a566"
@@ -75,9 +70,9 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/nigerenaai.mp3",
-          "label": "Giyu - nigerenai (逃げれない)",
-          "sha256": "8a5c81afe020a839411a02806607267385d739bac7fcaae79a15356bbf08ac35"
+          "file": "sounds/kazoku-wa-korosareteiru.mp3",
+          "label": "Giyu - kazoku wa korosareteiru (お前の家族は殺されていない!)",
+          "sha256": "dd06679e56459440c9bffcf7742e60cd814bc4b0efed33e7b26feaf5ec39e273"
         }
       ]
     },
