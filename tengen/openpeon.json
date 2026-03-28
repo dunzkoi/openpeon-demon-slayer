@@ -45,6 +45,16 @@
           "file": "sounds/gudaguda-shiteru.mp3",
           "label": "Tengen voice 2 (완료)",
           "sha256": "d4f9dcaf08302367c2b1e596cb372a355c08ad09b87e31d6fc3f2cc507fa4d74"
+        },
+        {
+          "file": "sounds/oto-no-kokyu-go-no-kata.mp3",
+          "label": "音の呼吸 伍ノ型 鳴弦奏々 (Sound Breathing 5th Form)",
+          "sha256": "2b6fefd85ca25d0f9de253fd9dbd1840f9b35d874eb1cd20615169162561bba4"
+        },
+        {
+          "file": "sounds/oto-no-kokyu-ichi-no-kata.mp3",
+          "label": "音の呼吸 壱ノ型 轟 (Sound Breathing 1st Form: Roar)",
+          "sha256": "9660cac97a2d3b7297b6d21c2525e7b8e13e45038b753bdae483bc4572a151bd"
         }
       ]
     },

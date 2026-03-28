@@ -60,6 +60,11 @@
           "file": "sounds/shoubu-de-ganbari.mp3",
           "label": "Tanjiro - shoubu de ganbari (勝負で頑張りつける!)",
           "sha256": "fe4ccc7a878db4e723531ac14e354aab4602b9c4109d73d1e6bcbf23aed16ea0"
+        },
+        {
+          "file": "sounds/hinokami-kagura-hekira-no-ten.mp3",
+          "label": "ヒノカミ神楽 碧羅の天 (Hinokami Kagura: Clear Blue Sky)",
+          "sha256": "2e199ae3ded5690863202dbe5a7ac30cc19166fb632d2eeec291cbbca291a5cd"
         }
       ]
     },

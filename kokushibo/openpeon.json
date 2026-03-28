@@ -40,6 +40,11 @@
           "file": "sounds/omae-no-tame-ja-nai.mp3",
           "label": "Kokushibo voice 05 (완료)",
           "sha256": "cd1cfa90c560ea6221e90a9d19406287ece28a22a3bd8fb16a8f59e548c7fb02"
+        },
+        {
+          "file": "sounds/tsuki-no-kokyu-ichi-no-kata.mp3",
+          "label": "月の呼吸 壱ノ型 (Moon Breathing 1st Form)",
+          "sha256": "f69cbaff42eabf0548f007087e66664aac0341415f3240df260e2652e875d0ff"
         }
       ]
     },
@@ -58,6 +63,11 @@
           "file": "sounds/kaesu-kotoba-mo-nai.mp3",
           "label": "Kokushibo voice 03 (알림)",
           "sha256": "533ce6ee33819be876b5169839bf84d35f5b052d50e71e1440426e70fc880463"
+        },
+        {
+          "file": "sounds/nukaneba-bureida.mp3",
+          "label": "こちらも抜かねば無礼だな (I must draw my blade too)",
+          "sha256": "0ccf94752f67ea35c53b42e19b0f19c918af6f6642eedbd552daa6d0e629df05"
         }
       ]
     },

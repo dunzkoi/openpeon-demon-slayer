@@ -22,6 +22,21 @@
           "file": "sounds/makoto-ni.mp3",
           "label": "Doma - makoto ni? (まことにございますか?)",
           "sha256": "6f20c196985424bf1bc88198641adc132e87860dbb645c8ae988c105e809e45f"
+        },
+        {
+          "file": "sounds/kanashii-koto-wo-osshainasaru.mp3",
+          "label": "またそのように悲しいことをおっしゃいなさる (You say such sad things)",
+          "sha256": "4eafce30cb0398c678c2265111b33e43a1d0d6ca3a201746f5dd78dc7cb2ebc9"
+        },
+        {
+          "file": "sounds/kitai-ni-kotaenakatta.mp3",
+          "label": "俺が期待に答えなかった時があったでしょうか (Have I ever failed you?)",
+          "sha256": "f89c27980095641776adfa8745e5052d8c0924835a8e8326c97205dde52f1380"
+        },
+        {
+          "file": "sounds/oyurushi-kudasaimase.mp3",
+          "label": "お許しくださいませ (Please forgive me)",
+          "sha256": "d91ffc3c28998c8ba4e11eea924145b44a0e2c249fdc82b8d241dab3f109cf96"
         }
       ]
     },

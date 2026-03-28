@@ -45,6 +45,11 @@
           "file": "sounds/nain-da-yo-ne.mp3",
           "label": "Muichiro voice 07 (완료)",
           "sha256": "53bea11d898ae006ee7924b8e6b6f7c31a9f9a442ab1ebe5a87a4b61ad233533"
+        },
+        {
+          "file": "sounds/kasumi-no-kokyu-shi-no-kata.mp3",
+          "label": "霞の呼吸 肆ノ型 移流斬り (Mist Breathing 4th Form)",
+          "sha256": "706e8a36055824db81ffe9c8e691cdf3ae3ae420f123f9fdb7e5b6bf11f840bd"
         }
       ]
     },

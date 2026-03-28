@@ -55,6 +55,11 @@
           "file": "sounds/hashira-tate.mp3",
           "label": "Rengoku - hashira nara tate (柱ならば後輩の盾となるのは当然だ)",
           "sha256": "9eabc38fe5da042995ea88f06e2151caff6a46304a5dce1b21354ab33e522a11"
+        },
+        {
+          "file": "sounds/ni-no-kata-nobori-enten.mp3",
+          "label": "弐ノ型 昇り炎天 (2nd Form: Rising Scorching Sun)",
+          "sha256": "7803b49a83987cbed0d35be1a82825f54c7037c8e4115a5c0558a4538d42aaa2"
         }
       ]
     },

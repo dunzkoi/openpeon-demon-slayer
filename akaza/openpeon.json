@@ -31,6 +31,16 @@
           "file": "sounds/oni-ni-nare.mp3",
           "label": "Akaza - oni ni nare! (鬼になれ!)",
           "sha256": "366471238d53d6f538aa9f3eb1f6428f7f0cba35c0e0a9e2eb9cdfae1b775222"
+        },
+        {
+          "file": "sounds/subarashii.mp3",
+          "label": "素晴らしい (Splendid!)",
+          "sha256": "38b7a720513014e4c1578952fdb6d2c8168e82781d479433d59199d6f971a571"
+        },
+        {
+          "file": "sounds/subarashii-2.mp3",
+          "label": "素晴らしい (Splendid! variant)",
+          "sha256": "739e67a8438de48456c8ac15ac0a6388549fb62761b0c877fb6a8c3c3f96656b"
         }
       ]
     },

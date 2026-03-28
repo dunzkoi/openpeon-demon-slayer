@@ -63,6 +63,11 @@
           "file": "sounds/shiawase-na-yume.mp3",
           "label": "Enmu voice 11 (알림)",
           "sha256": "de1726865609895d9cd1ec2b3512bf9e7d9d3c18ce876f385cb0d8f8cad6af7a"
+        },
+        {
+          "file": "sounds/onemuri.mp3",
+          "label": "お眠り (Go to sleep...)",
+          "sha256": "9c74ebe5b6041d2a5067054df639bb9ba83258df261b686f820ad48406406d92"
         }
       ]
     },

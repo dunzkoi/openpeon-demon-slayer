@@ -35,6 +35,11 @@
           "file": "sounds/ganbarishou.mp3",
           "label": "Mitsuri voice 3 (완료)",
           "sha256": "5a154cc5eced68fcbab895969096b449828502d6048a12a3cf12fc7f3f0926a7"
+        },
+        {
+          "file": "sounds/koi-no-kokyu-ichi-no-kata.mp3",
+          "label": "恋の呼吸 壱ノ型 初恋のわななき (Love Breathing 1st Form)",
+          "sha256": "01ef768cf3faaf8b8a8b371ba43fab778680e36e75b4e6470ab8acace1aa5b95"
         }
       ]
     },

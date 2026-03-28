@@ -45,6 +45,11 @@
           "file": "sounds/nantoka-osshattara.mp3",
           "label": "Shinobu - nantoka osshattara (なんとかおっしゃったらどうですか?)",
           "sha256": "f9fd888bff2a3a1f03eae15abf7f457da3302e2800fe70f98ce4848f26153b9c"
+        },
+        {
+          "file": "sounds/mushi-no-kokyu-chou-no-mai.mp3",
+          "label": "蟲の呼吸 蝶ノ舞 戯れ (Insect Breathing: Butterfly Dance)",
+          "sha256": "9594fc7a116fb78589c7e93c6385637af55b9c1966323d37934f50dd8e502b02"
         }
       ]
     },

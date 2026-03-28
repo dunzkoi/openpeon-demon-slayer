@@ -31,6 +31,11 @@
           "file": "sounds/fuu-n-roku-ne.mp3",
           "label": "Obanai - fuun roku ne (ふーん、六ね)",
           "sha256": "66ed0cdee3cb6c33d4e49a81f7cfc69fb9baf9f261467ec5bd52264fcacc8192"
+        },
+        {
+          "file": "sounds/koko-kara-ga-honban-da.mp3",
+          "label": "ここからが本番だ (The real fight starts now)",
+          "sha256": "e0e9ecebf321c4e498101a968aeb2ab183340da51f1495df250fafc726f24b58"
         }
       ]
     },
@@ -50,6 +55,11 @@
           "file": "sounds/homete-yatte-mo-ii.mp3",
           "label": "Obanai - homete yatte mo ii (褒めてやってもいい)",
           "sha256": "9a64098136e14c640dac2537bf25be7cadc065922686ea7117f069da5b38de99"
+        },
+        {
+          "file": "sounds/hebi-no-kokyu-go-no-kata.mp3",
+          "label": "蛇の呼吸 伍ノ型 (Serpent Breathing 5th Form)",
+          "sha256": "8b7833237393480ba469e502fc4bddc5a1c45f462931e861b8363184f493aa63"
         }
       ]
     },

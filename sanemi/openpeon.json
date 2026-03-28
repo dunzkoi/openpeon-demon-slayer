@@ -26,6 +26,16 @@
           "file": "sounds/omoshiroi.mp3",
           "label": "Sanemi voice 1 (등장)",
           "sha256": "f9251636db73bf1ad9dbdb75a5026813937e31f88e3b951ac1366b329112ba1a"
+        },
+        {
+          "file": "sounds/ikki-ni-kizande-yaru-ze.mp3",
+          "label": "一気に刻んでやるぜ! (I'll slice you to pieces!)",
+          "sha256": "d06f700660f0492908f7496c268dacb8112fddf432a076b16551f07a6ea6febd"
+        },
+        {
+          "file": "sounds/uchikorosu.mp3",
+          "label": "打ち殺す! (I'll beat you to death!)",
+          "sha256": "1369a89217ae798943681e39117bd1581d1935ccb4f99a63502dc8c789d840bb"
         }
       ]
     },
@@ -40,6 +50,11 @@
           "file": "sounds/oni-wo-tsureta-baka.mp3",
           "label": "Sanemi voice 2 (완료)",
           "sha256": "bf87838cb8956ae8c8f3dfb432190107d344a4278db56f7b48f3a27252a260cd"
+        },
+        {
+          "file": "sounds/kaze-no-kokyu.mp3",
+          "label": "風の呼吸! (Wind Breathing!)",
+          "sha256": "a984831c7501a968827466aa1a981dd7e042563537dabef3ef17104a0a527a9c"
         }
       ]
     },

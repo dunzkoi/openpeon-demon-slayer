@@ -45,6 +45,11 @@
           "file": "sounds/chan-ringtones.mp3",
           "label": "Zenitsu - Nezuko-chan~ ringtone (ねずこちゃーん)",
           "sha256": "7db02d3d707d17984b24144b15cdfdc1bdd6927e92a9a2f79aceaa496802248d"
+        },
+        {
+          "file": "sounds/kaminari-no-kokyu-hekireki-issen.mp3",
+          "label": "雷の呼吸 壱ノ型 霹靂一閃 (Thunder Breathing: Thunderclap and Flash)",
+          "sha256": "b2d7e90b0560c6af977965efacdf9208f75d308e82084833498697463b2f110f"
         }
       ]
     },

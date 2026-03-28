@@ -50,6 +50,11 @@
           "file": "sounds/baby-laugh.mp3",
           "label": "Nezuko - baby laugh (아기 웃음)",
           "sha256": "fac1e03388f8269c07ab7f8110ae0e90ce533e559c6a04715ffa79a4a69445a6"
+        },
+        {
+          "file": "sounds/chikijutsu-bakketsu.mp3",
+          "label": "血鬼術 爆血! (Blood Demon Art: Exploding Blood!)",
+          "sha256": "cac0fb8f2d18711419707c7282b447fc72cfa83712afb9af8edffc5acc845de1"
         }
       ]
     },

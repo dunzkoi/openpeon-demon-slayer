@@ -45,6 +45,16 @@
           "file": "sounds/nameru-na.mp3",
           "label": "Inosuke voice 07 (완료)",
           "sha256": "10df7057709e5217525696f541f6f8d9cdbdfc6218e705757439b337e697f642"
+        },
+        {
+          "file": "sounds/kedamono-kokyu-roku-no-kiba.mp3",
+          "label": "獣の呼吸 六ノ牙 (Beast Breathing 6th Fang)",
+          "sha256": "bd57ea8206f5f168cf017a1d409aaa24b7f23aed6a8a7eb5e628c45863afbc62"
+        },
+        {
+          "file": "sounds/kedamono-kokyu-nana-no-kiba.mp3",
+          "label": "獣の呼吸 七ノ牙 空間識覚 (7th Fang: Spatial Awareness)",
+          "sha256": "6315d70976c8f5b9987de4b3d6169ffad322dd34d8ca50cf19cb667eb9211a4b"
         }
       ]
     },

@@ -31,6 +31,16 @@
           "file": "sounds/kazoku-wa-korosareteiru.mp3",
           "label": "Giyu - kazoku wa korosareteiru (お前の家族は殺されていない!)",
           "sha256": "dd06679e56459440c9bffcf7742e60cd814bc4b0efed33e7b26feaf5ec39e273"
+        },
+        {
+          "file": "sounds/ugoke.mp3",
+          "label": "動け (Move!)",
+          "sha256": "d6f9c68d71d1bda2a513c4523eb2414ca43f7b4d1fca327720fb37604c52a566"
+        },
+        {
+          "file": "sounds/ikuzo.mp3",
+          "label": "行くぞ (Let's go)",
+          "sha256": "00b28d328bae9a3a88c1e8644c86b98a2ba362e4defe9d4c8747a1eb74ac0fae"
         }
       ]
     },
@@ -45,6 +55,11 @@
           "file": "sounds/jakusha-kenri-nai.mp3",
           "label": "Giyu - jakusha ni kenri nai (弱者には何の権利も選択肢もない)",
           "sha256": "397d25dc5c06832bf30b6a6e556bb73589f4ca8d594d48cfd23386d0b2114edf"
+        },
+        {
+          "file": "sounds/nagi.mp3",
+          "label": "凪 (Dead Calm - 拾壱ノ型)",
+          "sha256": "8d2ebf10f7a0e76216efd020c61e77fbed5d86a7a563cec571301866f263595f"
         }
       ]
     },

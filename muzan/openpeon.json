@@ -74,6 +74,11 @@
           "file": "sounds/shinidaishi.mp3",
           "label": "Muzan - shinidaishi (死に大使)",
           "sha256": "03d9bb46f84317477dacdacdceff38d328bd9f4a47da22de63cb0a2d6897ddae"
+        },
+        {
+          "file": "sounds/damare.mp3",
+          "label": "黙れ 私は何も間違えない (Shut up. I make no mistakes.)",
+          "sha256": "516d18e3b09fd4cbe6d72f98cbec688295ef4b7e71272e19d2f533d3c738a641"
         }
       ]
     },

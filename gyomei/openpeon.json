@@ -26,6 +26,11 @@
           "file": "sounds/umarete-kita-kawaisou.mp3",
           "label": "Gyomei voice 2 (인사)",
           "sha256": "6b93369f9fbffd5016e71ae223e3305544757709bf871680192810a3289132cf"
+        },
+        {
+          "file": "sounds/owari-da-yosha-muyou.mp3",
+          "label": "終わりだ 容赦無用 (It's over. No mercy.)",
+          "sha256": "8788db3b399ec585d179beb9f1f31880507a4842f7da7a2c28c0ac2381fcded1"
         }
       ]
     },
@@ -58,6 +63,11 @@
           "file": "sounds/zansetsu-sareta.mp3",
           "label": "Gyomei voice 7 (확인 필요)",
           "sha256": "c36066441e80e795522bf542145968c23ba03adda23a86bd42daad69dcfb55d2"
+        },
+        {
+          "file": "sounds/namuamidabutsu.mp3",
+          "label": "南無阿弥陀仏 (Namu Amida Butsu)",
+          "sha256": "043fc43d6dd4631b0bbc6433d5839344f1f02fc105889a32b837062582f20aa0"
         }
       ]
     },
